@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Acorn Snail",
+    "sellPrice": "75",
+    "energy": "300",
+    "ripples": "White",
+    "zones": [
+      "Honeyglow Woods"
+    ],
+    "ingredientCategory": "Dairy and Oil",
+    "notes": null
+  },
+  {
+    "name": "Anglerfish",
+    "sellPrice": "1,500",
+    "energy": "2,000",
+    "ripples": "Gold",
+    "zones": [
+      "Forgotten Lands",
+      "Peaceful Meadow"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Bass",
+    "sellPrice": "25",
+    "energy": "150",
+    "ripples": "None or White",
+    "zones": [
+      "Forest of Valor",
+      "Sunlit Plateau",
+      "Frosted Heights",
+      "Oasis"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Bream",
+    "sellPrice": "280",
+    "energy": "700",
+    "ripples": "Blue",
+    "zones": [
+      "Wild Tangle",
+      "Peaceful Meadow"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Brilliant Blue Starfish",
+    "sellPrice": "875",
+    "energy": "1,650",
+    "ripples": "Gold",
+    "zones": [
+      "The Oasis"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Carp",
+    "sellPrice": "400",
+    "energy": "800",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Forest of Valor",
+      "Sunlit Plateau"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Catfish",
+    "sellPrice": "550",
+    "energy": "1,200",
+    "ripples": "Gold",
+    "zones": [
+      "Peaceful Meadow",
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Cod",
+    "sellPrice": "35",
+    "energy": "150",
+    "ripples": "None or White",
+    "zones": [
+      "Forgotten Lands",
+      "Glade of Trust",
+      "The Docks",
+      "The Overlook",
+      "Everafter"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Crab",
+    "sellPrice": "600",
+    "energy": "1,200",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Glamour Gulch",
+      "Frosted Heights",
+      "Wishing Alps"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Dunebopper",
+    "sellPrice": "550",
+    "energy": "1,100",
+    "ripples": "Blue",
+    "zones": [
+      "The Oasis"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Electric Eel",
+    "sellPrice": "1,025",
+    "energy": "1,550",
+    "ripples": "Gold",
+    "zones": [
+      "The Promenade"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Flying Fish",
+    "sellPrice": "60",
+    "energy": "150",
+    "ripples": "None, can be White",
+    "zones": [
+      "Mythopia"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Fugu",
+    "sellPrice": "900",
+    "energy": "1,700",
+    "ripples": "Gold",
+    "zones": [
+      "Dazzle Beach",
+      "Peaceful Meadow"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": "Requires rain"
+  },
+  {
+    "name": "Here and There Fish",
+    "sellPrice": "2,000",
+    "energy": "1,000",
+    "ripples": "None, can be White",
+    "zones": [
+      "Dazzle Beach",
+      "Glade of Trust",
+      "Forest of Valor",
+      "Sunlit Plateau",
+      "Frosted Heights"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": "Requires morning (6-10am) or evening (6-10pm) after completing Here and There Again"
+  },
+  {
+    "name": "Herring",
+    "sellPrice": "65",
+    "energy": "250",
+    "ripples": "White",
+    "zones": [
+      "Forgotten Lands",
+      "Dazzle Beach",
+      "Glade of Trust"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Hippocampus",
+    "sellPrice": "800",
+    "energy": "500",
+    "ripples": "White, can be Blue",
+    "zones": [
+      "Mythopia"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Jellied Fish",
+    "sellPrice": "1,000",
+    "energy": "1,500",
+    "ripples": "Gold",
+    "zones": [
+      "Glamour Gulch"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Kingfish",
+    "sellPrice": "450",
+    "energy": "800",
+    "ripples": "Blue",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": "Requires night (6pm-5am)"
+  },
+  {
+    "name": "Koi",
+    "sellPrice": "50",
+    "energy": "150",
+    "ripples": "None",
+    "zones": [
+      "The Bind"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Lancetfish",
+    "sellPrice": "650",
+    "energy": "1,300",
+    "ripples": "Blue,can be White",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Lamprey",
+    "sellPrice": "1,500",
+    "energy": "1,800",
+    "ripples": "Gold",
+    "zones": [
+      "Everafter"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Lobster",
+    "sellPrice": "950",
+    "energy": "1,600",
+    "ripples": "Gold",
+    "zones": [
+      "Glade of Trust"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Measuring-Tape Snail",
+    "sellPrice": null,
+    "energy": null,
+    "ripples": null,
+    "zones": [
+      "Glamour Gulch"
+    ],
+    "ingredientCategory": null,
+    "notes": null
+  },
+  {
+    "name": "Mountain Whitefish",
+    "sellPrice": "30",
+    "energy": "150",
+    "ripples": "White, can be None",
+    "zones": [
+      "Wishing Alps"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Mussel",
+    "sellPrice": "75",
+    "energy": "150",
+    "ripples": "None",
+    "zones": [
+      "Mythopia"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Octopus",
+    "sellPrice": "290",
+    "energy": "700",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "The Docks",
+      "The Overlook"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Perch",
+    "sellPrice": "80",
+    "energy": "400",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Forest of Valor",
+      "Sunlit Plateau",
+      "The Grove"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Pike",
+    "sellPrice": "800",
+    "energy": "1,500",
+    "ripples": "Gold",
+    "zones": [
+      "The Lagoon",
+      "Forest of Valor"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Piranha",
+    "sellPrice": "1,300",
+    "energy": "1,900",
+    "ripples": "Gold",
+    "zones": [
+      "The Lagoon",
+      "The Grasslands"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Pirarucu",
+    "sellPrice": "625",
+    "energy": "1,250",
+    "ripples": "Blue",
+    "zones": [
+      "The Promenade",
+      "The Grove"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Plush Fish",
+    "sellPrice": "900",
+    "energy": "1,400",
+    "ripples": "Gold",
+    "zones": [
+      "The Lagoon",
+      "Honeyglow Woods"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Pretty Pink Starfish",
+    "sellPrice": "875",
+    "energy": "1,500",
+    "ripples": "Gold",
+    "zones": [
+      "The Oasis"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Prisma Shrimp",
+    "sellPrice": "1,100",
+    "energy": "1,600",
+    "ripples": "Gold",
+    "zones": [
+      "The Grove"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Rainbow Trout",
+    "sellPrice": "50",
+    "energy": "300",
+    "ripples": "White",
+    "zones": [
+      "Peaceful Meadow",
+      "Forest of Valor"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Red Alpine Bass",
+    "sellPrice": "750",
+    "energy": "1,250",
+    "ripples": "Gold",
+    "zones": [
+      "Everafter",
+      "Wishing Alps"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Robot Fish",
+    "sellPrice": "625",
+    "energy": "1,350",
+    "ripples": "Gold",
+    "zones": [
+      "The Overlook"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Salmon",
+    "sellPrice": "150",
+    "energy": "500",
+    "ripples": "White, can be Blue",
+    "zones": [
+      "Frosted Heights",
+      "Sunlit Plateau",
+      "The Grasslands",
+      "The Promenade"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Sand Fish",
+    "sellPrice": "30",
+    "energy": "150",
+    "ripples": "None, can be White",
+    "zones": [
+      "The Plains",
+      "The Wastes",
+      "The Borderlands"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Sand Worm",
+    "sellPrice": "800",
+    "energy": "1,650",
+    "ripples": "Gold",
+    "zones": [
+      "The Plains",
+      "The Wastes",
+      "The Borderlands"
+    ],
+    "ingredientCategory": "Dairy and Oil",
+    "notes": null
+  },
+  {
+    "name": "Satin-Finned Betta",
+    "sellPrice": "450",
+    "energy": "950",
+    "ripples": "Blue",
+    "zones": [
+      "Glamour Gulch"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Scorpion",
+    "sellPrice": "425",
+    "energy": "900",
+    "ripples": "Blue (Pink)",
+    "zones": [
+      "The Plains",
+      "The Wastes",
+      "The Borderlands"
+    ],
+    "ingredientCategory": "Dairy and Oil",
+    "notes": null
+  },
+  {
+    "name": "Sea Snail",
+    "sellPrice": "250",
+    "energy": "800",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "The Docks",
+      "The Overlook"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Sea Wolf",
+    "sellPrice": "75",
+    "energy": "300",
+    "ripples": "White, can be Blue",
+    "zones": [
+      "The Bind"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Shad",
+    "sellPrice": "60",
+    "energy": "300",
+    "ripples": "White",
+    "zones": [
+      "The Docks",
+      "The Overlook"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Shrimp",
+    "sellPrice": "300",
+    "energy": "750",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Skeleton Fish",
+    "sellPrice": "100",
+    "energy": "500",
+    "ripples": "White, can be Blue (Pink)",
+    "zones": [
+      "The Plains",
+      "The Wastes",
+      "The Borderlands"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Sole",
+    "sellPrice": "200",
+    "energy": "500",
+    "ripples": "White, can be Blue",
+    "zones": [
+      "Forgotten Lands",
+      "The Docks",
+      "The Overlook"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Sorcerer Hat Hermit Crab",
+    "sellPrice": "800",
+    "energy": "1,500",
+    "ripples": "Gold",
+    "zones": [
+      "The Bind"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Squid",
+    "sellPrice": "500",
+    "energy": "1,000",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Glade of Trust",
+      "Forgotten Lands"
+    ],
+    "ingredientCategory": "Seafood",
+    "notes": null
+  },
+  {
+    "name": "Stygian Mudskipper",
+    "sellPrice": "1,500",
+    "energy": "1,800",
+    "ripples": "Gold",
+    "zones": [
+      "Mythopia",
+      "Mythopia"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Sweet Jelly",
+    "sellPrice": "450",
+    "energy": "900",
+    "ripples": "Blue",
+    "zones": [
+      "Honeyglow Woods"
+    ],
+    "ingredientCategory": "Sweets",
+    "notes": null
+  },
+  {
+    "name": "Swordfish",
+    "sellPrice": "700",
+    "energy": "1,500",
+    "ripples": "Gold",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Tigger Fish",
+    "sellPrice": "1,600",
+    "energy": "1,600",
+    "ripples": "Gold",
+    "zones": [
+      "Pixie Acres"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Tilapia",
+    "sellPrice": "600",
+    "energy": "1,150",
+    "ripples": "Blue, can be White",
+    "zones": [
+      "Sunlit Plateau",
+      "Frosted Heights",
+      "Pixie Acres"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Tuna",
+    "sellPrice": "95",
+    "energy": "350",
+    "ripples": "White, can be Blue",
+    "zones": [
+      "Forgotten Lands",
+      "Glade of Trust",
+      "The Bind",
+      "Wishing Alps"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Walleye",
+    "sellPrice": "1,100",
+    "energy": "1,700",
+    "ripples": "Gold",
+    "zones": [
+      "Sunlit Plateau"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "White Sturgeon",
+    "sellPrice": "1,250",
+    "energy": "1,800",
+    "ripples": "Gold",
+    "zones": [
+      "Frosted Heights"
+    ],
+    "ingredientCategory": "Fish",
+    "notes": null
+  },
+  {
+    "name": "Festive Anglerfish",
+    "sellPrice": null,
+    "energy": "2,000",
+    "ripples": "Red & Green",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Gift of Giving); requires night (6pm-5am)"
+  },
+  {
+    "name": "Festive Bass",
+    "sellPrice": null,
+    "energy": "150",
+    "ripples": "Red & Green",
+    "zones": [
+      "Peaceful Meadow"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Gift of Giving)"
+  },
+  {
+    "name": "Festive Fugu",
+    "sellPrice": null,
+    "energy": "1,700",
+    "ripples": "Red & Green",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Gift of Giving); requires rain"
+  },
+  {
+    "name": "Festive Salmon",
+    "sellPrice": null,
+    "energy": "500",
+    "ripples": "Red & Green",
+    "zones": [
+      "Sunlit Plateau"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Gift of Giving)"
+  },
+  {
+    "name": "Festive Squid",
+    "sellPrice": null,
+    "energy": "1,000",
+    "ripples": "Red & Green",
+    "zones": [
+      "Glade of Trust"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Gift of Giving)"
+  },
+  {
+    "name": "Fishy Green Egg",
+    "sellPrice": null,
+    "energy": "100",
+    "ripples": "Purple",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "ingredientCategory": null,
+    "notes": "Event-only (Eggstravaganza)"
+  }
+]

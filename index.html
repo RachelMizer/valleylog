@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valley Log</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-top">
+    <img class="app-logo" src="valley_log_logo_lt.png" alt="Valley Log">
+  </div>
+  <div class="header-search-row">
+    <label for="global-search">Search</label>
+    <div class="global-search">
+      <input type="search" id="global-search" placeholder="Search everything...">
+      <div id="global-search-results" class="search-results"></div>
+    </div>
+  </div>
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="villagers">Villagers</button>
+    <button class="tab-btn" data-tab="tasks">Tasks</button>
+    <button class="tab-btn" data-tab="recipes">Recipes</button>
+    <button class="tab-btn" data-tab="crops">Crops</button>
+    <button class="tab-btn" data-tab="creatures">Creatures</button>
+    <button class="tab-btn" data-tab="fish">Fish</button>
+    <button class="tab-btn" data-tab="gems">Gems &amp; Minerals</button>
+    <button class="tab-btn" data-tab="vendor">Vendor Ware</button>
+    <button class="tab-btn" data-tab="crafting">Crafting</button>
+  </nav>
+</header>
+
+<main>
+
+  <!-- VILLAGERS -->
+  <section id="tab-villagers" class="tab-panel active">
+    <div class="panel-toolbar">
+      <input type="search" id="villager-search" placeholder="Search villagers or realms...">
+      <button id="new-day-btn" title="Clear today's gifts, Scramblecoin, and discussion for everyone (keeps friendship levels)">🌅 New Day</button>
+      <button id="add-villager-btn">+ Add Villager</button>
+      <button id="clear-villagers-btn" class="danger" title="Remove every villager from your tracked list">🗑 Clear All</button>
+    </div>
+    <div id="villager-list" class="card-grid"></div>
+  </section>
+
+  <!-- TASKS -->
+  <section id="tab-tasks" class="tab-panel">
+    <form id="add-task-form" class="panel-toolbar">
+      <input type="text" id="task-text" placeholder="New task..." required>
+      <select id="task-category">
+        <option>Daily</option>
+        <option>Weekly</option>
+        <option>Quest</option>
+        <option>Other</option>
+      </select>
+      <button type="submit">+ Add Task</button>
+    </form>
+    <div id="task-list"></div>
+  </section>
+
+  <!-- RECIPES -->
+  <section id="tab-recipes" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="recipe-search" placeholder="Search recipes...">
+      <button id="add-recipe-btn">+ Add Recipe</button>
+      <button id="clear-recipes-btn" class="danger" title="Remove every recipe from your tracked list">🗑 Clear All</button>
+    </div>
+    <div id="recipe-list" class="card-grid"></div>
+  </section>
+
+  <!-- CROPS -->
+  <section id="tab-crops" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="crops-search" placeholder="Search crops, types, or zones...">
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="crops-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Name</th>
+            <th data-sort="ingredientType">Type</th>
+            <th data-sort="zones">Native Zone</th>
+            <th data-sort="growTime">Grow Time</th>
+            <th data-sort="waterings">Waterings</th>
+            <th data-sort="yield">Yield</th>
+            <th data-sort="seedPrice">Seed Price</th>
+            <th data-sort="sellPrice">Sell Price</th>
+            <th data-sort="profit">Profit</th>
+            <th data-sort="coinsPerMin">Coins/min</th>
+          </tr>
+        </thead>
+        <tbody id="crops-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- CREATURES (critters / creatures / companions) -->
+  <section id="tab-creatures" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="creatures-search" placeholder="Search creatures or categories...">
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="creatures-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Name</th>
+            <th data-sort="family">Category</th>
+          </tr>
+        </thead>
+        <tbody id="creatures-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- FISH -->
+  <section id="tab-fish" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="fish-search" placeholder="Search fish, zones, ripples, or category...">
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="fish-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Name</th>
+            <th data-sort="zones">Zones</th>
+            <th data-sort="ripples">Ripples</th>
+            <th data-sort="sellPrice">Sell Price</th>
+            <th data-sort="energy">Energy</th>
+            <th data-sort="ingredientCategory">Ingredient Category</th>
+            <th data-sort="notes">Notes</th>
+          </tr>
+        </thead>
+        <tbody id="fish-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- GEMS & MINERALS -->
+  <section id="tab-gems" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="gems-search" placeholder="Search gems, colors, or zones...">
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="gems-table">
+        <thead>
+          <tr>
+            <th></th>
+            <th data-sort="name">Name</th>
+            <th data-sort="color">Color</th>
+            <th data-sort="shape">Shape</th>
+            <th data-sort="sellPrice">Sell Price</th>
+            <th data-sort="zones">Zones</th>
+          </tr>
+        </thead>
+        <tbody id="gems-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- VENDOR WARE -->
+  <section id="tab-vendor" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="vendor-search" placeholder="Search vendors, zones, items, or type...">
+    </div>
+    <div id="vendor-groups"></div>
+  </section>
+
+  <!-- CRAFTING -->
+  <section id="tab-crafting" class="tab-panel">
+    <div class="panel-toolbar">
+      <input type="search" id="crafting-search" placeholder="Search crafting items, categories, or materials...">
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="crafting-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Name</th>
+            <th data-sort="category">Category</th>
+            <th data-sort="materials">Materials</th>
+          </tr>
+        </thead>
+        <tbody id="crafting-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<dialog id="add-villager-dialog">
+  <h2>Add a Villager</h2>
+  <input type="search" id="add-villager-search" placeholder="Search villagers or realms...">
+  <div id="add-villager-options" class="picker-list"></div>
+
+  <hr>
+
+  <p class="dialog-hint">Not on the list?</p>
+  <form id="custom-villager-form" class="panel-toolbar">
+    <input type="text" id="custom-villager-name" placeholder="Custom villager name" required>
+    <input type="text" id="custom-villager-realm" placeholder="Realm (optional)">
+    <button type="submit">+ Add Custom</button>
+  </form>
+
+  <div class="dialog-footer">
+    <button id="close-villager-dialog" class="secondary">Close</button>
+  </div>
+</dialog>
+
+<dialog id="add-recipe-dialog">
+  <h2>Add a Recipe</h2>
+  <input type="search" id="add-recipe-search" placeholder="Search recipes, meal type, or ingredients...">
+  <div id="add-recipe-options" class="picker-list"></div>
+
+  <hr>
+
+  <p class="dialog-hint">Not on the list?</p>
+  <form id="custom-recipe-form" class="panel-toolbar">
+    <input type="text" id="custom-recipe-name" placeholder="Custom recipe name" required>
+    <input type="text" id="custom-recipe-type" placeholder="Meal type (optional)">
+    <button type="submit">+ Add Custom</button>
+  </form>
+
+  <div class="dialog-footer">
+    <button id="close-recipe-dialog" class="secondary">Close</button>
+  </div>
+</dialog>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

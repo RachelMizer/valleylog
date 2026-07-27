@@ -1,0 +1,28 @@
+dev/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local database, including manual backups. `*.db` alone does NOT match
+# `valleylog.db.bak`, and those backups contain a real account: email address,
+# bcrypt password hash, and tracked villager data. Keep them out of a public repo.
+*.db
+*.db.*
+*.sqlite
+*.sqlite3
+
+# Server / dev-server logs
+*.log
+
+# Bulk extractions from the local game install (recreatable with
+# bridge/parse_locbin.py). 15k+ .locbin dialogue files plus a 2.6MB string dump —
+# same category as dev/: local working data, not project source.
+bridge/loc_extracted/
+bridge/loc_dict.json
+
+# Node / frontend
+node_modules/
+dist/

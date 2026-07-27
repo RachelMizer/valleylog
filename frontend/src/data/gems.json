@@ -1,0 +1,750 @@
+[
+  {
+    "name": "Stone",
+    "color": null,
+    "sellPrice": "2",
+    "zones": [
+      "All Biomes"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Coal Ore",
+    "color": null,
+    "sellPrice": "5",
+    "zones": [
+      "All Biomes"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Iron Ore",
+    "color": null,
+    "sellPrice": "10",
+    "zones": [
+      "Forest of Valor",
+      "Glade of Trust",
+      "Sunlit Plateau",
+      "Frosted Heights",
+      "Forgotten Lands",
+      "Vitalys Mine",
+      "The Bind"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Gold Nugget",
+    "color": null,
+    "sellPrice": "20",
+    "zones": [
+      "Everafter",
+      "Frosted Heights",
+      "Sunlit Plateau",
+      "Forgotten Lands",
+      "Vitalys Mine",
+      "Mythopia"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Crystal",
+    "color": null,
+    "sellPrice": "30",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Copper",
+    "color": null,
+    "sellPrice": "15",
+    "zones": [
+      "Ancient's Landing",
+      "Glittering Dunes",
+      "Wild Tangle"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Quartz",
+    "color": null,
+    "sellPrice": "20",
+    "zones": [
+      "Ancient's Landing"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Tin",
+    "color": null,
+    "sellPrice": "25",
+    "zones": [
+      "Glittering Dunes"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Zinc",
+    "color": null,
+    "sellPrice": "30",
+    "zones": [
+      "Wild Tangle"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Petrified Wood",
+    "color": null,
+    "sellPrice": "20",
+    "zones": [
+      "The Bind",
+      "Everafter"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Marble",
+    "color": null,
+    "sellPrice": "30",
+    "zones": [
+      "Mythopia"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Antique Clothes Iron",
+    "color": null,
+    "sellPrice": "20",
+    "zones": [
+      "Glamour Gulch"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Grassy Ore",
+    "color": null,
+    "sellPrice": "25",
+    "zones": [
+      "Pixie Acres"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Pixie Dust",
+    "color": null,
+    "sellPrice": "15",
+    "zones": [
+      "Glamour Gulch",
+      "Pixie Acres"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Silver Ore",
+    "color": null,
+    "sellPrice": "2",
+    "zones": [
+      "Wishing Alps"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Amethyst",
+    "color": "Purple",
+    "shape": "Square",
+    "sellPrice": "500 Coins",
+    "zones": [
+      "Forgotten Lands",
+      "Frosted Heights"
+    ],
+    "icon": "images/gems/Amethyst.png"
+  },
+  {
+    "name": "Shiny Amethyst",
+    "color": "Purple",
+    "shape": "Square",
+    "sellPrice": "2,000 Coins",
+    "zones": [
+      "Forgotten Lands",
+      "Frosted Heights"
+    ],
+    "icon": "images/gems/Shiny_Amethyst.png"
+  },
+  {
+    "name": "Aquamarine",
+    "color": "Light Blue",
+    "shape": "Oval",
+    "sellPrice": "250 Coins",
+    "zones": [
+      "Dazzle Beach",
+      "Forest of Valor"
+    ],
+    "icon": "images/gems/Aquamarine.png"
+  },
+  {
+    "name": "Shiny Aquamarine",
+    "color": "Light Blue",
+    "shape": "Oval",
+    "sellPrice": "1,000 Coins",
+    "zones": [
+      "Dazzle Beach",
+      "Forest of Valor"
+    ],
+    "icon": "images/gems/Shiny_Aquamarine.png"
+  },
+  {
+    "name": "Citrine",
+    "color": "Orange",
+    "shape": "Oval",
+    "sellPrice": "380 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Glade of Trust"
+    ],
+    "icon": "images/gems/Citrine.png"
+  },
+  {
+    "name": "Shiny Citrine",
+    "color": "Orange",
+    "shape": "Oval",
+    "sellPrice": "1,500 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Glade of Trust"
+    ],
+    "icon": "images/gems/Shiny_Citrine.png"
+  },
+  {
+    "name": "Diamond",
+    "color": "White",
+    "shape": "Diamond",
+    "sellPrice": "600 Coins",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "icon": "images/gems/Diamond.png"
+  },
+  {
+    "name": "Shiny Diamond",
+    "color": "White",
+    "shape": "Diamond",
+    "sellPrice": "2,400 Coins",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "icon": "images/gems/Shiny_Diamond.png"
+  },
+  {
+    "name": "Emerald",
+    "color": "Green",
+    "shape": "Square",
+    "sellPrice": "325 Coins",
+    "zones": [
+      "Forest of Valor",
+      "Glade of Trust"
+    ],
+    "icon": "images/gems/Emerald.png"
+  },
+  {
+    "name": "Shiny Emerald",
+    "color": "Green",
+    "shape": "Square",
+    "sellPrice": "1,300 Coins",
+    "zones": [
+      "Forest of Valor",
+      "Glade of Trust"
+    ],
+    "icon": "images/gems/Shiny_Emerald.png"
+  },
+  {
+    "name": "Garnet",
+    "color": "Red",
+    "shape": "Oval",
+    "sellPrice": "160 Coins",
+    "zones": [
+      "Peaceful Meadow",
+      "Plaza"
+    ],
+    "icon": "images/gems/Garnet.png"
+  },
+  {
+    "name": "Shiny Garnet",
+    "color": "Red",
+    "shape": "Oval",
+    "sellPrice": "640 Coins",
+    "zones": [
+      "Peaceful Meadow",
+      "Plaza"
+    ],
+    "icon": "images/gems/Shiny_Garnet.png"
+  },
+  {
+    "name": "Onyx",
+    "color": "Black",
+    "shape": "Square",
+    "sellPrice": "300 Coins",
+    "zones": [
+      "All Biomes"
+    ],
+    "icon": "images/gems/Onyx.png"
+  },
+  {
+    "name": "Peridot",
+    "color": "Green",
+    "shape": "Oval",
+    "sellPrice": "200 Coins",
+    "zones": [
+      "Dazzle Beach",
+      "Peaceful Meadow"
+    ],
+    "icon": "images/gems/Peridot.png"
+  },
+  {
+    "name": "Shiny Peridot",
+    "color": "Green",
+    "shape": "Oval",
+    "sellPrice": "800 Coins",
+    "zones": [
+      "Dazzle Beach",
+      "Peaceful Meadow"
+    ],
+    "icon": "images/gems/Shiny_Peridot.png"
+  },
+  {
+    "name": "Ruby",
+    "color": "Red",
+    "shape": "Square",
+    "sellPrice": "350 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Vitalys Mine"
+    ],
+    "icon": "images/gems/Ruby.png"
+  },
+  {
+    "name": "Shiny Ruby",
+    "color": "Red",
+    "shape": "Square",
+    "sellPrice": "1,400 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Vitalys Mine"
+    ],
+    "icon": "images/gems/Shiny_Ruby.png"
+  },
+  {
+    "name": "Sapphire",
+    "color": "Dark Blue",
+    "shape": "Square",
+    "sellPrice": "350 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Vitalys Mine"
+    ],
+    "icon": "images/gems/Sapphire.png"
+  },
+  {
+    "name": "Shiny Sapphire",
+    "color": "Dark Blue",
+    "shape": "Square",
+    "sellPrice": "1,400 Coins",
+    "zones": [
+      "Sunlit Plateau",
+      "Vitalys Mine"
+    ],
+    "icon": "images/gems/Shiny_Sapphire.png"
+  },
+  {
+    "name": "Topaz",
+    "color": "Yellow",
+    "shape": "Square",
+    "sellPrice": "240 Coins",
+    "zones": [
+      "Plaza"
+    ],
+    "icon": "images/gems/Topaz.png"
+  },
+  {
+    "name": "Shiny Topaz",
+    "color": "Yellow",
+    "shape": "Square",
+    "sellPrice": "960 Coins",
+    "zones": [
+      "Plaza"
+    ],
+    "icon": "images/gems/Shiny_Topaz.png"
+  },
+  {
+    "name": "Tourmaline",
+    "color": "Pink",
+    "shape": "Oval",
+    "sellPrice": "420 Coins",
+    "zones": [
+      "Frosted Heights",
+      "Sunlit Plateau"
+    ],
+    "icon": "images/gems/Tourmaline.png"
+  },
+  {
+    "name": "Shiny Tourmaline",
+    "color": "Pink",
+    "shape": "Oval",
+    "sellPrice": "1,600 Coins",
+    "zones": [
+      "Frosted Heights",
+      "Sunlit Plateau"
+    ],
+    "icon": "images/gems/Shiny_Tourmaline.png"
+  },
+  {
+    "name": "Vitalys Crystal",
+    "color": null,
+    "sellPrice": "30",
+    "zones": [
+      "Vitalys Mine"
+    ],
+    "shape": null,
+    "icon": null
+  },
+  {
+    "name": "Alexandrite",
+    "color": "Pink and Green",
+    "shape": "Oval",
+    "sellPrice": "350 Coins",
+    "zones": [
+      "The Wastes",
+      "The Oasis"
+    ],
+    "icon": "images/gems/Alexandrite.png"
+  },
+  {
+    "name": "Shiny Alexandrite",
+    "color": "Green",
+    "shape": "Oval",
+    "sellPrice": "1,400 Coins",
+    "zones": [
+      "The Wastes",
+      "The Oasis"
+    ],
+    "icon": "images/gems/Shiny_Alexandrite.png"
+  },
+  {
+    "name": "Blue Zircon",
+    "color": "Blue",
+    "shape": "Oval",
+    "sellPrice": "500 Coins",
+    "zones": [
+      "The Lagoon"
+    ],
+    "icon": "images/gems/Blue_Zircon.png"
+  },
+  {
+    "name": "Shiny Blue Zircon",
+    "color": "Blue",
+    "shape": "Oval",
+    "sellPrice": "2,000 Coins",
+    "zones": [
+      "The Lagoon"
+    ],
+    "icon": "images/gems/Shiny_Blue_Zircon.png"
+  },
+  {
+    "name": "Bumblestone",
+    "color": "Orange",
+    "shape": "Geode",
+    "sellPrice": "400 Coins",
+    "zones": [
+      "The Borderlands"
+    ],
+    "icon": "images/gems/Bumblestone.png"
+  },
+  {
+    "name": "Shiny Bumblestone",
+    "color": "Orange",
+    "shape": "Geode",
+    "sellPrice": "1,600 Coins",
+    "zones": [
+      "The Borderlands"
+    ],
+    "icon": "images/gems/Shiny_Bumblestone.png"
+  },
+  {
+    "name": "Evergem",
+    "color": "Orange",
+    "shape": "N/A",
+    "sellPrice": "300 Coins",
+    "zones": [
+      "The Ruins"
+    ],
+    "icon": "images/gems/Evergem.png"
+  },
+  {
+    "name": "Shiny Evergem",
+    "color": "Orange",
+    "shape": "N/A",
+    "sellPrice": "1,200 Coins",
+    "zones": [
+      "The Ruins"
+    ],
+    "icon": "images/gems/Shiny_Evergem.png"
+  },
+  {
+    "name": "Jade",
+    "color": "Green",
+    "shape": "Triangle",
+    "sellPrice": "250 Coins",
+    "zones": [
+      "The Courtyard",
+      "The Overlook"
+    ],
+    "icon": "images/gems/Jade.png"
+  },
+  {
+    "name": "Shiny Jade",
+    "color": "Green",
+    "shape": "Triangle",
+    "sellPrice": "1,000 Coins",
+    "zones": [
+      "The Courtyard",
+      "The Overlook"
+    ],
+    "icon": "images/gems/Shiny_Jade.png"
+  },
+  {
+    "name": "Spinel",
+    "color": "Dark Red",
+    "shape": "Square",
+    "sellPrice": "450 Coins",
+    "zones": [
+      "The Promenade",
+      "The Grove"
+    ],
+    "icon": "images/gems/Spinel.png"
+  },
+  {
+    "name": "Shiny Spinel",
+    "color": "Dark Red",
+    "shape": "Square",
+    "sellPrice": "1,800 Coins",
+    "zones": [
+      "The Promenade",
+      "The Grove"
+    ],
+    "icon": "images/gems/Shiny_Spinel.png"
+  },
+  {
+    "name": "Opal",
+    "color": "White",
+    "shape": "Circle",
+    "sellPrice": "300 Coins",
+    "zones": [
+      "Storybook Vale",
+      "The Bind"
+    ],
+    "icon": "images/gems/Opal.png"
+  },
+  {
+    "name": "Shiny Opal",
+    "color": "White",
+    "shape": "Circle",
+    "sellPrice": "1200 Coins",
+    "zones": [
+      "Storybook Vale",
+      "The Bind"
+    ],
+    "icon": "images/gems/Shiny_Opal.png"
+  },
+  {
+    "name": "Pure Ice",
+    "color": "Light Blue",
+    "shape": "Prisms",
+    "sellPrice": "300 Coins",
+    "zones": [
+      "The Wild Woods",
+      "Teapot Falls",
+      "The Fallen Fortress",
+      "The Beanstalk Marshes"
+    ],
+    "icon": "images/gems/Pure_Ice.png"
+  },
+  {
+    "name": "Shiny Pure Ice",
+    "color": "Light Blue",
+    "shape": "Prisms",
+    "sellPrice": "1200 Coins",
+    "zones": [
+      "The Wild Woods",
+      "Teapot Falls",
+      "The Fallen Fortress",
+      "The Beanstalk Marshes"
+    ],
+    "icon": "images/gems/Shiny_Pure_Ice.png"
+  },
+  {
+    "name": "Star Sapphire",
+    "color": "Dark Blue",
+    "shape": "Star",
+    "sellPrice": "450 Coins",
+    "zones": [
+      "Teapot Falls",
+      "The Fallen Fortress",
+      "The Beanstalk Marshes"
+    ],
+    "icon": "images/gems/Star_Sapphire.png"
+  },
+  {
+    "name": "Shiny Star Sapphire",
+    "color": "Dark Blue",
+    "shape": "Star",
+    "sellPrice": "1800 Coins",
+    "zones": [
+      "The Wild Woods",
+      "Teapot Falls",
+      "The Fallen Fortress",
+      "The Beanstalk Marshes"
+    ],
+    "icon": "images/gems/Shiny_Star_Sapphire.png"
+  },
+  {
+    "name": "Magma",
+    "color": "Black and Orange",
+    "shape": "N/A",
+    "sellPrice": "400 Coins",
+    "zones": [
+      "The Elysian Fields",
+      "The Fiery Plains",
+      "Statue's Shadow",
+      "Mount Olympus"
+    ],
+    "icon": "images/gems/Magma.png"
+  },
+  {
+    "name": "Shiny Magma",
+    "color": "Black and Orange",
+    "shape": "N/A",
+    "sellPrice": "1600 Coins",
+    "zones": [
+      "The Elysian Fields",
+      "The Fiery Plains",
+      "Statue's Shadow",
+      "Mount Olympus"
+    ],
+    "icon": "images/gems/Shiny_Magma.png"
+  },
+  {
+    "name": "Honeycomb Stone",
+    "color": "Yellow",
+    "shape": "N/A",
+    "sellPrice": "550 Coins",
+    "zones": [
+      "Sundae Shores",
+      "Hundred Acre Fields",
+      "Pixie Flats",
+      "Hunny Falls"
+    ],
+    "icon": "images/gems/Honeycomb_Stone.png"
+  },
+  {
+    "name": "Shiny Honeycomb Stone",
+    "color": "Yellow",
+    "shape": "N/A",
+    "sellPrice": "2200 Coins",
+    "zones": [
+      "Sundae Shores",
+      "Hundred Acre Fields",
+      "Pixie Flats",
+      "Hunny Falls"
+    ],
+    "icon": "images/gems/Shiny_Honeycomb_Stone.png"
+  },
+  {
+    "name": "Jasper",
+    "color": "White",
+    "shape": "Oval",
+    "sellPrice": "400 Coins",
+    "zones": [
+      "Haute Plateau",
+      "Runway River",
+      "Paisley Park",
+      "Modish Marsh",
+      "Glamour Gulch"
+    ],
+    "icon": "images/gems/Jasper.png"
+  },
+  {
+    "name": "Shiny Jasper",
+    "color": "White",
+    "shape": "Oval",
+    "sellPrice": "1600 Coins",
+    "zones": [
+      "Haute Plateau",
+      "Runway River",
+      "Paisley Park",
+      "Modish Marsh",
+      "Glamour Gulch"
+    ],
+    "icon": "images/gems/Shiny_Jasper.png"
+  },
+  {
+    "name": "Pyrite",
+    "color": "Yellow",
+    "shape": "N/A",
+    "sellPrice": "250 Coins",
+    "zones": [
+      "Wishblossom Ranch",
+      "Wishing Way",
+      "Silver Summit",
+      "Delver Dale"
+    ],
+    "icon": "images/gems/Pyrite.png"
+  },
+  {
+    "name": "Shiny Pyrite",
+    "color": "Yellow",
+    "shape": "N/A",
+    "sellPrice": "1000 Coins",
+    "zones": [
+      "Wishblossom Ranch",
+      "Wishing Way",
+      "Silver Summit",
+      "Delver Dale"
+    ],
+    "icon": "images/gems/Shiny_Pyrite.png"
+  },
+  {
+    "name": "Honey Agate",
+    "color": "Yellow and Red",
+    "shape": "Oval",
+    "sellPrice": "400 Coins",
+    "zones": [
+      "Honeyglow Woods"
+    ],
+    "icon": "images/gems/Honey_Agate.png"
+  },
+  {
+    "name": "Shiny Honey Agate",
+    "color": "Yellow and Red",
+    "shape": "Oval",
+    "sellPrice": "1600 Coins",
+    "zones": [
+      "Honeyglow Woods"
+    ],
+    "icon": "images/gems/Shiny_Honey_Agate.png"
+  }
+]

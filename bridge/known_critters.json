@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "Magic Carpet",
+    "family": "Aladdin",
+    "emoji": "🪔"
+  },
+  {
+    "name": "Rajah",
+    "family": "Aladdin",
+    "emoji": "🪔"
+  },
+  {
+    "name": "Tiger Cub",
+    "family": "Aladdin",
+    "emoji": "🪔"
+  },
+  {
+    "name": "Ancient Robot",
+    "family": "Ancient Civ",
+    "emoji": "🗿"
+  },
+  {
+    "name": "Classic Sea Turtle",
+    "family": "Beach",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Brown Sea Turtle",
+    "family": "Beach",
+    "emoji": "🐢"
+  },
+  {
+    "name": "White Sea Turtle",
+    "family": "Beach",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Purple Sea Turtle",
+    "family": "Beach",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Black Sea Turtle",
+    "family": "Beach",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Rainbow Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Red Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Blue Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Green Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Yellow Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "White Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Shadowy Bird Snippet",
+    "family": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Witchy Kitty",
+    "family": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "name": "Star Command Cat",
+    "family": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "name": "Dinah",
+    "family": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "name": "Figaro",
+    "family": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "name": "Mochi",
+    "family": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "name": "Choco Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Classic Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Blue Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Red Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Golden Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "White Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Pink Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Dapper Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Blue Whimsical Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Pink Whimsical Crocodile",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Bountiful Croc",
+    "family": "Crocodile",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Classic Raven",
+    "family": "Dark Mountains",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Red Raven",
+    "family": "Dark Mountains",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "White Raven",
+    "family": "Dark Mountains",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Blue Raven",
+    "family": "Dark Mountains",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Brown Raven",
+    "family": "Dark Mountains",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Everafter Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Rainbow Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Pink Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Blue Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Red Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Green Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Shadowy Demon Snippet",
+    "family": "Demon",
+    "emoji": "👹"
+  },
+  {
+    "name": "Good, Good, Good Puppy",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Corgi Puppy",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Husky Puppy",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Blooming Puppy",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Lucky",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Max",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Percy",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Sailing Skipper Dachshund",
+    "family": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "name": "Wishblossom Horse",
+    "family": "Dreamlight Valley",
+    "emoji": "✨"
+  },
+  {
+    "name": "Haunted Floating Festival Fox",
+    "family": "Event",
+    "emoji": "🎉"
+  },
+  {
+    "name": "Robo Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Classic Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Black and White Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Blue Striped Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Gray Spotted Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Red and White Striped Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Toon Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Flowery Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Nostalgia Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Relaxing Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Tinker Bell Capybara",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Classic Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Blue and Red Striped Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Pink Spotted Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Yellow and Purple Striped Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Green and White Striped Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Toon Cobra",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Tea Party Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Classic Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Black and Brown Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Red and Beige Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Beige Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Black and Gray Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Toon Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Jester Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Pirate Monkey",
+    "family": "Expansion01",
+    "emoji": "🏝️"
+  },
+  {
+    "name": "Blue Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Red Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Green Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Purple Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Teal Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Knightly Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Sakura Blossom Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Scholarly Baby Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Train Conductor Dragon",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Pink Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Blue Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Yellow Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Peach Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Black Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Baby Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Festive Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Pink Baby Pegasus",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Winter Fairy Unicorn",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Brown Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Purple Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Dark Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Light Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "White Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "Witching Owl",
+    "family": "Expansion02",
+    "emoji": "📖"
+  },
+  {
+    "name": "BamBee",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Sweet Bee",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Pink Sweet Bee",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Blue Sweet Bee",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "White Sweet Bee",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Skunk",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Brown Skunk",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "White Skunk",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Patterned Skunk",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Abigail the Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Amelia the Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Yeehaw Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "True North Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Black Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Golden Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Blue Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Yellow Goose",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Professor Mouffette",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "Jester Skunk",
+    "family": "Expansion03",
+    "emoji": "⛰️"
+  },
+  {
+    "name": "The Footstool",
+    "family": "Foot Stool",
+    "emoji": "🪑"
+  },
+  {
+    "name": "Classic Raccoon",
+    "family": "Forest",
+    "emoji": "🦉"
+  },
+  {
+    "name": "Red Raccoon",
+    "family": "Forest",
+    "emoji": "🦉"
+  },
+  {
+    "name": "Black Raccoon",
+    "family": "Forest",
+    "emoji": "🦉"
+  },
+  {
+    "name": "White Raccoon",
+    "family": "Forest",
+    "emoji": "🦉"
+  },
+  {
+    "name": "Blue Raccoon",
+    "family": "Forest",
+    "emoji": "🦉"
+  },
+  {
+    "name": "Rock and Roll Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Blue Whimsical Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Pink Whimsical Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Fennec Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Festive Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "White Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Classic Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Black Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Blue Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Red Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Ghostly \"Zero\" Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Dancing Lion Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "\"Lion\" Cub Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Pooh Adorable Loungefly Harness Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Rainbow Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Regal Fox",
+    "family": "Fox",
+    "emoji": "🦊"
+  },
+  {
+    "name": "Neverafter Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Rainbow Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Blue Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Pink Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Purple Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Yellow Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Shadowy Frog Snippet",
+    "family": "Frog",
+    "emoji": "🐸"
+  },
+  {
+    "name": "Sven",
+    "family": "Frozen",
+    "emoji": "❄️"
+  },
+  {
+    "name": "Pegasus",
+    "family": "Hercules",
+    "emoji": "💪"
+  },
+  {
+    "name": "Classic Rabbit",
+    "family": "Meadow",
+    "emoji": "🐝"
+  },
+  {
+    "name": "Black Rabbit",
+    "family": "Meadow",
+    "emoji": "🐝"
+  },
+  {
+    "name": "Brown Rabbit",
+    "family": "Meadow",
+    "emoji": "🐝"
+  },
+  {
+    "name": "White Rabbit",
+    "family": "Meadow",
+    "emoji": "🐝"
+  },
+  {
+    "name": "Calico Rabbit",
+    "family": "Meadow",
+    "emoji": "🐝"
+  },
+  {
+    "name": "Pluto",
+    "family": "Mickey",
+    "emoji": "🐭"
+  },
+  {
+    "name": "Busy Bee Hedgehog",
+    "family": "Mini01",
+    "emoji": "🐾"
+  },
+  {
+    "name": "Classic Hedgehog",
+    "family": "Mini01",
+    "emoji": "🐾"
+  },
+  {
+    "name": "Yellow Hedgehog",
+    "family": "Mini01",
+    "emoji": "🐾"
+  },
+  {
+    "name": "Green Hedgehog",
+    "family": "Mini01",
+    "emoji": "🐾"
+  },
+  {
+    "name": "Orange Hedgehog",
+    "family": "Mini01",
+    "emoji": "🐾"
+  },
+  {
+    "name": "Heihei",
+    "family": "Moana",
+    "emoji": "🌊"
+  },
+  {
+    "name": "Pua",
+    "family": "Moana",
+    "emoji": "🌊"
+  },
+  {
+    "name": "Khan",
+    "family": "Mulan",
+    "emoji": "🐉"
+  },
+  {
+    "name": "Nana",
+    "family": "Peter Pan",
+    "emoji": "🍃"
+  },
+  {
+    "name": "Meeko",
+    "family": "Pocahontas",
+    "emoji": "🍁"
+  },
+  {
+    "name": "Blue Whimsical Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Pink Whimsical Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Envy Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Gingerbread Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Gentle Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Classic Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Black Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Brown Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "White Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Calico Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Blue Spring Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Pink Spring Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Yellow Spring Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Frosty Rabbit",
+    "family": "Rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "name": "Blue Whimsical Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Pink Whimsical Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Anger Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Disgust Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Fear Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Joy Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Sadness Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Classic Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Red Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Black Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "White Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Blue Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Wind-Up Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Snowy Raccoon",
+    "family": "Racoon",
+    "emoji": "🦝"
+  },
+  {
+    "name": "Mystical Phoenix",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Maleficent's Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Blue Whimsical Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Pink Whimsical Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Ennui Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Purple Fiery Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Fiery Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Pirate Parrot",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Classic Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Red Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "White Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Blue Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Brown Raven",
+    "family": "Raven",
+    "emoji": "🐦‍⬛"
+  },
+  {
+    "name": "Mini Reindeer",
+    "family": "Reindeer",
+    "emoji": "🦌"
+  },
+  {
+    "name": "Red Sunbird",
+    "family": "Savanna",
+    "emoji": "🦁"
+  },
+  {
+    "name": "Turquoise Sunbird",
+    "family": "Savanna",
+    "emoji": "🦁"
+  },
+  {
+    "name": "Emerald Sunbird",
+    "family": "Savanna",
+    "emoji": "🦁"
+  },
+  {
+    "name": "Golden Sunbird",
+    "family": "Savanna",
+    "emoji": "🦁"
+  },
+  {
+    "name": "Orchid Sunbird",
+    "family": "Savanna",
+    "emoji": "🦁"
+  },
+  {
+    "name": "White Fox",
+    "family": "Snow Cliffs",
+    "emoji": "🏔️"
+  },
+  {
+    "name": "Classic Fox",
+    "family": "Snow Cliffs",
+    "emoji": "🏔️"
+  },
+  {
+    "name": "Black Fox",
+    "family": "Snow Cliffs",
+    "emoji": "🏔️"
+  },
+  {
+    "name": "Blue Fox",
+    "family": "Snow Cliffs",
+    "emoji": "🏔️"
+  },
+  {
+    "name": "Red Fox",
+    "family": "Snow Cliffs",
+    "emoji": "🏔️"
+  },
+  {
+    "name": "Anxiety Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Blue Whimsical Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Pink Whimsical Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "IncrediSquirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Magical Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Peppy Popcorn Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Scary Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Classic Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Red Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Gray Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "Black Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "White Squirrel",
+    "family": "Squirrel",
+    "emoji": "🐿️"
+  },
+  {
+    "name": "BB-8",
+    "family": "Star Wars",
+    "emoji": "🌌"
+  },
+  {
+    "name": "R2-D2",
+    "family": "Star Wars",
+    "emoji": "🌌"
+  },
+  {
+    "name": "Butterfly Companion",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Blue Whimsical Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Pink Whimsical Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Bread and Butterfly",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Pink Lovebird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Green Lovebird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Red Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Turquoise Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Emerald Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Golden Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Orchid Sunbird",
+    "family": "Sunbird",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Maximus",
+    "family": "Tangled",
+    "emoji": "👸"
+  },
+  {
+    "name": "Celestial Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Tart Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Blue Whimsical Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Pink Whimsical Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Embarrassment Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Rock Star Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Hermit Garden Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Classic Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Brown Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "White Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Purple Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Black Sea Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Rosy Cloud Turtle",
+    "family": "Turtle",
+    "emoji": "🐢"
+  },
+  {
+    "name": "Classic Squirrel",
+    "family": "Urban",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Red Squirrel",
+    "family": "Urban",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Gray Squirrel",
+    "family": "Urban",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Black Squirrel",
+    "family": "Urban",
+    "emoji": "🐦"
+  },
+  {
+    "name": "White Squirrel",
+    "family": "Urban",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Classic Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Blue Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Red Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Golden Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  },
+  {
+    "name": "White Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  },
+  {
+    "name": "Pink Crocodile",
+    "family": "Wetlands",
+    "emoji": "🐊"
+  }
+]

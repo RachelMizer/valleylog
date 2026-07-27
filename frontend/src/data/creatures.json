@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Yellow Hedgehog",
+    "locationOrigin": "Braveheart Grove",
+    "favoriteFood": "Pufflebud Pods, Golden Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Sea Turtle",
+    "locationOrigin": "Dazzle Beach",
+    "favoriteFood": "Seaweed",
+    "timesAvailable": null
+  },
+  {
+    "name": "Brown Sea Turtle",
+    "locationOrigin": "Dazzle Beach",
+    "favoriteFood": "Seaweed",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Sea Turtle",
+    "locationOrigin": "Dazzle Beach",
+    "favoriteFood": "Seaweed",
+    "timesAvailable": null
+  },
+  {
+    "name": "Purple Sea Turtle",
+    "locationOrigin": "Dazzle Beach",
+    "favoriteFood": "Seaweed",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Sea Turtle",
+    "locationOrigin": "Dazzle Beach",
+    "favoriteFood": "Seaweed",
+    "timesAvailable": null
+  },
+  {
+    "name": "Golden Goose",
+    "locationOrigin": "Delver Dale - Wishing Alps",
+    "favoriteFood": "Red Currants",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Hedgehog",
+    "locationOrigin": "Drowsybloom Acre",
+    "favoriteFood": "Pufflebud Pods, Golden Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Baby Dragon",
+    "locationOrigin": "Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": null
+  },
+  {
+    "name": "Green Baby Dragon",
+    "locationOrigin": "Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": null
+  },
+  {
+    "name": "Purple Baby Dragon",
+    "locationOrigin": "Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Baby Dragon",
+    "locationOrigin": "Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": null
+  },
+  {
+    "name": "Teal Baby Dragon",
+    "locationOrigin": "Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Raccoon",
+    "locationOrigin": "Forest of Valor",
+    "favoriteFood": "Blueberries",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Raccoon",
+    "locationOrigin": "Forest of Valor",
+    "favoriteFood": "Blueberries",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Raccoon",
+    "locationOrigin": "Forest of Valor",
+    "favoriteFood": "Blueberries",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Raccoon",
+    "locationOrigin": "Forest of Valor",
+    "favoriteFood": "Blueberries",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Raccoon",
+    "locationOrigin": "Forest of Valor",
+    "favoriteFood": "Blueberries",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Raven",
+    "locationOrigin": "Forgotten Lands",
+    "favoriteFood": "Any 5-Star Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Brown Raven",
+    "locationOrigin": "Forgotten Lands",
+    "favoriteFood": "Any 5-Star Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Raven",
+    "locationOrigin": "Forgotten Lands",
+    "favoriteFood": "Any 5-Star Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Raven",
+    "locationOrigin": "Forgotten Lands",
+    "favoriteFood": "Any 5-Star Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Raven",
+    "locationOrigin": "Forgotten Lands",
+    "favoriteFood": "Any 5-Star Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Fox",
+    "locationOrigin": "Frosted Heights",
+    "favoriteFood": "White Sturgeon",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Fox",
+    "locationOrigin": "Frosted Heights",
+    "favoriteFood": "White Sturgeon",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Fox",
+    "locationOrigin": "Frosted Heights",
+    "favoriteFood": "White Sturgeon",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Fox",
+    "locationOrigin": "Frosted Heights",
+    "favoriteFood": "White Sturgeon",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Fox",
+    "locationOrigin": "Frosted Heights",
+    "favoriteFood": "White Sturgeon",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "Golden Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "Pink Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Crocodile",
+    "locationOrigin": "Glade of Trust",
+    "favoriteFood": "Lobster",
+    "timesAvailable": null
+  },
+  {
+    "name": "Green Hedgehog",
+    "locationOrigin": "Gloommeadow",
+    "favoriteFood": "Pufflebud Pods, Golden Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Patterned Skunk",
+    "locationOrigin": "Haute Plateau - Glamour Gulch",
+    "favoriteFood": "Pincushion Peach, Button Mushroom",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Sweet Bee",
+    "locationOrigin": "Hundred-Acre Fields - Pixie Acres",
+    "favoriteFood": "Coral Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Sweet Bee",
+    "locationOrigin": "Hunny Falls - Pixie Acres",
+    "favoriteFood": "Coral Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Skunk",
+    "locationOrigin": "Modish Marsh - Glamour Gulch",
+    "favoriteFood": "Pincushion Peach, Button Mushroom",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Pegasus",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Pegasus",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Peach Pegasus",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Pink Pegasus",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Yellow Pegasus",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": null
+  },
+  {
+    "name": "Orange Hedgehog",
+    "locationOrigin": "Nectar Apiary",
+    "favoriteFood": "Pufflebud Pods, Golden Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Brown Skunk",
+    "locationOrigin": "Paisley Park - Glamour Gulch",
+    "favoriteFood": "Pincushion Peach, Button Mushroom",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Rabbit",
+    "locationOrigin": "Peaceful Meadow",
+    "favoriteFood": "Carrot",
+    "timesAvailable": null
+  },
+  {
+    "name": "Brown Rabbit",
+    "locationOrigin": "Peaceful Meadow",
+    "favoriteFood": "Carrot",
+    "timesAvailable": null
+  },
+  {
+    "name": "Calico Rabbit",
+    "locationOrigin": "Peaceful Meadow",
+    "favoriteFood": "Carrot",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Rabbit",
+    "locationOrigin": "Peaceful Meadow",
+    "favoriteFood": "Carrot",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Rabbit",
+    "locationOrigin": "Peaceful Meadow",
+    "favoriteFood": "Carrot",
+    "timesAvailable": null
+  },
+  {
+    "name": "Pink Sweet Bee",
+    "locationOrigin": "Pixie Flats - Pixie Acres",
+    "favoriteFood": "Coral Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Squirrel",
+    "locationOrigin": "Plaza",
+    "favoriteFood": "Peanuts",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Squirrel",
+    "locationOrigin": "Plaza",
+    "favoriteFood": "Peanuts",
+    "timesAvailable": null
+  },
+  {
+    "name": "Gray Squirrel",
+    "locationOrigin": "Plaza",
+    "favoriteFood": "Peanuts",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Squirrel",
+    "locationOrigin": "Plaza",
+    "favoriteFood": "Peanuts",
+    "timesAvailable": null
+  },
+  {
+    "name": "White Squirrel",
+    "locationOrigin": "Plaza",
+    "favoriteFood": "Peanuts",
+    "timesAvailable": null
+  },
+  {
+    "name": "True North Goose",
+    "locationOrigin": "Ranch Highlands - Wishing Alps",
+    "favoriteFood": "Red Currants",
+    "timesAvailable": null
+  },
+  {
+    "name": "Skunk",
+    "locationOrigin": "Runway River - Glamour Gulch",
+    "favoriteFood": "Pincushion Peach, Button Mushroom",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black Goose",
+    "locationOrigin": "Silver Summit - Wishing Alps",
+    "favoriteFood": "Red Currants",
+    "timesAvailable": null
+  },
+  {
+    "name": "Sweet Bee",
+    "locationOrigin": "Sundae Shores - Pixie Acres",
+    "favoriteFood": "Coral Honey",
+    "timesAvailable": null
+  },
+  {
+    "name": "Emerald Sunbird",
+    "locationOrigin": "Sunlit Plateau",
+    "favoriteFood": "Any Green or Yellow Flowers",
+    "timesAvailable": null
+  },
+  {
+    "name": "Golden Sunbird",
+    "locationOrigin": "Sunlit Plateau",
+    "favoriteFood": "Any Orange and Yellow Flowers",
+    "timesAvailable": null
+  },
+  {
+    "name": "Orchid Sunbird",
+    "locationOrigin": "Sunlit Plateau",
+    "favoriteFood": "Any Pink or Purple Flowers",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red Sunbird",
+    "locationOrigin": "Sunlit Plateau",
+    "favoriteFood": "Any Red or Purple Flowers",
+    "timesAvailable": null
+  },
+  {
+    "name": "Turquoise Sunbird",
+    "locationOrigin": "Sunlit Plateau",
+    "favoriteFood": "Any Pink and Green Flowers",
+    "timesAvailable": null
+  },
+  {
+    "name": "Brown Owl",
+    "locationOrigin": "The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": null
+  },
+  {
+    "name": "Dark Owl",
+    "locationOrigin": "The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": null
+  },
+  {
+    "name": "Light Owl",
+    "locationOrigin": "The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": null
+  },
+  {
+    "name": "Purple Owl",
+    "locationOrigin": "The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": null
+  },
+  {
+    "name": "Green and White Striped Cobra",
+    "locationOrigin": "The Borderlands",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Yellow and Purple Striped Cobra",
+    "locationOrigin": "The Borderlands",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black and Brown Monkey",
+    "locationOrigin": "The Courtyard",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Monkey",
+    "locationOrigin": "The Docks",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Toon Monkey",
+    "locationOrigin": "The Docks",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Capybara",
+    "locationOrigin": "The Grasslands",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Striped Capybara",
+    "locationOrigin": "The Grove",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Toon Capybara",
+    "locationOrigin": "The Grove",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Gray Spotted Capybara",
+    "locationOrigin": "The Lagoon",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red and White Striped Capybara",
+    "locationOrigin": "The Lagoon",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Pink Spotted Cobra",
+    "locationOrigin": "The Oasis",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Red and Beige Monkey",
+    "locationOrigin": "The Overlook",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Classic Cobra",
+    "locationOrigin": "The Plains",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black and White Capybara",
+    "locationOrigin": "The Promenade",
+    "favoriteFood": "Cabbage",
+    "timesAvailable": null
+  },
+  {
+    "name": "Beige Monkey",
+    "locationOrigin": "The Ruins",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Black and Gray Monkey",
+    "locationOrigin": "The Ruins",
+    "favoriteFood": "Banana Split",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue and Red Striped Cobra",
+    "locationOrigin": "The Wastes",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Toon Cobra",
+    "locationOrigin": "The Wastes",
+    "favoriteFood": "Eggs",
+    "timesAvailable": null
+  },
+  {
+    "name": "Goose",
+    "locationOrigin": "Wishblossom Ranch - Wishing Alps",
+    "favoriteFood": "Red Currants",
+    "timesAvailable": null
+  },
+  {
+    "name": "Blue Goose",
+    "locationOrigin": "Wishing Way",
+    "favoriteFood": "Red Currants",
+    "timesAvailable": null
+  }
+]

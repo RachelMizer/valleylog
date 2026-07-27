@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Aladdin",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🪔",
+    "portrait": "images/villagers/Aladdin.png"
+  },
+  {
+    "name": "Jasmine",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐅",
+    "portrait": "images/villagers/Jasmine.png"
+  },
+  {
+    "name": "Alice",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐇",
+    "portrait": "images/villagers/Alice.png"
+  },
+  {
+    "name": "Cheshire Cat",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐱",
+    "portrait": "images/villagers/Cheshire_Cat.png"
+  },
+  {
+    "name": "Belle",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "📖",
+    "portrait": "images/villagers/Belle.png"
+  },
+  {
+    "name": "Cogsworth",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🕰️",
+    "portrait": "images/villagers/Cogsworth.png"
+  },
+  {
+    "name": "The Beast",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐾",
+    "portrait": "images/villagers/The_Beast.png"
+  },
+  {
+    "name": "Lumiere",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🕯️",
+    "portrait": "images/villagers/Lumiere.png"
+  },
+  {
+    "name": "Cinderella",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "👠",
+    "portrait": "images/villagers/Cinderella.png"
+  },
+  {
+    "name": "The Fairy Godmother",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "✨",
+    "portrait": "images/villagers/The_Fairy_Godmother.png"
+  },
+  {
+    "name": "The Forgotten",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "👤",
+    "portrait": "images/villagers/The_Forgotten.png"
+  },
+  {
+    "name": "Mirabel",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦋",
+    "portrait": "images/villagers/Mirabel.png"
+  },
+  {
+    "name": "Anna",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "⛄",
+    "portrait": "images/villagers/Anna.png"
+  },
+  {
+    "name": "Elsa",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "❄️",
+    "portrait": "images/villagers/Elsa.png"
+  },
+  {
+    "name": "Kristoff",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦌",
+    "portrait": "images/villagers/Kristoff.png"
+  },
+  {
+    "name": "Olaf",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "☃️",
+    "portrait": "images/villagers/Olaf.png"
+  },
+  {
+    "name": "Hercules",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "💪",
+    "portrait": "images/villagers/Hercules.png"
+  },
+  {
+    "name": "Phil",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐐",
+    "portrait": "images/villagers/Phil.png"
+  },
+  {
+    "name": "Joy",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "😊",
+    "portrait": "images/villagers/Joy.png"
+  },
+  {
+    "name": "Sadness",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "😢",
+    "portrait": "images/villagers/Sadness.png"
+  },
+  {
+    "name": "Lady Tramp",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐶",
+    "portrait": "images/villagers/Lady.png"
+  },
+  {
+    "name": "Stitch",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "👽",
+    "portrait": "images/villagers/Stitch.png"
+  },
+  {
+    "name": "Daisy",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🌼",
+    "portrait": "images/villagers/Daisy.png"
+  },
+  {
+    "name": "Donald Duck",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦆",
+    "portrait": "images/villagers/Donald_Duck.png"
+  },
+  {
+    "name": "Goofy",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐕",
+    "portrait": "images/villagers/Goofy.png"
+  },
+  {
+    "name": "Mickey Mouse",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐭",
+    "portrait": "images/villagers/Mickey_Mouse.png"
+  },
+  {
+    "name": "Minnie Mouse",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🎀",
+    "portrait": "images/villagers/Minnie_Mouse.png"
+  },
+  {
+    "name": "Scrooge McDuck",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "💰",
+    "portrait": "images/villagers/Scrooge_McDuck.png"
+  },
+  {
+    "name": "Maui",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🪝",
+    "portrait": "images/villagers/Maui.png"
+  },
+  {
+    "name": "Moana",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🌊",
+    "portrait": "images/villagers/Moana.png"
+  },
+  {
+    "name": "Mike Wazowski",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "👁️",
+    "portrait": "images/villagers/Mike_Wazowski.png"
+  },
+  {
+    "name": "Sulley",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐾",
+    "portrait": "images/villagers/Sulley.png"
+  },
+  {
+    "name": "Mulan",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "⚔️",
+    "portrait": "images/villagers/Mulan.png"
+  },
+  {
+    "name": "Mushu",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐉",
+    "portrait": "images/villagers/Mushu.png"
+  },
+  {
+    "name": "Peter Pan",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🍃",
+    "portrait": "images/villagers/Peter_Pan.png"
+  },
+  {
+    "name": "Pocahontas",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🍁",
+    "portrait": "images/villagers/Pocahontas.png"
+  },
+  {
+    "name": "Remy",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐀",
+    "portrait": "images/villagers/Remy.png"
+  },
+  {
+    "name": "Mother Gothel",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🌹",
+    "portrait": "images/villagers/Mother_Gothel.png"
+  },
+  {
+    "name": "Nala",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦁",
+    "portrait": "images/villagers/Nala.png"
+  },
+  {
+    "name": "Pumbaa",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐗",
+    "portrait": "images/villagers/Pumbaa.png"
+  },
+  {
+    "name": "Scar",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦁",
+    "portrait": "images/villagers/Scar.png"
+  },
+  {
+    "name": "Simba",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🦁",
+    "portrait": "images/villagers/Simba.png"
+  },
+  {
+    "name": "Timon",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐾",
+    "portrait": "images/villagers/Timon.png"
+  },
+  {
+    "name": "Ariel",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🧜‍♀️",
+    "portrait": "images/villagers/Ariel.png"
+  },
+  {
+    "name": "Prince Eric",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "⛵",
+    "portrait": "images/villagers/Prince_Eric.png"
+  },
+  {
+    "name": "Ursula",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐙",
+    "portrait": "images/villagers/Ursula.png"
+  },
+  {
+    "name": "Tiana",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🐸",
+    "portrait": "images/villagers/Tiana.png"
+  },
+  {
+    "name": "Merlin",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🧙",
+    "portrait": "images/villagers/Merlin.png"
+  },
+  {
+    "name": "Jack Skellington",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🎃",
+    "portrait": "images/villagers/Jack_Skellington.png"
+  },
+  {
+    "name": "Sally",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🧵",
+    "portrait": "images/villagers/Sally.png"
+  },
+  {
+    "name": "Buzz Lightyear",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🚀",
+    "portrait": "images/villagers/Buzz_Lightyear.png"
+  },
+  {
+    "name": "Woody",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🤠",
+    "portrait": "images/villagers/Woody.png"
+  },
+  {
+    "name": "WALL-E",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🤖",
+    "portrait": "images/villagers/WALL-E.png"
+  },
+  {
+    "name": "Vanellope",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "🍭",
+    "portrait": "images/villagers/Vanellope.png"
+  },
+  {
+    "name": "Jafar",
+    "realm": "Eternity Isle (DLC)",
+    "emoji": "🐍",
+    "portrait": "images/villagers/Jafar.png"
+  },
+  {
+    "name": "Gaston",
+    "realm": "Eternity Isle (DLC)",
+    "emoji": "💪",
+    "portrait": "images/villagers/Gaston.png"
+  },
+  {
+    "name": "Oswald",
+    "realm": "Eternity Isle (DLC)",
+    "emoji": "🐰",
+    "portrait": "images/villagers/Oswald.png"
+  },
+  {
+    "name": "Rapunzel",
+    "realm": "Eternity Isle (DLC)",
+    "emoji": "👸",
+    "portrait": "images/villagers/Rapunzel.png"
+  },
+  {
+    "name": "EVE",
+    "realm": "Eternity Isle (DLC)",
+    "emoji": "🛸",
+    "portrait": "images/villagers/EVE.png"
+  },
+  {
+    "name": "Merida",
+    "realm": "Storybook Vale (DLC)",
+    "emoji": "🏹",
+    "portrait": "images/villagers/Merida.png"
+  },
+  {
+    "name": "Hades",
+    "realm": "Storybook Vale (DLC)",
+    "emoji": "🔥",
+    "portrait": "images/villagers/Hades.png"
+  },
+  {
+    "name": "Aurora",
+    "realm": "Storybook Vale (DLC)",
+    "emoji": "🌹",
+    "portrait": "images/villagers/Aurora.png"
+  },
+  {
+    "name": "Maleficent",
+    "realm": "Storybook Vale (DLC)",
+    "emoji": "🐉",
+    "portrait": "images/villagers/Maleficent.png"
+  },
+  {
+    "name": "Flynn",
+    "realm": "Storybook Vale (DLC)",
+    "emoji": "🗡️",
+    "portrait": "images/villagers/Flynn.png"
+  },
+  {
+    "name": "Cruella",
+    "realm": "Wishblossom Mountains (DLC)",
+    "emoji": "🐾",
+    "portrait": "images/villagers/Cruella.png"
+  },
+  {
+    "name": "Tinker Bell",
+    "realm": "Wishblossom Mountains (DLC)",
+    "emoji": "🧚",
+    "portrait": "images/villagers/Tinker_Bell.png"
+  },
+  {
+    "name": "Snow White",
+    "realm": "Wishblossom Mountains (DLC)",
+    "emoji": "🍎",
+    "portrait": "images/villagers/Snow_White.png"
+  },
+  {
+    "name": "Tigger",
+    "realm": "Wishblossom Mountains (DLC)",
+    "emoji": "🐯",
+    "portrait": "images/villagers/Tigger.png"
+  },
+  {
+    "name": "Eeyore",
+    "realm": "Honeyglow Woods (DLC)",
+    "emoji": "🐴",
+    "portrait": "images/villagers/Eeyore.png"
+  },
+  {
+    "name": "Piglet",
+    "realm": "Honeyglow Woods (DLC)",
+    "emoji": "🐷",
+    "portrait": "images/villagers/Piglet.png"
+  },
+  {
+    "name": "Winnie the Pooh",
+    "realm": "Honeyglow Woods (DLC)",
+    "emoji": "🍯",
+    "portrait": "images/villagers/Winnie_the_Pooh.png"
+  }
+]

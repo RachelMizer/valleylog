@@ -1,0 +1,6868 @@
+[
+  {
+    "name": "Arendellian Pickled Herring",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Herring",
+      "Lemon",
+      "Onion",
+      "Garlic",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "1,962",
+    "sellPrice": "532",
+    "image": "images/dishes/Arendellian_Pickled_Herring.png"
+  },
+  {
+    "name": "Bell Pepper Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Bell Pepper",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,272",
+    "sellPrice": "606",
+    "image": "images/dishes/Bell_Pepper_Puffs.png"
+  },
+  {
+    "name": "Buñuelos",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Wheat",
+      "Cheese",
+      "Milk",
+      "Egg"
+    ],
+    "stars": 4,
+    "energy": "1,881",
+    "sellPrice": "948",
+    "image": "images/dishes/Buñuelos.png"
+  },
+  {
+    "name": "Cheese Platter",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cheese"
+    ],
+    "stars": 1,
+    "energy": "482",
+    "sellPrice": "216",
+    "image": "images/dishes/Cheese_Platter.png"
+  },
+  {
+    "name": "Chili Pepper Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Chili Pepper",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,382",
+    "sellPrice": "669",
+    "image": "images/dishes/Chili_Pepper_Puffs.png"
+  },
+  {
+    "name": "Chrysanthemum Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Chrysanthemum Tea Leaves",
+      "Blueberry"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "69",
+    "image": "images/dishes/Chrysanthemum_Tea.png"
+  },
+  {
+    "name": "Coffee",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Coffee Bean"
+    ],
+    "stars": 1,
+    "energy": "730",
+    "sellPrice": "43",
+    "image": "images/dishes/Coffee.png"
+  },
+  {
+    "name": "Crackers",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Grain"
+    ],
+    "stars": 1,
+    "energy": "80",
+    "sellPrice": "2",
+    "image": "images/dishes/Crackers.png"
+  },
+  {
+    "name": "Creamy Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Spice",
+      "Milk",
+      "Potato",
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "1,005",
+    "sellPrice": "568",
+    "image": "images/dishes/Creamy_Soup.png"
+  },
+  {
+    "name": "Crudités",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Bell Pepper",
+      "Carrot",
+      "Cucumber",
+      "Mushroom",
+      "Zucchini"
+    ],
+    "stars": 1,
+    "energy": "83",
+    "sellPrice": "26",
+    "image": "images/dishes/Crudités.png"
+  },
+  {
+    "name": "Dream Fizz",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Dreamlight Fruit",
+      "Sugarcane",
+      "Wheat",
+      "Slush Ice"
+    ],
+    "stars": 4,
+    "energy": "1,550",
+    "sellPrice": "316",
+    "image": "images/dishes/Dream_Fizz.png"
+  },
+  {
+    "name": "Eggplant Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Eggplant",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,941",
+    "sellPrice": "991",
+    "image": "images/dishes/Eggplant_Puffs.png"
+  },
+  {
+    "name": "French Fries",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Canola",
+      "Potato"
+    ],
+    "stars": 2,
+    "energy": "342",
+    "sellPrice": "304",
+    "image": "images/dishes/French_Fries.png"
+  },
+  {
+    "name": "Gazpacho",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cucumber",
+      "Tomato",
+      "Onion",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "688",
+    "sellPrice": "548",
+    "image": "images/dishes/Gazpacho.png"
+  },
+  {
+    "name": "Green Salad",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Vegetable",
+      "Lettuce",
+      "Any Vegetable",
+      "Asparagus",
+      "Bamboo"
+    ],
+    "stars": 2,
+    "energy": "180",
+    "sellPrice": "20",
+    "image": "images/dishes/Green_Salad.png"
+  },
+  {
+    "name": "Grilled Vegetables",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Broccoli",
+      "Cabbage",
+      "Celery",
+      "Chili Pepper",
+      "Corn",
+      "Eggplant",
+      "Flute Root",
+      "Onion",
+      "Pumpkin",
+      "Seaweed"
+    ],
+    "stars": 1,
+    "energy": "83",
+    "sellPrice": "9",
+    "image": "images/dishes/Grilled_Vegetables.png"
+  },
+  {
+    "name": "Grilled Veggie Platter",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Spinach",
+      "Turnip",
+      "Yam",
+      "Any Vegetable",
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "33",
+    "image": "images/dishes/Grilled_Veggie_Platter.png"
+  },
+  {
+    "name": "Hard-Boiled Eggs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Egg"
+    ],
+    "stars": 1,
+    "energy": "578",
+    "sellPrice": "264",
+    "image": "images/dishes/Hard-Boiled_Eggs.png"
+  },
+  {
+    "name": "Jasmine Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Jasmine Tea Leaves",
+      "Sugarcane",
+      "Any Seafood"
+    ],
+    "stars": 2,
+    "energy": "170",
+    "sellPrice": "56",
+    "image": "images/dishes/Jasmine_Tea.png"
+  },
+  {
+    "name": "Large Seafood Platter",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Seafood",
+      "Any Seafood",
+      "Any Seafood"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "56",
+    "image": "images/dishes/Large_Seafood_Platter.png"
+  },
+  {
+    "name": "Latte",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Lemon",
+      "Coffee Bean",
+      "Milk"
+    ],
+    "stars": 2,
+    "energy": "1,358",
+    "sellPrice": "345",
+    "image": "images/dishes/Latte.png"
+  },
+  {
+    "name": "Mocha",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Coffee Bean",
+      "Milk",
+      "Cocoa Bean"
+    ],
+    "stars": 3,
+    "energy": "2,246",
+    "sellPrice": "425",
+    "image": "images/dishes/Mocha.png"
+  },
+  {
+    "name": "Okra Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Okra"
+    ],
+    "stars": 1,
+    "energy": "99",
+    "sellPrice": "136",
+    "image": "images/dishes/Okra_Soup.png"
+  },
+  {
+    "name": "Onion Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Onion",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,392",
+    "sellPrice": "798",
+    "image": "images/dishes/Onion_Puffs.png"
+  },
+  {
+    "name": "Oolong Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Oolong Tea Leaves",
+      "Raspberry"
+    ],
+    "stars": 2,
+    "energy": "559",
+    "sellPrice": "59",
+    "image": "images/dishes/Oolong_Tea.png"
+  },
+  {
+    "name": "Oyster Platter",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Oyster",
+      "Lemon"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "107",
+    "image": "images/dishes/Oyster_Platter.png"
+  },
+  {
+    "name": "Peppermint Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Lemon",
+      "Mint"
+    ],
+    "stars": 2,
+    "energy": "993",
+    "sellPrice": "107",
+    "image": "images/dishes/Peppermint_Tea.png"
+  },
+  {
+    "name": "Pickled Herring",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Herring",
+      "Lemon",
+      "Onion",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "1,609",
+    "sellPrice": "423",
+    "image": "images/dishes/Pickled_Herring.png"
+  },
+  {
+    "name": "Potato Leek Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Leek",
+      "Potato",
+      "Milk",
+      "Onion",
+      "Garlic"
+    ],
+    "stars": 5,
+    "energy": "1,984",
+    "sellPrice": "1,415",
+    "image": "images/dishes/Potato_Leek_Soup.png"
+  },
+  {
+    "name": "Potato Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Potato",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "736",
+    "image": "images/dishes/Potato_Puffs.png"
+  },
+  {
+    "name": "Pottage",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Potato",
+      "Any Spice",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "335",
+    "sellPrice": "208",
+    "image": "images/dishes/Pottage.png"
+  },
+  {
+    "name": "Pumpkin Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Pumpkin",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,466",
+    "sellPrice": "1,489",
+    "image": "images/dishes/Pumpkin_Puffs.png"
+  },
+  {
+    "name": "Pumpkin Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Vegetable",
+      "Milk",
+      "Ginger",
+      "Pumpkin"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "1,428",
+    "image": "images/dishes/Pumpkin_Soup.png"
+  },
+  {
+    "name": "Purée",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Potato"
+    ],
+    "stars": 1,
+    "energy": "230",
+    "sellPrice": "151",
+    "image": "images/dishes/Purée.png"
+  },
+  {
+    "name": "Roasted Asparagus",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Asparagus",
+      "Canola"
+    ],
+    "stars": 2,
+    "energy": "221",
+    "sellPrice": "313",
+    "image": "images/dishes/Roasted_Asparagus.png"
+  },
+  {
+    "name": "Salad",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Lettuce"
+    ],
+    "stars": 1,
+    "energy": "139",
+    "sellPrice": "9",
+    "image": "images/dishes/Salad.png"
+  },
+  {
+    "name": "Sautéed Mushrooms",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Mushroom",
+      "Butter"
+    ],
+    "stars": 2,
+    "energy": "712",
+    "sellPrice": "286",
+    "image": "images/dishes/Sautéed_Mushrooms.png"
+  },
+  {
+    "name": "Seafood Appetizer",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Seafood"
+    ],
+    "stars": 1,
+    "energy": "242",
+    "sellPrice": "1",
+    "image": "images/dishes/Seafood_Appetizer.png"
+  },
+  {
+    "name": "Seafood Platter",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Seafood",
+      "Any Seafood"
+    ],
+    "stars": 2,
+    "energy": "458",
+    "sellPrice": "2",
+    "image": "images/dishes/Seafood_Platter.png"
+  },
+  {
+    "name": "Sesame Balls",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Wheat",
+      "Ginger",
+      "Rice"
+    ],
+    "stars": 5,
+    "energy": "722",
+    "sellPrice": "322",
+    "image": "images/dishes/Sesame_Balls.png"
+  },
+  {
+    "name": "Soufflé",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Soya",
+      "Seaweed",
+      "Cheese",
+      "Egg",
+      "Milk",
+      "Butter"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "1,230",
+    "image": "images/dishes/Soufflé.png"
+  },
+  {
+    "name": "Sweet Herring",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Herring",
+      "Onion"
+    ],
+    "stars": 2,
+    "energy": "723",
+    "sellPrice": "305",
+    "image": "images/dishes/Sweet_Herring.png"
+  },
+  {
+    "name": "Tea Sandwiches",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Wheat",
+      "Corn",
+      "Cherry",
+      "Any Fish"
+    ],
+    "stars": 4,
+    "energy": "1,378",
+    "sellPrice": "91",
+    "image": "images/dishes/Tea_Sandwiches.png"
+  },
+  {
+    "name": "Tomato Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Tomato"
+    ],
+    "stars": 1,
+    "energy": null,
+    "sellPrice": "26",
+    "image": "images/dishes/Tomato_Soup.png"
+  },
+  {
+    "name": "Vegetable Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 2,
+    "energy": "120",
+    "sellPrice": "20",
+    "image": "images/dishes/Vegetable_Soup.png"
+  },
+  {
+    "name": "Zucchini Puffs",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Zucchini",
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,216",
+    "sellPrice": "632",
+    "image": "images/dishes/Zucchini_Puffs.png"
+  },
+  {
+    "name": "Apple-Cider-Glazed Salmon",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Salmon",
+      "Sugarcane",
+      "Apple"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "271",
+    "image": "images/dishes/Apple-Cider-Glazed_Salmon.png"
+  },
+  {
+    "name": "Baked Carp",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Carp",
+      "Butter"
+    ],
+    "stars": 2,
+    "energy": "1,894",
+    "sellPrice": "767",
+    "image": "images/dishes/Baked_Carp.png"
+  },
+  {
+    "name": "Basil Omelet",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Basil",
+      "Egg",
+      "Cheese",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "2,035",
+    "sellPrice": "1,020",
+    "image": "images/dishes/Basil_Omelet.png"
+  },
+  {
+    "name": "Bouillabaisse",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Any Seafood",
+      "Shrimp",
+      "Tomato",
+      "Any Vegetable"
+    ],
+    "stars": 5,
+    "energy": "2,114",
+    "sellPrice": "529",
+    "image": "images/dishes/Bouillabaisse.png"
+  },
+  {
+    "name": "Brandade de Morue",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Cod",
+      "Potato",
+      "Milk",
+      "Lemon",
+      "Garlic"
+    ],
+    "stars": 5,
+    "energy": "2,336",
+    "sellPrice": "757",
+    "image": "images/dishes/Brandade_de_Morue.png"
+  },
+  {
+    "name": "Carp Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Carp",
+      "Lemon",
+      "Lettuce"
+    ],
+    "stars": 3,
+    "energy": "2,310",
+    "sellPrice": "617",
+    "image": "images/dishes/Carp_Salad.png"
+  },
+  {
+    "name": "Cheesy Crispy Baked Cod",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Cod",
+      "Wheat",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "840",
+    "sellPrice": "303",
+    "image": "images/dishes/Cheesy_Crispy_Baked_Cod.png"
+  },
+  {
+    "name": "Chowder",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Milk",
+      "Potato",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "1,186",
+    "sellPrice": "547",
+    "image": "images/dishes/Chowder.png"
+  },
+  {
+    "name": "Creamy Garlic Scallops",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Scallop",
+      "Lemon",
+      "Butter",
+      "Garlic"
+    ],
+    "stars": 4,
+    "energy": "1,844",
+    "sellPrice": "484",
+    "image": "images/dishes/Creamy_Garlic_Scallops.png"
+  },
+  {
+    "name": "Crispy Baked Cod",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Cod",
+      "Wheat",
+      "Any Fish"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "47",
+    "image": "images/dishes/Crispy_Baked_Cod.png"
+  },
+  {
+    "name": "Fish Creole",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Garlic",
+      "Rice",
+      "Tomato"
+    ],
+    "stars": 5,
+    "energy": "822",
+    "sellPrice": "225",
+    "image": "images/dishes/Fish_Creole.png"
+  },
+  {
+    "name": "Fish 'n' Chips",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Wheat",
+      "Canola",
+      "Potato"
+    ],
+    "stars": 4,
+    "energy": "697",
+    "sellPrice": "356",
+    "image": "images/dishes/Fish_'n'_Chips.png"
+  },
+  {
+    "name": "Fish Pasta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Garlic",
+      "Wheat",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "424",
+    "image": "images/dishes/Fish_Pasta.png"
+  },
+  {
+    "name": "Fish Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "867",
+    "sellPrice": "269",
+    "image": "images/dishes/Fish_Pie.png"
+  },
+  {
+    "name": "Fish Risotto",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Rice",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "939",
+    "sellPrice": "352",
+    "image": "images/dishes/Fish_Risotto.png"
+  },
+  {
+    "name": "Fish Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Lemon",
+      "Lettuce"
+    ],
+    "stars": 3,
+    "energy": "1,140",
+    "sellPrice": "58",
+    "image": "images/dishes/Fish_Salad.png"
+  },
+  {
+    "name": "Fish Sandwich",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Wheat"
+    ],
+    "stars": 2,
+    "energy": "337",
+    "sellPrice": "3",
+    "image": "images/dishes/Fish_Sandwich.png"
+  },
+  {
+    "name": "Fish Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Any Vegetable",
+      "Milk"
+    ],
+    "stars": 3,
+    "energy": "978",
+    "sellPrice": "334",
+    "image": "images/dishes/Fish_Soup.png"
+  },
+  {
+    "name": "Fish Steak",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Tomato",
+      "Basil"
+    ],
+    "stars": 3,
+    "energy": "537",
+    "sellPrice": "101",
+    "image": "images/dishes/Fish_Steak.png"
+  },
+  {
+    "name": "Fish Tacos",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Corn",
+      "Chili Pepper",
+      "Cheese"
+    ],
+    "stars": 4,
+    "energy": "1,171",
+    "sellPrice": "412",
+    "image": "images/dishes/Fish_Tacos.png"
+  },
+  {
+    "name": "Fugu Sushi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Fugu",
+      "Rice",
+      "Seaweed"
+    ],
+    "stars": 3,
+    "energy": "3,261",
+    "sellPrice": "1,373",
+    "image": "images/dishes/Fugu_Sushi.png"
+  },
+  {
+    "name": "Ghostly Fish Steak",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Here and There Fish",
+      "Lemon",
+      "Asparagus",
+      "Bell Pepper",
+      "Oregano"
+    ],
+    "stars": 5,
+    "energy": "3,282",
+    "sellPrice": "3,596",
+    "image": "images/dishes/Ghostly_Fish_Steak.png"
+  },
+  {
+    "name": "Greek Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Spice",
+      "Tomato",
+      "Onion",
+      "Cheese"
+    ],
+    "stars": 5,
+    "energy": "1,012",
+    "sellPrice": "622",
+    "image": "images/dishes/Greek_Pizza.png"
+  },
+  {
+    "name": "Grilled Fish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Any Fish"
+    ],
+    "stars": 1,
+    "energy": "290",
+    "sellPrice": "1",
+    "image": "images/dishes/Grilled_Fish.png"
+  },
+  {
+    "name": "Grilled Fish Entree",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Any Vegetable",
+      "Okra"
+    ],
+    "stars": 2,
+    "energy": "340",
+    "sellPrice": "11",
+    "image": "images/dishes/Grilled_Fish_Entree.png"
+  },
+  {
+    "name": "Gumbo",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Shrimp",
+      "Chili Pepper",
+      "Tomato",
+      "Onion"
+    ],
+    "stars": 0,
+    "energy": "2,226",
+    "sellPrice": "1,093",
+    "image": "images/dishes/Gumbo.png"
+  },
+  {
+    "name": "Hearty Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Lettuce",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "224",
+    "sellPrice": "33",
+    "image": "images/dishes/Hearty_Salad.png"
+  },
+  {
+    "name": "Hors d'Oeuvres",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Spice"
+    ],
+    "stars": 1,
+    "energy": "90",
+    "sellPrice": "18",
+    "image": "images/dishes/Hors_d'Oeuvres.png"
+  },
+  {
+    "name": "Kappa Maki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Seaweed",
+      "Cucumber",
+      "Rice"
+    ],
+    "stars": 3,
+    "energy": "462",
+    "sellPrice": "335",
+    "image": "images/dishes/Kappa_Maki.png"
+  },
+  {
+    "name": "Kronk's Spinach Puffs",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Spinach",
+      "Cheese",
+      "Canola"
+    ],
+    "stars": 3,
+    "energy": "750",
+    "sellPrice": "461",
+    "image": "images/dishes/Kronk's_Spinach_Puffs.png"
+  },
+  {
+    "name": "Lancetfish Paella",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Lancetfish",
+      "Shrimp",
+      "Any Seafood",
+      "Tomato",
+      "Rice"
+    ],
+    "stars": 5,
+    "energy": "4,550",
+    "sellPrice": "1,653",
+    "image": "images/dishes/Lancetfish_Paella.png"
+  },
+  {
+    "name": "Latkes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Onion",
+      "Potato",
+      "Canola",
+      "Egg"
+    ],
+    "stars": 4,
+    "energy": "1,280",
+    "sellPrice": "937",
+    "image": "images/dishes/Latkes.png"
+  },
+  {
+    "name": "Leek Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Leek"
+    ],
+    "stars": 1,
+    "energy": "414",
+    "sellPrice": "370",
+    "image": "images/dishes/Leek_Soup.png"
+  },
+  {
+    "name": "Lemon Garlic Swordfish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Swordfish",
+      "Garlic",
+      "Lemon"
+    ],
+    "stars": 3,
+    "energy": "3,713",
+    "sellPrice": "1,096",
+    "image": "images/dishes/Lemon_Garlic_Swordfish.png"
+  },
+  {
+    "name": "Lioness Feast",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mushroom",
+      "Tomato",
+      "Oregano",
+      "Here and There Fish"
+    ],
+    "stars": 4,
+    "energy": "2,368",
+    "sellPrice": "3,153",
+    "image": "images/dishes/Lioness_Feast.png"
+  },
+  {
+    "name": "Lobster Roll",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Lobster",
+      "Wheat",
+      "Lemon",
+      "Butter",
+      "Garlic"
+    ],
+    "stars": 5,
+    "energy": "4,928",
+    "sellPrice": "1,959",
+    "image": "images/dishes/Lobster_Roll.png"
+  },
+  {
+    "name": "Maguro Sushi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tuna",
+      "Seaweed",
+      "Rice",
+      "Ginger"
+    ],
+    "stars": 4,
+    "energy": "1,206",
+    "sellPrice": "338",
+    "image": "images/dishes/Maguro_Sushi.png"
+  },
+  {
+    "name": "Maki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Seaweed",
+      "Rice"
+    ],
+    "stars": 3,
+    "energy": "471",
+    "sellPrice": "114",
+    "image": "images/dishes/Maki.png"
+  },
+  {
+    "name": "Margherita Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Spice",
+      "Tomato",
+      "Cheese",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "328",
+    "image": "images/dishes/Margherita_Pizza.png"
+  },
+  {
+    "name": "Marvelous Jam",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Dreamlight Fruit",
+      "Wheat",
+      "Cucumber"
+    ],
+    "stars": 2,
+    "energy": "932",
+    "sellPrice": "54",
+    "image": "images/dishes/Marvelous_Jam.png"
+  },
+  {
+    "name": "Mediterranean Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Onion",
+      "Lettuce",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "836",
+    "sellPrice": "597",
+    "image": "images/dishes/Mediterranean_Salad.png"
+  },
+  {
+    "name": "Mushroom Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mushroom",
+      "Wheat",
+      "Tomato",
+      "Cheese"
+    ],
+    "stars": 4,
+    "energy": "837",
+    "sellPrice": "351",
+    "image": "images/dishes/Mushroom_Pizza.png"
+  },
+  {
+    "name": "Mushu's Congee",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rice",
+      "Egg",
+      "Mushroom",
+      "Garlic",
+      "Ginger"
+    ],
+    "stars": 5,
+    "energy": "1,658",
+    "sellPrice": "657",
+    "image": "images/dishes/Mushu's_Congee.png"
+  },
+  {
+    "name": "Nachos",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Chili Pepper",
+      "Corn",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "842",
+    "sellPrice": "383",
+    "image": "images/dishes/Nachos.png"
+  },
+  {
+    "name": "Omelet",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Egg",
+      "Cheese",
+      "Milk"
+    ],
+    "stars": 3,
+    "energy": "1,751",
+    "sellPrice": "882",
+    "image": "images/dishes/Omelet.png"
+  },
+  {
+    "name": "Pan-Fried Angler Fish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Anglerfish",
+      "Tomato",
+      "Zucchini",
+      "Potato"
+    ],
+    "stars": 4,
+    "energy": "4,194",
+    "sellPrice": "2,550",
+    "image": "images/dishes/Pan-Fried_Angler_Fish.png"
+  },
+  {
+    "name": "Pan-Seared Bass & Vegetables",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Bass",
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "394",
+    "sellPrice": "57",
+    "image": "images/dishes/Pan-Seared_Bass_&_Vegetables.png"
+  },
+  {
+    "name": "Pan-Seared Tilapia & Vegetables",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tilapia",
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "2,194",
+    "sellPrice": "862",
+    "image": "images/dishes/Pan-Seared_Tilapia_&_Vegetables.png"
+  },
+  {
+    "name": "Pasta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Tomato"
+    ],
+    "stars": 2,
+    "energy": "117",
+    "sellPrice": "30",
+    "image": "images/dishes/Pasta.png"
+  },
+  {
+    "name": "Peanut Butter Sandwich",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Peanut",
+      "Wheat"
+    ],
+    "stars": 2,
+    "energy": "592",
+    "sellPrice": "262",
+    "image": "images/dishes/Peanut_Butter_Sandwich.png"
+  },
+  {
+    "name": "Pesto with Linguine",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Garlic",
+      "Oregano"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "438",
+    "image": "images/dishes/Pesto_with_Linguine.png"
+  },
+  {
+    "name": "Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Cheese",
+      "Wheat"
+    ],
+    "stars": 3,
+    "energy": "607",
+    "sellPrice": "284",
+    "image": "images/dishes/Pizza.png"
+  },
+  {
+    "name": "Poached Basil-Butter Sturgeon",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "White Sturgeon",
+      "Basil",
+      "Lemon",
+      "Butter"
+    ],
+    "stars": 4,
+    "energy": "4,961",
+    "sellPrice": "2,284",
+    "image": "images/dishes/Poached_Basil-Butter_Sturgeon.png"
+  },
+  {
+    "name": "Poutine",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Potato",
+      "Canola",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "845",
+    "sellPrice": "580",
+    "image": "images/dishes/Poutine.png"
+  },
+  {
+    "name": "Ranch Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Lettuce",
+      "Bell Pepper",
+      "Corn",
+      "Tomato",
+      "Onion"
+    ],
+    "stars": 5,
+    "energy": "714",
+    "sellPrice": "396",
+    "image": "images/dishes/Ranch_Salad.png"
+  },
+  {
+    "name": "Ratatouille",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Eggplant",
+      "Onion",
+      "Zucchini",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "1,432",
+    "sellPrice": "906",
+    "image": "images/dishes/Ratatouille.png"
+  },
+  {
+    "name": "Sake Maki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rice",
+      "Seaweed",
+      "Salmon"
+    ],
+    "stars": 3,
+    "energy": "1,101",
+    "sellPrice": "323",
+    "image": "images/dishes/Sake_Maki.png"
+  },
+  {
+    "name": "Sake Sushi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Salmon",
+      "Rice"
+    ],
+    "stars": 2,
+    "energy": "1,000",
+    "sellPrice": "274",
+    "image": "images/dishes/Sake_Sushi.png"
+  },
+  {
+    "name": "Savory Fish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Lemon"
+    ],
+    "stars": 2,
+    "energy": "985",
+    "sellPrice": "43",
+    "image": "images/dishes/Savory_Fish.png"
+  },
+  {
+    "name": "Scrambled Egg",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Egg",
+      "Cheese"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "520",
+    "image": "images/dishes/Scrambled_Egg.png"
+  },
+  {
+    "name": "Seafood Boil",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Any Spice",
+      "Potato",
+      "Corn"
+    ],
+    "stars": 4,
+    "energy": "596",
+    "sellPrice": "236",
+    "image": "images/dishes/Seafood_Boil.png"
+  },
+  {
+    "name": "Seafood Pasta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Wheat",
+      "Milk"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "325",
+    "image": "images/dishes/Seafood_Pasta.png"
+  },
+  {
+    "name": "Seafood Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "813",
+    "sellPrice": "269",
+    "image": "images/dishes/Seafood_Pie.png"
+  },
+  {
+    "name": "Seafood Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Lettuce"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "11",
+    "image": "images/dishes/Seafood_Salad.png"
+  },
+  {
+    "name": "Seafood Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Seafood",
+      "Any Vegetable",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "340",
+    "sellPrice": "23",
+    "image": "images/dishes/Seafood_Soup.png"
+  },
+  {
+    "name": "Seared Rainbow Trout",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rainbow Trout",
+      "Tomato",
+      "Onion"
+    ],
+    "stars": 3,
+    "energy": "889",
+    "sellPrice": "338",
+    "image": "images/dishes/Seared_Rainbow_Trout.png"
+  },
+  {
+    "name": "Simple Fried Perch",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Perch",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,317",
+    "sellPrice": "380",
+    "image": "images/dishes/Simple_Fried_Perch.png"
+  },
+  {
+    "name": "Smoked Peanuts and Anglerfish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Anglerfish",
+      "Peanut"
+    ],
+    "stars": 2,
+    "energy": "3,960",
+    "sellPrice": "2,210",
+    "image": "images/dishes/Smoked_Peanuts_and_Anglerfish.png"
+  },
+  {
+    "name": "Sole Meunière",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sole",
+      "Wheat",
+      "Butter",
+      "Lemon"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "637",
+    "image": "images/dishes/Sole_Meunière.png"
+  },
+  {
+    "name": "Spaghetti Arrabbiata",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Wheat",
+      "Chili Pepper"
+    ],
+    "stars": 3,
+    "energy": "373",
+    "sellPrice": "141",
+    "image": "images/dishes/Spaghetti_Arrabbiata.png"
+  },
+  {
+    "name": "Spicy Baked Bream",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Bream",
+      "Chili Pepper",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "2,075",
+    "sellPrice": "767",
+    "image": "images/dishes/Spicy_Baked_Bream.png"
+  },
+  {
+    "name": "Steamed Fugu",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Fugu",
+      "Ginger",
+      "Garlic"
+    ],
+    "stars": 3,
+    "energy": "3,668",
+    "sellPrice": "1,400",
+    "image": "images/dishes/Steamed_Fugu.png"
+  },
+  {
+    "name": "Sushi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Rice"
+    ],
+    "stars": 2,
+    "energy": "405",
+    "sellPrice": "80",
+    "image": "images/dishes/Sushi.png"
+  },
+  {
+    "name": "Sweet & Sour Kingfish Steak",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Kingfish",
+      "Sugarcane",
+      "Lemon"
+    ],
+    "stars": 3,
+    "energy": "2,292",
+    "sellPrice": "702",
+    "image": "images/dishes/Sweet_&_Sour_Kingfish_Steak.png"
+  },
+  {
+    "name": "Sweet Udon",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Dreamlight Fruit",
+      "Rice",
+      "Any Seafood",
+      "Any Sweet"
+    ],
+    "stars": 4,
+    "energy": "1,427",
+    "sellPrice": "180",
+    "image": "images/dishes/Sweet_Udon.png"
+  },
+  {
+    "name": "Tamagoyaki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Egg",
+      "Sugarcane"
+    ],
+    "stars": 2,
+    "energy": "689",
+    "sellPrice": "310",
+    "image": "images/dishes/Tamagoyaki.png"
+  },
+  {
+    "name": "Tasty Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Lettuce",
+      "Cucumber",
+      "Any Vegetable",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "517",
+    "sellPrice": "284",
+    "image": "images/dishes/Tasty_Salad.png"
+  },
+  {
+    "name": "Tasty Veggies",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Any Spice"
+    ],
+    "stars": 2,
+    "energy": "127",
+    "sellPrice": "29",
+    "image": "images/dishes/Tasty_Veggies.png"
+  },
+  {
+    "name": "Tekka Maki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tuna",
+      "Soya",
+      "Seaweed",
+      "Rice"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "366",
+    "image": "images/dishes/Tekka_Maki.png"
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Soya",
+      "Salmon",
+      "Sugarcane",
+      "Rice",
+      "Ginger"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "557",
+    "image": "images/dishes/Teriyaki_Salmon.png"
+  },
+  {
+    "name": "Tuna Burger",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Lemon",
+      "Wheat",
+      "Any Vegetable"
+    ],
+    "stars": 5,
+    "energy": "1,922",
+    "sellPrice": "491",
+    "image": "images/dishes/Tuna_Burger.png"
+  },
+  {
+    "name": "Vegetarian Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Any Vegetable",
+      "Tomato",
+      "Cheese",
+      "Wheat"
+    ],
+    "stars": 5,
+    "energy": "754",
+    "sellPrice": "350",
+    "image": "images/dishes/Vegetarian_Pizza.png"
+  },
+  {
+    "name": "Vegetarian Stew",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Onion"
+    ],
+    "stars": 3,
+    "energy": "617",
+    "sellPrice": "475",
+    "image": "images/dishes/Vegetarian_Stew.png"
+  },
+  {
+    "name": "Vegetarian Taco",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Corn",
+      "Chili Pepper",
+      "Cheese",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "925",
+    "sellPrice": "423",
+    "image": "images/dishes/Vegetarian_Taco.png"
+  },
+  {
+    "name": "Veggie Casserole",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Any Vegetable",
+      "Cheese",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "688",
+    "sellPrice": "316",
+    "image": "images/dishes/Veggie_Casserole.png"
+  },
+  {
+    "name": "Veggie Pasta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Wheat",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "158",
+    "sellPrice": "43",
+    "image": "images/dishes/Veggie_Pasta.png"
+  },
+  {
+    "name": "Veggie Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Butter",
+      "Wheat"
+    ],
+    "stars": 3,
+    "energy": "634",
+    "sellPrice": "279",
+    "image": "images/dishes/Veggie_Pie.png"
+  },
+  {
+    "name": "Veggie Skewers",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mushroom",
+      "Zucchini",
+      "Onion",
+      "Bell Pepper"
+    ],
+    "stars": 4,
+    "energy": "767",
+    "sellPrice": "427",
+    "image": "images/dishes/Veggie_Skewers.png"
+  },
+  {
+    "name": "Walleye en Papillote",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Walleye",
+      "Basil",
+      "Oregano",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "3,689",
+    "sellPrice": "1,812",
+    "image": "images/dishes/Walleye_en_Papillote.png"
+  },
+  {
+    "name": "Wheat Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Milk",
+      "Wheat"
+    ],
+    "stars": 2,
+    "energy": "668",
+    "sellPrice": "301",
+    "image": "images/dishes/Wheat_Porridge.png"
+  },
+  {
+    "name": "Wheat Porridge with Fruit",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Milk",
+      "Wheat",
+      "Any Fruit"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "336",
+    "image": "images/dishes/Wheat_Porridge_with_Fruit.png"
+  },
+  {
+    "name": "Wonton Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Egg",
+      "Shrimp",
+      "Wheat",
+      "Onion"
+    ],
+    "stars": 4,
+    "energy": "2,415",
+    "sellPrice": "1,038",
+    "image": "images/dishes/Wonton_Soup.png"
+  },
+  {
+    "name": "\"My Hero\" Cookie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Any Sweet"
+    ],
+    "stars": 3,
+    "energy": "679",
+    "sellPrice": "294",
+    "image": "images/dishes/_My_Hero__Cookie.png"
+  },
+  {
+    "name": "Apple Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Apple",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,137",
+    "sellPrice": "303",
+    "image": "images/dishes/Apple_Pie.png"
+  },
+  {
+    "name": "Apple Sorbet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Apple",
+      "Sugarcane"
+    ],
+    "stars": 3,
+    "energy": "1,077",
+    "sellPrice": "271",
+    "image": "images/dishes/Apple_Sorbet.png"
+  },
+  {
+    "name": "Aurora's Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Sugarcane",
+      "Egg",
+      "Any Fruit",
+      "Milk"
+    ],
+    "stars": 5,
+    "energy": "1,572",
+    "sellPrice": "767",
+    "image": "images/dishes/Aurora's_Cake.png"
+  },
+  {
+    "name": "Banana Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Banana",
+      "Milk",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": "1,884",
+    "sellPrice": "641",
+    "image": "images/dishes/Banana_Ice_Cream.png"
+  },
+  {
+    "name": "Banana Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Banana",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,227",
+    "sellPrice": "308",
+    "image": "images/dishes/Banana_Pie.png"
+  },
+  {
+    "name": "Banana Split",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Banana",
+      "Milk",
+      "Sugarcane",
+      "Any Sweet"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "714",
+    "image": "images/dishes/Banana_Split.png"
+  },
+  {
+    "name": "Beignets",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Canola",
+      "Wheat",
+      "Egg",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": "912",
+    "sellPrice": "524",
+    "image": "images/dishes/Beignets.png"
+  },
+  {
+    "name": "Berry Salad",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Raspberry",
+      "Blueberry",
+      "Gooseberry"
+    ],
+    "stars": 3,
+    "energy": "2,255",
+    "sellPrice": "139",
+    "image": "images/dishes/Berry_Salad.png"
+  },
+  {
+    "name": "Birthday Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cocoa Bean",
+      "Wheat",
+      "Sugarcane",
+      "Egg",
+      "Butter"
+    ],
+    "stars": 5,
+    "energy": "2,310",
+    "sellPrice": "749",
+    "image": "images/dishes/Birthday_Cake.png"
+  },
+  {
+    "name": "Biscuits",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Sugarcane",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "679",
+    "sellPrice": "294",
+    "image": "images/dishes/Biscuits.png"
+  },
+  {
+    "name": "Blueberry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Blueberry",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "308",
+    "image": "images/dishes/Blueberry_Pie.png"
+  },
+  {
+    "name": "Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk"
+    ],
+    "stars": 2,
+    "energy": "714",
+    "sellPrice": "323",
+    "image": "images/dishes/Boba_Tea.png"
+  },
+  {
+    "name": "Candy",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Any Sweet"
+    ],
+    "stars": 1,
+    "energy": null,
+    "sellPrice": "22",
+    "image": "images/dishes/Candy.png"
+  },
+  {
+    "name": "Cannoli",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Cheese",
+      "Egg",
+      "Vanilla"
+    ],
+    "stars": 4,
+    "energy": "1,482",
+    "sellPrice": "678",
+    "image": "images/dishes/Cannoli.png"
+  },
+  {
+    "name": "Caramel Apples",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Apple"
+    ],
+    "stars": 2,
+    "energy": "638",
+    "sellPrice": "56",
+    "image": "images/dishes/Caramel_Apples.png"
+  },
+  {
+    "name": "Carrot Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Carrot",
+      "Wheat",
+      "Egg",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": "908",
+    "sellPrice": "427",
+    "image": "images/dishes/Carrot_Cake.png"
+  },
+  {
+    "name": "Cheesecake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cheese",
+      "Wheat",
+      "Sugarcane",
+      "Any Fruit"
+    ],
+    "stars": 4,
+    "energy": "725",
+    "sellPrice": "314",
+    "image": "images/dishes/Cheesecake.png"
+  },
+  {
+    "name": "Cherry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cherry",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,497",
+    "sellPrice": "326",
+    "image": "images/dishes/Cherry_Pie.png"
+  },
+  {
+    "name": "Cheshire Cat Tail",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cocoa Bean",
+      "Egg",
+      "Wheat",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": "1,655",
+    "sellPrice": "418",
+    "image": "images/dishes/Cheshire_Cat_Tail.png"
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cocoa Bean",
+      "Wheat",
+      "Sugarcane",
+      "Butter"
+    ],
+    "stars": 4,
+    "energy": "1,569",
+    "sellPrice": "373",
+    "image": "images/dishes/Chocolate_Chip_Cookies.png"
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cocoa Bean",
+      "Sugarcane",
+      "Milk",
+      "Slush Ice"
+    ],
+    "stars": 4,
+    "energy": "2,074",
+    "sellPrice": "655",
+    "image": "images/dishes/Chocolate_Ice_Cream.png"
+  },
+  {
+    "name": "Chocolate Waffles",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cocoa Bean",
+      "Wheat",
+      "Egg",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "2,223",
+    "sellPrice": "735",
+    "image": "images/dishes/Chocolate_Waffles.png"
+  },
+  {
+    "name": "Coconut Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Coconut"
+    ],
+    "stars": 3,
+    "energy": "1,653",
+    "sellPrice": "406",
+    "image": "images/dishes/Coconut_Boba_Tea.png"
+  },
+  {
+    "name": "Coconut Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Coconut",
+      "Wheat",
+      "Egg",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "424",
+    "image": "images/dishes/Coconut_Cake.png"
+  },
+  {
+    "name": "Coconut Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Milk",
+      "Sugarcane",
+      "Coconut"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "661",
+    "image": "images/dishes/Coconut_Ice_Cream.png"
+  },
+  {
+    "name": "Crepe",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Milk",
+      "Vanilla"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "753",
+    "image": "images/dishes/Crepe.png"
+  },
+  {
+    "name": "Dream Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Dreamlight Fruit",
+      "Milk",
+      "Slush Ice"
+    ],
+    "stars": 3,
+    "energy": "1,976",
+    "sellPrice": "588",
+    "image": "images/dishes/Dream_Ice_Cream.png"
+  },
+  {
+    "name": "Festive Blueberry Hot Cocoa",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Festive Cocoa Bean",
+      "Blueberry"
+    ],
+    "stars": 4,
+    "energy": "1,647",
+    "sellPrice": "491",
+    "image": "images/dishes/Festive_Blueberry_Hot_Cocoa.png"
+  },
+  {
+    "name": "Festive Cherry Hot Cocoa",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Festive Cocoa Bean"
+    ],
+    "stars": 4,
+    "energy": "1,932",
+    "sellPrice": "511",
+    "image": "images/dishes/Festive_Cherry_Hot_Cocoa.png"
+  },
+  {
+    "name": "Festive Mint Hot Cocoa",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cherry",
+      "Sugarcane",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "1,276",
+    "sellPrice": "523",
+    "image": "images/dishes/Festive_Mint_Hot_Cocoa.png"
+  },
+  {
+    "name": "Fruit Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Festive Cocoa Bean",
+      "Mint",
+      "Any Fruit",
+      "Coconut",
+      "Coffee Bean",
+      "Lemon",
+      "Raspberry",
+      "Grapes"
+    ],
+    "stars": 3,
+    "energy": "634",
+    "sellPrice": "280",
+    "image": "images/dishes/Fruit_Pie.png"
+  },
+  {
+    "name": "Fruit Salad",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Any Fruit"
+    ],
+    "stars": 1,
+    "energy": "83",
+    "sellPrice": "10",
+    "image": "images/dishes/Fruit_Salad.png"
+  },
+  {
+    "name": "Fruit Sorbet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Any Fruit"
+    ],
+    "stars": 2,
+    "energy": "467",
+    "sellPrice": "206",
+    "image": "images/dishes/Fruit_Sorbet.png"
+  },
+  {
+    "name": "Fruitcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Any Fruit",
+      "Any Fruit",
+      "Any Fruit"
+    ],
+    "stars": 4,
+    "energy": "203",
+    "sellPrice": "42",
+    "image": "images/dishes/Fruitcake.png"
+  },
+  {
+    "name": "Garlic Chocolate Tart",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cheese",
+      "Cocoa Bean",
+      "Garlic",
+      "Egg",
+      "Wheat"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "783",
+    "image": "images/dishes/Garlic_Chocolate_Tart.png"
+  },
+  {
+    "name": "Gingerbread House",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Ginger",
+      "Sugarcane",
+      "Vanilla",
+      "Egg"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "545",
+    "image": "images/dishes/Gingerbread_House.png"
+  },
+  {
+    "name": "Gooseberry Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Gooseberry"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "418",
+    "image": "images/dishes/Gooseberry_Boba_Tea.png"
+  },
+  {
+    "name": "Gray Stuff",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Any Dairy or Oil",
+      "Sugarcane",
+      "Cocoa Bean"
+    ],
+    "stars": 3,
+    "energy": "976",
+    "sellPrice": "87",
+    "image": "images/dishes/Gray_Stuff.png"
+  },
+  {
+    "name": "Halloween Gingerbread Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Pumpkin",
+      "Ginger"
+    ],
+    "stars": 3,
+    "energy": "735",
+    "sellPrice": "1,001",
+    "image": "images/dishes/Halloween_Gingerbread_Cookies.png"
+  },
+  {
+    "name": "Hot Cocoa",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Cocoa Bean"
+    ],
+    "stars": 3,
+    "energy": "1,563",
+    "sellPrice": "401",
+    "image": "images/dishes/Hot_Cocoa.png"
+  },
+  {
+    "name": "Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Milk",
+      "Sugarcane"
+    ],
+    "stars": 3,
+    "energy": "1,158",
+    "sellPrice": "558",
+    "image": "images/dishes/Ice_Cream.png"
+  },
+  {
+    "name": "Jam Waffles",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Any Fruit",
+      "Wheat",
+      "Egg",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "1,407",
+    "sellPrice": "691",
+    "image": "images/dishes/Jam_Waffles.png"
+  },
+  {
+    "name": "Joyful Meal",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Blueberry",
+      "Raspberry",
+      "Banana"
+    ],
+    "stars": 4,
+    "energy": "1,938",
+    "sellPrice": "120",
+    "image": "images/dishes/Joyful_Meal.png"
+  },
+  {
+    "name": "Lemon Sorbet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Lemon"
+    ],
+    "stars": 2,
+    "energy": "1,112",
+    "sellPrice": "237",
+    "image": "images/dishes/Lemon_Sorbet.png"
+  },
+  {
+    "name": "Meringue Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Lemon",
+      "Wheat",
+      "Egg",
+      "Butter"
+    ],
+    "stars": 4,
+    "energy": "2,014",
+    "sellPrice": "667",
+    "image": "images/dishes/Meringue_Pie.png"
+  },
+  {
+    "name": "Mermaid Cupcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Wheat",
+      "Sugarcane",
+      "Scallop"
+    ],
+    "stars": 5,
+    "energy": "1,690",
+    "sellPrice": "785",
+    "image": "images/dishes/Mermaid_Cupcake.png"
+  },
+  {
+    "name": "Minnie Cupcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Wheat",
+      "Sugarcane"
+    ],
+    "stars": 0,
+    "energy": "2,040",
+    "sellPrice": "745",
+    "image": "images/dishes/Minnie_Cupcake.png"
+  },
+  {
+    "name": "Minnie's Gingerbread Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Apple",
+      "Wheat",
+      "Ginger"
+    ],
+    "stars": 2,
+    "energy": "379",
+    "sellPrice": "67",
+    "image": "images/dishes/Minnie's_Gingerbread_Cookies.png"
+  },
+  {
+    "name": "Mint Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Mint"
+    ],
+    "stars": 3,
+    "energy": "1,032",
+    "sellPrice": "418",
+    "image": "images/dishes/Mint_Boba_Tea.png"
+  },
+  {
+    "name": "Mint Candy",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Mint",
+      "Sugarcane"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "89",
+    "image": "images/dishes/Mint_Candy.png"
+  },
+  {
+    "name": "Mint Chocolate",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Mint",
+      "Sugarcane",
+      "Butter",
+      "Cocoa Bean"
+    ],
+    "stars": 4,
+    "energy": "1,827",
+    "sellPrice": "445",
+    "image": "images/dishes/Mint_Chocolate.png"
+  },
+  {
+    "name": "Mint Sorbet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Mint"
+    ],
+    "stars": 2,
+    "energy": "695",
+    "sellPrice": "260",
+    "image": "images/dishes/Mint_Sorbet.png"
+  },
+  {
+    "name": "Pastéis de Nata",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Corn",
+      "Egg",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "1,645",
+    "sellPrice": "774",
+    "image": "images/dishes/Pastéis_de_Nata.png"
+  },
+  {
+    "name": "Pastry Cream and Fruits",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Vanilla",
+      "Any Fruit",
+      "Any Fruit",
+      "Any Fruit"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "440",
+    "image": "images/dishes/Pastry_Cream_and_Fruits.png"
+  },
+  {
+    "name": "Pawpsicle",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Milk",
+      "Sugarcane",
+      "Slush Ice",
+      "Sugarcane",
+      "Any Fruit"
+    ],
+    "stars": 3,
+    "energy": "574",
+    "sellPrice": "248",
+    "image": "images/dishes/Pawpsicle.png"
+  },
+  {
+    "name": "Peanut Butter Waffles",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Peanut",
+      "Wheat",
+      "Egg",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "1,938",
+    "sellPrice": "978",
+    "image": "images/dishes/Peanut_Butter_Waffles.png"
+  },
+  {
+    "name": "Plain Snow Cones",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Any Ice",
+      "Butter"
+    ],
+    "stars": 1,
+    "energy": "410",
+    "sellPrice": "180",
+    "image": "images/dishes/Plain_Snow_Cones.png"
+  },
+  {
+    "name": "Princess Aurora Raspberry Cupcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Milk",
+      "Wheat",
+      "Sugarcane",
+      "Raspberry"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "738",
+    "image": "images/dishes/Princess_Aurora_Raspberry_Cupcake.png"
+  },
+  {
+    "name": "Raspberry Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sugarcane",
+      "Milk",
+      "Raspberry"
+    ],
+    "stars": 3,
+    "energy": "1,248",
+    "sellPrice": "377",
+    "image": "images/dishes/Raspberry_Boba_Tea.png"
+  },
+  {
+    "name": "Red Fruit Sorbet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Raspberry",
+      "Gooseberry",
+      "Sugarcane"
+    ],
+    "stars": 0,
+    "energy": "2,226",
+    "sellPrice": "359",
+    "image": "images/dishes/Red_Fruit_Sorbet.png"
+  },
+  {
+    "name": "Red Velvet",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Cheese",
+      "Egg",
+      "Cocoa Bean",
+      "Vanilla"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "783",
+    "image": "images/dishes/Red_Velvet.png"
+  },
+  {
+    "name": "Roasted Marshmallows",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Pink Marshmallow",
+      "Pink Marshmallow",
+      "Blue Marshmallow",
+      "Blue Marshmallow"
+    ],
+    "stars": 4,
+    "energy": "3,470",
+    "sellPrice": "300",
+    "image": "images/dishes/Roasted_Marshmallows.png"
+  },
+  {
+    "name": "Root Beer",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Ginger",
+      "Sugarcane",
+      "Vanilla"
+    ],
+    "stars": 3,
+    "energy": "690",
+    "sellPrice": "166",
+    "image": "images/dishes/Root_Beer.png"
+  },
+  {
+    "name": "Shake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Any Dairy or Oil"
+    ],
+    "stars": 1,
+    "energy": "80",
+    "sellPrice": "7",
+    "image": "images/dishes/Shake.png"
+  },
+  {
+    "name": "S'mores",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Pink Marshmallow",
+      "Blue Marshmallow",
+      "Wheat",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": "1,832",
+    "sellPrice": "156",
+    "image": "images/dishes/S'mores.png"
+  },
+  {
+    "name": "Snow White's Gooseberry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Gooseberry",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,677",
+    "sellPrice": "338",
+    "image": "images/dishes/Snow_White's_Gooseberry_Pie.png"
+  },
+  {
+    "name": "Sour Snow Cones",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Lemon",
+      "Sugarcane"
+    ],
+    "stars": 3,
+    "energy": "1,257",
+    "sellPrice": "282",
+    "image": "images/dishes/Sour_Snow_Cones.png"
+  },
+  {
+    "name": "Spaceship Earth Cupcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Wheat",
+      "Sugarcane",
+      "Coconut"
+    ],
+    "stars": 0,
+    "energy": "2,440",
+    "sellPrice": "772",
+    "image": "images/dishes/Spaceship_Earth_Cupcake.png"
+  },
+  {
+    "name": "Spring Chocolate",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Spring V-EGG-etable",
+      "Sugarcane",
+      "Cocoa Bean"
+    ],
+    "stars": 3,
+    "energy": "1,392",
+    "sellPrice": "254",
+    "image": "images/dishes/Spring_Chocolate.png"
+  },
+  {
+    "name": "Spring Egg Bowl",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Egg-cellent Fruit",
+      "Spring V-EGG-etable",
+      "Wild Spring Egg",
+      "Cocoa Bean",
+      "Sugarcane"
+    ],
+    "stars": 5,
+    "energy": "1,942",
+    "sellPrice": "370",
+    "image": "images/dishes/Spring_Egg_Bowl.png"
+  },
+  {
+    "name": "Spring Mimosa Eggs",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Spring V-EGG-etable",
+      "Wild Spring Egg",
+      "Egg-cellent Fruit",
+      "Basil"
+    ],
+    "stars": 4,
+    "energy": "1,095",
+    "sellPrice": "336",
+    "image": "images/dishes/Spring_Mimosa_Eggs.png"
+  },
+  {
+    "name": "Stitch Cupcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Wheat",
+      "Sugarcane"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "751",
+    "image": "images/dishes/Stitch_Cupcake.png"
+  },
+  {
+    "name": "Sweet Slush",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Blueberry",
+      "Slush Ice",
+      "Any Sweet"
+    ],
+    "stars": 2,
+    "energy": "510",
+    "sellPrice": "219",
+    "image": "images/dishes/Sweet_Slush.png"
+  },
+  {
+    "name": "Tropical Pop",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Any Fruit",
+      "Sugarcane",
+      "Coconut"
+    ],
+    "stars": 4,
+    "energy": "1,553",
+    "sellPrice": "329",
+    "image": "images/dishes/Tropical_Pop.png"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Milk",
+      "Sugarcane",
+      "Vanilla"
+    ],
+    "stars": 4,
+    "energy": "1,475",
+    "sellPrice": "673",
+    "image": "images/dishes/Vanilla_Ice_Cream.png"
+  },
+  {
+    "name": "Waffles",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Milk",
+      "Egg",
+      "Any Sweet (Sugarcane only)"
+    ],
+    "stars": 4,
+    "energy": "1,455",
+    "sellPrice": "706",
+    "image": "images/dishes/Waffles.png"
+  },
+  {
+    "name": "Wedding Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Sugarcane",
+      "Vanilla"
+    ],
+    "stars": 5,
+    "energy": "1,680",
+    "sellPrice": "769",
+    "image": "images/dishes/Wedding_Cake.png"
+  },
+  {
+    "name": "Whimsical Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Egg",
+      "Wheat",
+      "Dreamlight Fruit",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,497",
+    "sellPrice": "324",
+    "image": "images/dishes/Whimsical_Pie.png"
+  },
+  {
+    "name": "Wonderland Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Butter",
+      "Sugarcane",
+      "Vanilla",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": "970",
+    "sellPrice": "391",
+    "image": "images/dishes/Wonderland_Cookies.png"
+  },
+  {
+    "name": "Yule Log",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Cocoa Bean",
+      "Vanilla",
+      "Cherry"
+    ],
+    "stars": 4,
+    "energy": "2,147",
+    "sellPrice": "198",
+    "image": "images/dishes/Yule_Log.png"
+  },
+  {
+    "name": "Arepas Con Queso",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Corn",
+      "Cheese",
+      "Agave"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "309",
+    "image": "images/dishes/Arepas_Con_Queso.png"
+  },
+  {
+    "name": "Baozi",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Pork",
+      "Wheat",
+      "Soya",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "718",
+    "sellPrice": "503",
+    "image": "images/dishes/Baozi.png"
+  },
+  {
+    "name": "Barbecued Brilliant Blue Starfish",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Brilliant Blue",
+      "Starfish",
+      "Mint"
+    ],
+    "stars": 2,
+    "energy": "3,118",
+    "sellPrice": "1,202",
+    "image": "images/dishes/Barbecued_Brilliant_Blue_Starfish.png"
+  },
+  {
+    "name": "Barbecued Pretty Pink Starfish",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Pretty Pink Starfish",
+      "Paprika",
+      "Wheat"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "1,202",
+    "image": "images/dishes/Barbecued_Pretty_Pink_Starfish.png"
+  },
+  {
+    "name": "Bulgur Salad",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cucumber",
+      "Tomato",
+      "Mint"
+    ],
+    "stars": 5,
+    "energy": "780",
+    "sellPrice": "396",
+    "image": "images/dishes/Bulgur_Salad.png"
+  },
+  {
+    "name": "Clam Juice",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Spice",
+      "Clam",
+      "Tomato"
+    ],
+    "stars": 2,
+    "energy": "289",
+    "sellPrice": "93",
+    "image": "images/dishes/Clam_Juice.png"
+  },
+  {
+    "name": "Coleslaw",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cabbage",
+      "Carrot"
+    ],
+    "stars": 2,
+    "energy": "387",
+    "sellPrice": "389",
+    "image": "images/dishes/Coleslaw.png"
+  },
+  {
+    "name": "Conch Ceviche",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Sea Snail",
+      "Onion",
+      "Tomato",
+      "Lemon"
+    ],
+    "stars": 4,
+    "energy": "2,646",
+    "sellPrice": "712",
+    "image": "images/dishes/Conch_Ceviche.png"
+  },
+  {
+    "name": "Crab Melts",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Crab",
+      "Cheese"
+    ],
+    "stars": 2,
+    "energy": "2,549",
+    "sellPrice": "1,014",
+    "image": "images/dishes/Crab_Melts.png"
+  },
+  {
+    "name": "Dumplings",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Meat",
+      "Wheat",
+      "Any Vegetable",
+      "Soya"
+    ],
+    "stars": 4,
+    "energy": "710",
+    "sellPrice": "493",
+    "image": "images/dishes/Dumplings.png"
+  },
+  {
+    "name": "Falafel",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Beans",
+      "Cumin",
+      "Garlic"
+    ],
+    "stars": 3,
+    "energy": "528",
+    "sellPrice": "159",
+    "image": "images/dishes/Falafel.png"
+  },
+  {
+    "name": "Nuts & Bolts",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Robot Fish",
+      "Almonds"
+    ],
+    "stars": 2,
+    "energy": "3,195",
+    "sellPrice": "866",
+    "image": "images/dishes/Nuts_&_Bolts.png"
+  },
+  {
+    "name": "Roasted Almonds",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Almonds",
+      "Agave"
+    ],
+    "stars": 2,
+    "energy": "1,070",
+    "sellPrice": "86",
+    "image": "images/dishes/Roasted_Almonds.png"
+  },
+  {
+    "name": "Royal Ice Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Slush Ice",
+      "Majestea"
+    ],
+    "stars": 2,
+    "energy": "610",
+    "sellPrice": "234",
+    "image": "images/dishes/Royal_Ice_Tea.png"
+  },
+  {
+    "name": "Royal Latte",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Milk",
+      "Majestea"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "338",
+    "image": "images/dishes/Royal_Latte.png"
+  },
+  {
+    "name": "Royal Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Majestea"
+    ],
+    "stars": 1,
+    "energy": null,
+    "sellPrice": "36",
+    "image": "images/dishes/Royal_Tea.png"
+  },
+  {
+    "name": "Sand Worm Carpaccio Plate",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Sand Worm",
+      "Melon"
+    ],
+    "stars": 0,
+    "energy": "3,004",
+    "sellPrice": "1,160",
+    "image": "images/dishes/Sand_Worm_Carpaccio_Plate.png"
+  },
+  {
+    "name": "Shad Ceviche",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Shad",
+      "Onion",
+      "Tomato",
+      "Lemon"
+    ],
+    "stars": 4,
+    "energy": "1,696",
+    "sellPrice": "427",
+    "image": "images/dishes/Shad_Ceviche.png"
+  },
+  {
+    "name": "Spicy Scorpion Skewer",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Scorpion",
+      "Paprika"
+    ],
+    "stars": 2,
+    "energy": "1,792",
+    "sellPrice": "617",
+    "image": "images/dishes/Spicy_Scorpion_Skewer.png"
+  },
+  {
+    "name": "Takoyaki Stick",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Octopus",
+      "Seaweed",
+      "Egg",
+      "Soya"
+    ],
+    "stars": 4,
+    "energy": "2,164",
+    "sellPrice": "898",
+    "image": "images/dishes/Takoyaki_Stick.png"
+  },
+  {
+    "name": "Thousand Needles",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Brilliant Blue",
+      "Starfish",
+      "Pretty Pink Starfish",
+      "Cactoberries"
+    ],
+    "stars": 3,
+    "energy": "5,625",
+    "sellPrice": "2,497",
+    "image": "images/dishes/Thousand_Needles.png"
+  },
+  {
+    "name": "Tomato Basil Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Tomato",
+      "Basil"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "93",
+    "image": "images/dishes/Tomato_Basil_Soup.png"
+  },
+  {
+    "name": "Vegetarian Dumplings",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Wheat",
+      "Any Vegetables",
+      "Soya"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "109",
+    "image": "images/dishes/Vegetarian_Dumplings.png"
+  },
+  {
+    "name": "Ajiaco",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Corn",
+      "Potato",
+      "Poultry"
+    ],
+    "stars": 3,
+    "energy": "757",
+    "sellPrice": "898",
+    "image": "images/dishes/Ajiaco.png"
+  },
+  {
+    "name": "Baked Beans",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Beans",
+      "Pork"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "388",
+    "image": "images/dishes/Baked_Beans.png"
+  },
+  {
+    "name": "Best Fish Forever",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sea Snail",
+      "Robot Fish",
+      "Celery",
+      "Cumin"
+    ],
+    "stars": 0,
+    "energy": "4,420",
+    "sellPrice": "1,431",
+    "image": "images/dishes/Best_Fish_Forever.png"
+  },
+  {
+    "name": "Biryani",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Rice",
+      "Cinnamon",
+      "Cumin",
+      "Mint"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "1,049",
+    "image": "images/dishes/Biryani.png"
+  },
+  {
+    "name": "Blend of the Bayou",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Prisma Shrimp",
+      "Rice",
+      "Celery",
+      "Butter",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "4,108",
+    "sellPrice": "2,409",
+    "image": "images/dishes/Blend_of_the_Bayou.png"
+  },
+  {
+    "name": "Bony Osso Buco",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Skeleton Fish",
+      "Celery",
+      "Any Vegetable",
+      "Grapes"
+    ],
+    "stars": 4,
+    "energy": "1,192",
+    "sellPrice": "272",
+    "image": "images/dishes/Bony_Osso_Buco.png"
+  },
+  {
+    "name": "Braised Abalone",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oyster",
+      "Sea Snail",
+      "Mushroom",
+      "Garlic"
+    ],
+    "stars": 0,
+    "energy": "2,500",
+    "sellPrice": "570",
+    "image": "images/dishes/Braised_Abalone.png"
+  },
+  {
+    "name": "Braised Bamboo Shoots",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Bamboo",
+      "Canola",
+      "Soya",
+      "Ginger"
+    ],
+    "stars": 4,
+    "energy": "898",
+    "sellPrice": "461",
+    "image": "images/dishes/Braised_Bamboo_Shoots.png"
+  },
+  {
+    "name": "Burrito",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Meat",
+      "Wheat",
+      "Beans",
+      "Cumin"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "473",
+    "image": "images/dishes/Burrito.png"
+  },
+  {
+    "name": "Butter Chicken",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Tomato",
+      "Butter",
+      "Lemon",
+      "Cumin"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "1,200",
+    "image": "images/dishes/Butter_Chicken.png"
+  },
+  {
+    "name": "Cheeseburger",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Wheat",
+      "Any Vegetable",
+      "Cheese"
+    ],
+    "stars": 4,
+    "energy": "1,113",
+    "sellPrice": "1,785",
+    "image": "images/dishes/Cheeseburger.png"
+  },
+  {
+    "name": "Chicken Souvlaki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Lemon",
+      "Mint",
+      "Paprika"
+    ],
+    "stars": 4,
+    "energy": "1,816",
+    "sellPrice": "949",
+    "image": "images/dishes/Chicken_Souvlaki.png"
+  },
+  {
+    "name": "Classic Frankfurter",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Poultry",
+      "Venison",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": "1,511",
+    "sellPrice": "2,628",
+    "image": "images/dishes/Classic_Frankfurter.png"
+  },
+  {
+    "name": "Classic Mac & Cheese",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Cheese"
+    ],
+    "stars": 2,
+    "energy": "541",
+    "sellPrice": "236",
+    "image": "images/dishes/Classic_Mac_&_Cheese.png"
+  },
+  {
+    "name": "Club Sandwich",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Poultry",
+      "Wheat",
+      "Tomato"
+    ],
+    "stars": 4,
+    "energy": "1,075",
+    "sellPrice": "1,161",
+    "image": "images/dishes/Club_Sandwich.png"
+  },
+  {
+    "name": "Coq en Barbouille",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Onion",
+      "Any Vegetable",
+      "Grapes"
+    ],
+    "stars": 4,
+    "energy": "880",
+    "sellPrice": "1,030",
+    "image": "images/dishes/Coq_en_Barbouille.png"
+  },
+  {
+    "name": "Cream Cheese Bagel",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Cheese",
+      "Any Sweet"
+    ],
+    "stars": 3,
+    "energy": "652",
+    "sellPrice": "280",
+    "image": "images/dishes/Cream_Cheese_Bagel.png"
+  },
+  {
+    "name": "Crimson Burger",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Any Vegetable",
+      "Ruby Lentils"
+    ],
+    "stars": 3,
+    "energy": "187",
+    "sellPrice": "231",
+    "image": "images/dishes/Crimson_Burger.png"
+  },
+  {
+    "name": "Dragon Roll Maki",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Electric Eel",
+      "Rice",
+      "Seaweed",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "3,193",
+    "sellPrice": "1,670",
+    "image": "images/dishes/Dragon_Roll_Maki.png"
+  },
+  {
+    "name": "Fabulous Fajitas",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Wheat",
+      "Any Vegetable",
+      "Any Vegetable",
+      "Cumin"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "851",
+    "image": "images/dishes/Fabulous_Fajitas.png"
+  },
+  {
+    "name": "Good Ol' Fashioned Burger",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Wheat",
+      "Lettuce"
+    ],
+    "stars": 3,
+    "energy": "634",
+    "sellPrice": "1,413",
+    "image": "images/dishes/Good_Ol'_Fashioned_Burger.png"
+  },
+  {
+    "name": "Hamburger Steak",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Potato",
+      "Any Vegetable",
+      "Beans"
+    ],
+    "stars": 4,
+    "energy": "855",
+    "sellPrice": "1,774",
+    "image": "images/dishes/Hamburger_Steak.png"
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Wheat",
+      "Tomato",
+      "Cheese",
+      "Pineapple"
+    ],
+    "stars": 5,
+    "energy": "1,506",
+    "sellPrice": "1,577",
+    "image": "images/dishes/Hawaiian_Pizza.png"
+  },
+  {
+    "name": "Jerk Chicken",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Onion",
+      "Garlic",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "1,105",
+    "sellPrice": "1,102",
+    "image": "images/dishes/Jerk_Chicken.png"
+  },
+  {
+    "name": "Lo-Fries",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Flute Root",
+      "Yam",
+      "Canola"
+    ],
+    "stars": 3,
+    "energy": "387",
+    "sellPrice": "358",
+    "image": "images/dishes/Lo-Fries.png"
+  },
+  {
+    "name": "Meat Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Meat",
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 3,
+    "energy": "1,047",
+    "sellPrice": "618",
+    "image": "images/dishes/Meat_Pie.png"
+  },
+  {
+    "name": "Meaty Taco",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Chili Pepper",
+      "Corn",
+      "Any Vegetable",
+      "Cumin"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "1,785",
+    "image": "images/dishes/Meaty_Taco.png"
+  },
+  {
+    "name": "Milky Way Stew",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rainbow Trout",
+      "Milk",
+      "Turnip",
+      "Cosmic Figs"
+    ],
+    "stars": 4,
+    "energy": "1,872",
+    "sellPrice": "733",
+    "image": "images/dishes/Milky_Way_Stew.png"
+  },
+  {
+    "name": "Moqueca de Pirarucu",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pirarucu",
+      "Any Vegetable",
+      "Any Vegetable",
+      "Coconut"
+    ],
+    "stars": 4,
+    "energy": "3,453",
+    "sellPrice": "1,024",
+    "image": "images/dishes/Moqueca_de_Pirarucu.png"
+  },
+  {
+    "name": "Pasta with Herbs",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "642",
+    "sellPrice": "289",
+    "image": "images/dishes/Pasta_with_Herbs.png"
+  },
+  {
+    "name": "Piquant Piranha Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Chili Pepper",
+      "Bamboo",
+      "Piranha"
+    ],
+    "stars": 3,
+    "energy": "4,001",
+    "sellPrice": "2,041",
+    "image": "images/dishes/Piquant_Piranha_Soup.png"
+  },
+  {
+    "name": "Pulled Pork",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Tomato",
+      "Oregano"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "738",
+    "image": "images/dishes/Pulled_Pork.png"
+  },
+  {
+    "name": "Pupusas Revueltas",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Corn",
+      "Beans"
+    ],
+    "stars": 3,
+    "energy": "627",
+    "sellPrice": "790",
+    "image": "images/dishes/Pupusas_Revueltas.png"
+  },
+  {
+    "name": "Rainbouillabaisse",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Prisma Shrimp",
+      "Any Seafood",
+      "Rainbow Trout",
+      "Tomato",
+      "Any Vegetable"
+    ],
+    "stars": 5,
+    "energy": "4,174",
+    "sellPrice": "2,087",
+    "image": "images/dishes/Rainbouillabaisse.png"
+  },
+  {
+    "name": "Ramen",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Wheat",
+      "Egg"
+    ],
+    "stars": 3,
+    "energy": "1,128",
+    "sellPrice": "660",
+    "image": "images/dishes/Ramen.png"
+  },
+  {
+    "name": "Rhapsody Roll",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rice",
+      "Flute Root",
+      "Seaweed",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "335",
+    "sellPrice": "301",
+    "image": "images/dishes/Rhapsody_Roll.png"
+  },
+  {
+    "name": "Roast",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Meat",
+      "Pork"
+    ],
+    "stars": 1,
+    "energy": "450",
+    "sellPrice": "300",
+    "image": "images/dishes/Roast.png"
+  },
+  {
+    "name": "Royal Burger",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Wheat",
+      "Any Vegetable",
+      "Cheese"
+    ],
+    "stars": 5,
+    "energy": "1,670",
+    "sellPrice": "2,303",
+    "image": "images/dishes/Royal_Burger.png"
+  },
+  {
+    "name": "Ruby Masoor Dal",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Chili Pepper",
+      "Tomato",
+      "Ruby Lentils"
+    ],
+    "stars": 3,
+    "energy": "405",
+    "sellPrice": "357",
+    "image": "images/dishes/Ruby_Masoor_Dal.png"
+  },
+  {
+    "name": "Sand Stew",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Dunebopper",
+      "Sand Fish",
+      "Any Vegetable",
+      "Sand Worm",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "5,625",
+    "sellPrice": "2,244",
+    "image": "images/dishes/Sand_Stew.png"
+  },
+  {
+    "name": "Sausage and Sauerkraut Platter",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Cabbage",
+      "Potato"
+    ],
+    "stars": 3,
+    "energy": "958",
+    "sellPrice": "884",
+    "image": "images/dishes/Sausage_and_Sauerkraut_Platter.png"
+  },
+  {
+    "name": "Schnitzel",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Wheat",
+      "Canola"
+    ],
+    "stars": 3,
+    "energy": "640",
+    "sellPrice": "854",
+    "image": "images/dishes/Schnitzel.png"
+  },
+  {
+    "name": "Sesame Seed Bagel",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Any Sweet",
+      "Venison"
+    ],
+    "stars": 2,
+    "energy": "160",
+    "sellPrice": "26",
+    "image": "images/dishes/Sesame_Seed_Bagel.png"
+  },
+  {
+    "name": "Shawarma",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Rice",
+      "Lemon",
+      "Cinnamon",
+      "Garlic"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "1,877",
+    "image": "images/dishes/Shawarma.png"
+  },
+  {
+    "name": "Shish Taouk",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Rice",
+      "Lemon",
+      "Garlic",
+      "Oregano"
+    ],
+    "stars": 5,
+    "energy": "1,928",
+    "sellPrice": "1,109",
+    "image": "images/dishes/Shish_Taouk.png"
+  },
+  {
+    "name": "Sweet and Sour Stir-Fry",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Broccoli",
+      "Canola",
+      "Dreamango",
+      "Pineapple"
+    ],
+    "stars": 5,
+    "energy": "2,350",
+    "sellPrice": "2,148",
+    "image": "images/dishes/Sweet_and_Sour_Stir-Fry.png"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Chili Pepper",
+      "Poultry",
+      "Cumin",
+      "Paprika"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "964",
+    "image": "images/dishes/Tandoori_Chicken.png"
+  },
+  {
+    "name": "Tofu",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Soya"
+    ],
+    "stars": 1,
+    "energy": "142",
+    "sellPrice": "82",
+    "image": "images/dishes/Tofu.png"
+  },
+  {
+    "name": "Tourtière",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Venison",
+      "Wheat",
+      "Potato",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "814",
+    "sellPrice": "1,704",
+    "image": "images/dishes/Tourtière.png"
+  },
+  {
+    "name": "Turkey Leg",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Poultry",
+      "Cumin",
+      "Paprika",
+      "Agave"
+    ],
+    "stars": 4,
+    "energy": "1,123",
+    "sellPrice": "884",
+    "image": "images/dishes/Turkey_Leg.png"
+  },
+  {
+    "name": "Turnip Tartiflette",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Turnip",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "1,459",
+    "sellPrice": "863",
+    "image": "images/dishes/Turnip_Tartiflette.png"
+  },
+  {
+    "name": "Vegetarian Turnip Tartiflette",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mushroom",
+      "Turnip",
+      "Soya"
+    ],
+    "stars": 3,
+    "energy": "816",
+    "sellPrice": "399",
+    "image": "images/dishes/Vegetarian_Turnip_Tartiflette.png"
+  },
+  {
+    "name": "Yakisoba",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pork",
+      "Wheat",
+      "Cabbage"
+    ],
+    "stars": 3,
+    "energy": "789",
+    "sellPrice": "710",
+    "image": "images/dishes/Yakisoba.png"
+  },
+  {
+    "name": "Apple Sauce",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Apple",
+      "Cinnamon"
+    ],
+    "stars": 2,
+    "energy": "823",
+    "sellPrice": "71",
+    "image": "images/dishes/Apple_Sauce.png"
+  },
+  {
+    "name": "Basil Berry Salad",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Blueberry",
+      "Basil",
+      "Strawberry"
+    ],
+    "stars": 3,
+    "energy": "1,355",
+    "sellPrice": "142",
+    "image": "images/dishes/Basil_Berry_Salad.png"
+  },
+  {
+    "name": "Caramel Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Egg",
+      "Agave"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "401",
+    "image": "images/dishes/Caramel_Macarons.png"
+  },
+  {
+    "name": "Charlotte Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Strawberry",
+      "Agave"
+    ],
+    "stars": 3,
+    "energy": "759",
+    "sellPrice": "69",
+    "image": "images/dishes/Charlotte_Cake.png"
+  },
+  {
+    "name": "Chocolate Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Egg",
+      "Cocoa Bean"
+    ],
+    "stars": 3,
+    "energy": "2,354",
+    "sellPrice": "419",
+    "image": "images/dishes/Chocolate_Macarons.png"
+  },
+  {
+    "name": "Cinnamon Donut",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Cinnamon",
+      "Any Sweet"
+    ],
+    "stars": 4,
+    "energy": "1,094",
+    "sellPrice": "406",
+    "image": "images/dishes/Cinnamon_Donut.png"
+  },
+  {
+    "name": "Cotton Candy",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Agave",
+      "Sugarcane"
+    ],
+    "stars": 2,
+    "energy": "298",
+    "sellPrice": "56",
+    "image": "images/dishes/Cotton_Candy.png"
+  },
+  {
+    "name": "Croissant",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "249",
+    "image": "images/dishes/Croissant.png"
+  },
+  {
+    "name": "Cupcakes",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Cherry",
+      "Agave"
+    ],
+    "stars": 4,
+    "energy": "1,853",
+    "sellPrice": "433",
+    "image": "images/dishes/Cupcakes.png"
+  },
+  {
+    "name": "Danish",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Any Fruit",
+      "Any Fruit"
+    ],
+    "stars": 4,
+    "energy": "705",
+    "sellPrice": "314",
+    "image": "images/dishes/Danish.png"
+  },
+  {
+    "name": "Dreamango Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Milk",
+      "Dreamango",
+      "Sugarcane"
+    ],
+    "stars": 3,
+    "energy": "1,833",
+    "sellPrice": "418",
+    "image": "images/dishes/Dreamango_Boba_Tea.png"
+  },
+  {
+    "name": "French Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Egg"
+    ],
+    "stars": 2,
+    "energy": "1,461",
+    "sellPrice": "340",
+    "image": "images/dishes/French_Macarons.png"
+  },
+  {
+    "name": "Fruit Milkshake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Milk",
+      "Any Fruit"
+    ],
+    "stars": 3,
+    "energy": "1,113",
+    "sellPrice": "544",
+    "image": "images/dishes/Fruit_Milkshake.png"
+  },
+  {
+    "name": "Glazed Donut",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Any Sweet"
+    ],
+    "stars": 3,
+    "energy": "760",
+    "sellPrice": "336",
+    "image": "images/dishes/Glazed_Donut.png"
+  },
+  {
+    "name": "Gourmet Grubs",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sea Snail",
+      "Sand Worm",
+      "Scorpion"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "2,065",
+    "image": "images/dishes/Gourmet_Grubs.png"
+  },
+  {
+    "name": "Jam Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Egg",
+      "Any Fruit"
+    ],
+    "stars": 3,
+    "energy": "1,581",
+    "sellPrice": "378",
+    "image": "images/dishes/Jam_Macarons.png"
+  },
+  {
+    "name": "Kanelbulle",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Egg",
+      "Cinnamon"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "663",
+    "image": "images/dishes/Kanelbulle.png"
+  },
+  {
+    "name": "Kouign-Amann",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Butter",
+      "Agave"
+    ],
+    "stars": 4,
+    "energy": "1,358",
+    "sellPrice": "610",
+    "image": "images/dishes/Kouign-Amann.png"
+  },
+  {
+    "name": "Maamouls",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Almonds",
+      "Dates"
+    ],
+    "stars": 3,
+    "energy": "1,614",
+    "sellPrice": "100",
+    "image": "images/dishes/Maamouls.png"
+  },
+  {
+    "name": "Makrout",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Canola",
+      "Dates",
+      "Cinnamon"
+    ],
+    "stars": 4,
+    "energy": "1,157",
+    "sellPrice": "254",
+    "image": "images/dishes/Makrout.png"
+  },
+  {
+    "name": "Melon Boba Tea",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Milk",
+      "Melon",
+      "Sugarcane"
+    ],
+    "stars": 3,
+    "energy": "911",
+    "sellPrice": "478",
+    "image": "images/dishes/Melon_Boba_Tea.png"
+  },
+  {
+    "name": "Mooncake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Canola",
+      "Beans",
+      "Agave"
+    ],
+    "stars": 4,
+    "energy": "465",
+    "sellPrice": "276",
+    "image": "images/dishes/Mooncake.png"
+  },
+  {
+    "name": "Nestling Crepe",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Milk",
+      "Nestling Pear"
+    ],
+    "stars": 4,
+    "energy": "1,938",
+    "sellPrice": "715",
+    "image": "images/dishes/Nestling_Crepe.png"
+  },
+  {
+    "name": "Pear Upside-Down Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Nestling Pear"
+    ],
+    "stars": 3,
+    "energy": "1,218",
+    "sellPrice": "345",
+    "image": "images/dishes/Pear_Upside-Down_Cake.png"
+  },
+  {
+    "name": "Pineapple Soft Serve",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Pineapple"
+    ],
+    "stars": 2,
+    "energy": "717",
+    "sellPrice": "886",
+    "image": "images/dishes/Pineapple_Soft_Serve.png"
+  },
+  {
+    "name": "Popcorn",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Corn",
+      "Canola"
+    ],
+    "stars": 2,
+    "energy": "201",
+    "sellPrice": "161",
+    "image": "images/dishes/Popcorn.png"
+  },
+  {
+    "name": "Raspberry Jam Sandwich",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Raspberry"
+    ],
+    "stars": 2,
+    "energy": "549",
+    "sellPrice": "29",
+    "image": "images/dishes/Raspberry_Jam_Sandwich.png"
+  },
+  {
+    "name": "Spicy Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Chili Pepper",
+      "Almonds",
+      "Egg"
+    ],
+    "stars": 3,
+    "energy": "1,796",
+    "sellPrice": "475",
+    "image": "images/dishes/Spicy_Macarons.png"
+  },
+  {
+    "name": "Spiky Berry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Cactoberries",
+      "Strawberry",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "2,058",
+    "sellPrice": "421",
+    "image": "images/dishes/Spiky_Berry_Pie.png"
+  },
+  {
+    "name": "Stellar Milkshake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Slush Ice",
+      "Milk",
+      "Cosmic Figs"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "562",
+    "image": "images/dishes/Stellar_Milkshake.png"
+  },
+  {
+    "name": "Strawberry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Strawberry"
+    ],
+    "stars": 3,
+    "energy": "1,092",
+    "sellPrice": "300",
+    "image": "images/dishes/Strawberry_Pie.png"
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Egg",
+      "Strawberry"
+    ],
+    "stars": 3,
+    "energy": "1,173",
+    "sellPrice": "342",
+    "image": "images/dishes/Strawberry_Shortcake.png"
+  },
+  {
+    "name": "Stuffed Dates",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Dates"
+    ],
+    "stars": 2,
+    "energy": "1,495",
+    "sellPrice": "91",
+    "image": "images/dishes/Stuffed_Dates.png"
+  },
+  {
+    "name": "Sugar-Free Banana Muffin",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Banana"
+    ],
+    "stars": 2,
+    "energy": "677",
+    "sellPrice": "39",
+    "image": "images/dishes/Sugar-Free_Banana_Muffin.png"
+  },
+  {
+    "name": "Sugar-Free Blueberry Muffin",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Blueberry"
+    ],
+    "stars": 2,
+    "energy": "677",
+    "sellPrice": "39",
+    "image": "images/dishes/Sugar-Free_Blueberry_Muffin.png"
+  },
+  {
+    "name": "Sugar-Free Fruit Explosion Muffin",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Any Fruit",
+      "Any Fruit",
+      "Agave"
+    ],
+    "stars": 4,
+    "energy": "354",
+    "sellPrice": "66",
+    "image": "images/dishes/Sugar-Free_Fruit_Explosion_Muffin.png"
+  },
+  {
+    "name": "Sugar-Free Fruit Muffin",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Any Fruit"
+    ],
+    "stars": 2,
+    "energy": "117",
+    "sellPrice": "13",
+    "image": "images/dishes/Sugar-Free_Fruit_Muffin.png"
+  },
+  {
+    "name": "Sweet Popcorn",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Corn",
+      "Canola",
+      "Agave"
+    ],
+    "stars": 3,
+    "energy": "390",
+    "sellPrice": "209",
+    "image": "images/dishes/Sweet_Popcorn.png"
+  },
+  {
+    "name": "Sweet Tofu",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Soya",
+      "Any Fruit"
+    ],
+    "stars": 2,
+    "energy": "183",
+    "sellPrice": "100",
+    "image": "images/dishes/Sweet_Tofu.png"
+  },
+  {
+    "name": "Taiyaki",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sand Fish",
+      "Beans"
+    ],
+    "stars": 2,
+    "energy": "374",
+    "sellPrice": "102",
+    "image": "images/dishes/Taiyaki.png"
+  },
+  {
+    "name": "Vanilla Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Almonds",
+      "Egg",
+      "Vanilla"
+    ],
+    "stars": 3,
+    "energy": "1,787",
+    "sellPrice": "436",
+    "image": "images/dishes/Vanilla_Macarons.png"
+  },
+  {
+    "name": "Ambrosia Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Plain Yogurt",
+      "Ambrosia"
+    ],
+    "stars": 2,
+    "energy": "1,155",
+    "sellPrice": "247",
+    "image": "images/dishes/Ambrosia_Smoothie.png"
+  },
+  {
+    "name": "Baked Feta & Olives",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Flyleaf Feta",
+      "Olives"
+    ],
+    "stars": 2,
+    "energy": "815",
+    "sellPrice": "142",
+    "image": "images/dishes/Baked_Feta_&_Olives.png"
+  },
+  {
+    "name": "Cape Gooseberry Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Plain Yogurt",
+      "Cape Gooseberry"
+    ],
+    "stars": 2,
+    "energy": "781",
+    "sellPrice": "227",
+    "image": "images/dishes/Cape_Gooseberry_Smoothie.png"
+  },
+  {
+    "name": "Faerie Rye Crackers",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Faerie Rye"
+    ],
+    "stars": 1,
+    "energy": null,
+    "sellPrice": "74",
+    "image": "images/dishes/Faerie_Rye_Crackers.png"
+  },
+  {
+    "name": "Golden Apple Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Plain Yogurt",
+      "Golden Apple",
+      "Potato"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "299",
+    "image": "images/dishes/Golden_Apple_Smoothie.png"
+  },
+  {
+    "name": "Greek Potatoes",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Fruit",
+      "Garlic",
+      "Salt Crystal"
+    ],
+    "stars": 5,
+    "energy": "688",
+    "sellPrice": "351",
+    "image": "images/dishes/Greek_Potatoes.png"
+  },
+  {
+    "name": "Honeydew Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Spice",
+      "Plain Yogurt",
+      "Honeydew Melon",
+      "Stygian Mudskipper"
+    ],
+    "stars": 2,
+    "energy": "769",
+    "sellPrice": "318",
+    "image": "images/dishes/Honeydew_Smoothie.png"
+  },
+  {
+    "name": "Lightning Bolt",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Lamprey",
+      "Lightning Spice",
+      "Lightning Spice",
+      "Any Sweet"
+    ],
+    "stars": 5,
+    "energy": "5,625",
+    "sellPrice": "5,038",
+    "image": "images/dishes/Lightning_Bolt.png"
+  },
+  {
+    "name": "Olympian Tapenade",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Elysian Grain",
+      "Olives",
+      "Honeydew Melon",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "1,090",
+    "sellPrice": "456",
+    "image": "images/dishes/Olympian_Tapenade.png"
+  },
+  {
+    "name": "Persimmon Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Plain Yogurt",
+      "Persimmon"
+    ],
+    "stars": 2,
+    "energy": "1,070",
+    "sellPrice": "188",
+    "image": "images/dishes/Persimmon_Smoothie.png"
+  },
+  {
+    "name": "Radicchio Slaw",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cauliflower",
+      "Green Beans",
+      "Radicchio",
+      "Radish"
+    ],
+    "stars": 4,
+    "energy": "835",
+    "sellPrice": "739",
+    "image": "images/dishes/Radicchio_Slaw.png"
+  },
+  {
+    "name": "Sautéed Porcini",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Porcini Mushrooms",
+      "Garlic"
+    ],
+    "stars": 2,
+    "energy": "500",
+    "sellPrice": "136",
+    "image": "images/dishes/Sautéed_Porcini.png"
+  },
+  {
+    "name": "Simple Chia Pudding",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Chia Seeds"
+    ],
+    "stars": 1,
+    "energy": "80",
+    "sellPrice": "7",
+    "image": "images/dishes/Simple_Chia_Pudding.png"
+  },
+  {
+    "name": "Sparkling Ambrosia",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Lightning Spice",
+      "Ambrosia"
+    ],
+    "stars": 2,
+    "energy": "883",
+    "sellPrice": "175",
+    "image": "images/dishes/Sparkling_Ambrosia.png"
+  },
+  {
+    "name": "Spiral Strawberry Smoothie",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Plain Yogurt",
+      "Spiral Strawberries"
+    ],
+    "stars": 2,
+    "energy": "1,410",
+    "sellPrice": "221",
+    "image": "images/dishes/Spiral_Strawberry_Smoothie.png"
+  },
+  {
+    "name": "Tzatziki",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Cucumber",
+      "Plain Yogurt",
+      "Garlic"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "460",
+    "image": "images/dishes/Tzatziki.png"
+  },
+  {
+    "name": "A Very Unusual Tea Time",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Plain Yogurt",
+      "Spiral Strawberries",
+      "Salt Crystal",
+      "Sour Berries"
+    ],
+    "stars": 4,
+    "energy": "2,377",
+    "sellPrice": "345",
+    "image": "images/dishes/A_Very_Unusual_Tea_Time.png"
+  },
+  {
+    "name": "Aquatic Escargot",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Trumpet Snail",
+      "Garlic",
+      "Salt Crystal"
+    ],
+    "stars": 3,
+    "energy": "581",
+    "sellPrice": "182",
+    "image": "images/dishes/Aquatic_Escargot.png"
+  },
+  {
+    "name": "Arcane Garlic Crab",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sorcerer Hat Hermit",
+      "Crab",
+      "Garlic",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "3,250",
+    "sellPrice": "1,327",
+    "image": "images/dishes/Arcane_Garlic_Crab.png"
+  },
+  {
+    "name": "Argossian Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Elysian Grain",
+      "Onion",
+      "Any Vegetable",
+      "Flyleaf Feta",
+      "Olives"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "668",
+    "image": "images/dishes/Argossian_Pizza.png"
+  },
+  {
+    "name": "Barley Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Barley",
+      "Cauliflower",
+      "Radish",
+      "Any Spice"
+    ],
+    "stars": 4,
+    "energy": "453",
+    "sellPrice": "280",
+    "image": "images/dishes/Barley_Salad.png"
+  },
+  {
+    "name": "Cacio e Pepe",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Elysian Grain",
+      "Flyleaf Feta",
+      "Black Pepper"
+    ],
+    "stars": 3,
+    "energy": "379",
+    "sellPrice": "403",
+    "image": "images/dishes/Cacio_e_Pepe.png"
+  },
+  {
+    "name": "Cape Gooseberry Chia Pancakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Chia Seeds",
+      "Shovel Bird Eggs",
+      "Cape Gooseberry"
+    ],
+    "stars": 4,
+    "energy": "749",
+    "sellPrice": "214",
+    "image": "images/dishes/Cape_Gooseberry_Chia_Pancakes.png"
+  },
+  {
+    "name": "Caprese Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Vegetable",
+      "Flyleaf Feta",
+      "Olives",
+      "Salt Crystal"
+    ],
+    "stars": 5,
+    "energy": "1,092",
+    "sellPrice": "244",
+    "image": "images/dishes/Caprese_Salad.png"
+  },
+  {
+    "name": "Cauliflower Steak",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Spice",
+      "Cauliflower"
+    ],
+    "stars": 1,
+    "energy": "165",
+    "sellPrice": "30",
+    "image": "images/dishes/Cauliflower_Steak.png"
+  },
+  {
+    "name": "Chia Pudding",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Chia Seeds",
+      "Rhubarb",
+      "Cinnamon",
+      "Any Sweet"
+    ],
+    "stars": 4,
+    "energy": "742",
+    "sellPrice": "425",
+    "image": "images/dishes/Chia_Pudding.png"
+  },
+  {
+    "name": "Chia Seed Bread",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Chia Seeds",
+      "Shovel Bird Eggs"
+    ],
+    "stars": 3,
+    "energy": "478",
+    "sellPrice": "122",
+    "image": "images/dishes/Chia_Seed_Bread.png"
+  },
+  {
+    "name": "Chimera Skewer",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Hippocampus",
+      "Trumpet Snail",
+      "Flying Fish",
+      "Any Fish",
+      "Brussels Sprout"
+    ],
+    "stars": 5,
+    "energy": "2,720",
+    "sellPrice": "1,560",
+    "image": "images/dishes/Chimera_Skewer.png"
+  },
+  {
+    "name": "Electric Radicchio & Persimmon Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Radicchio",
+      "Persimmon",
+      "Lightning Spice"
+    ],
+    "stars": 3,
+    "energy": "1,176",
+    "sellPrice": "303",
+    "image": "images/dishes/Electric_Radicchio_&_Persimmon_Salad.png"
+  },
+  {
+    "name": "Flying Fish Quenelles",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Flying Fish",
+      "Porcini Mushrooms",
+      "Any Vegetable",
+      "Flyleaf Feta",
+      "Any Dairy or Oil"
+    ],
+    "stars": 5,
+    "energy": "890",
+    "sellPrice": "325",
+    "image": "images/dishes/Flying_Fish_Quenelles.png"
+  },
+  {
+    "name": "Garlic Steam Mussels",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mussel",
+      "Onion",
+      "Garlic"
+    ],
+    "stars": 3,
+    "energy": "825",
+    "sellPrice": "413",
+    "image": "images/dishes/Garlic_Steam_Mussels.png"
+  },
+  {
+    "name": "Grecian Baked Fish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Stygian Mudskipper",
+      "Elysian Grain",
+      "Olives",
+      "Salt Crystal",
+      "Ambrosia"
+    ],
+    "stars": 0,
+    "energy": "5,200",
+    "sellPrice": "2,808",
+    "image": "images/dishes/Grecian_Baked_Fish.png"
+  },
+  {
+    "name": "Greek Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Cucumber",
+      "Radish",
+      "Any Vegetable",
+      "Flyleaf Feta",
+      "Olives"
+    ],
+    "stars": 5,
+    "energy": "1,476",
+    "sellPrice": "654",
+    "image": "images/dishes/Greek_Salad.png"
+  },
+  {
+    "name": "Green Bean Casserole",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Green Beans",
+      "Onion",
+      "Porcini Mushrooms"
+    ],
+    "stars": 3,
+    "energy": "652",
+    "sellPrice": "607",
+    "image": "images/dishes/Green_Bean_Casserole.png"
+  },
+  {
+    "name": "Grilled Koi Gyro",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Koi",
+      "Wheat",
+      "Cucumber",
+      "Olives",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "1,428",
+    "sellPrice": "417",
+    "image": "images/dishes/Grilled_Koi_Gyro.png"
+  },
+  {
+    "name": "Hermit Crab Pasta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sorcerer Hat Hermit",
+      "Crab",
+      "Wheat",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "2,829",
+    "sellPrice": "1,143",
+    "image": "images/dishes/Hermit_Crab_Pasta.png"
+  },
+  {
+    "name": "Hippocampus Cepelinai Dumplings",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Hippocampus",
+      "Onion",
+      "Potato"
+    ],
+    "stars": 5,
+    "energy": "2,634",
+    "sellPrice": "1,965",
+    "image": "images/dishes/Hippocampus_Cepelinai_Dumplings.png"
+  },
+  {
+    "name": "Koi Sashimi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Spiral Strawberries",
+      "Black Pepper",
+      "Koi"
+    ],
+    "stars": 1,
+    "energy": "290",
+    "sellPrice": "60",
+    "image": "images/dishes/Koi_Sashimi.png"
+  },
+  {
+    "name": "Lamprey Sashimi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Lamprey"
+    ],
+    "stars": 1,
+    "energy": "2,930",
+    "sellPrice": "1,800",
+    "image": "images/dishes/Lamprey_Sashimi.png"
+  },
+  {
+    "name": "Loaded Breakfast Yogurt",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Plain Yogurt",
+      "Spiral Strawberries",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": "2,425",
+    "sellPrice": "508",
+    "image": "images/dishes/Loaded_Breakfast_Yogurt.png"
+  },
+  {
+    "name": "Loaded Golden Apple Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Oats",
+      "Golden Apple",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "566",
+    "image": "images/dishes/Loaded_Golden_Apple_Porridge.png"
+  },
+  {
+    "name": "Loaded Honeydew Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Oats",
+      "Honeydew Melon",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": "1,328",
+    "sellPrice": "588",
+    "image": "images/dishes/Loaded_Honeydew_Porridge.png"
+  },
+  {
+    "name": "Loaded Persimmon Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Oats",
+      "Persimmon",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": "1,665",
+    "sellPrice": "438",
+    "image": "images/dishes/Loaded_Persimmon_Porridge.png"
+  },
+  {
+    "name": "Loaded Rhubarb Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Oats",
+      "Rhubarb",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "744",
+    "image": "images/dishes/Loaded_Rhubarb_Porridge.png"
+  },
+  {
+    "name": "Loaded Sea Grape Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Oats",
+      "Sea Grapes",
+      "Ambrosia"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "431",
+    "image": "images/dishes/Loaded_Sea_Grape_Porridge.png"
+  },
+  {
+    "name": "Lupine Cullen Skink",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sea Wolf",
+      "Onion",
+      "Potato",
+      "Plain Yogurt"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "736",
+    "image": "images/dishes/Lupine_Cullen_Skink.png"
+  },
+  {
+    "name": "Mussel Risotto",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mussel",
+      "Rice",
+      "Olives",
+      "Garlic"
+    ],
+    "stars": 5,
+    "energy": "1,488",
+    "sellPrice": "377",
+    "image": "images/dishes/Mussel_Risotto.png"
+  },
+  {
+    "name": "Oatmeal",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Spice",
+      "Oats"
+    ],
+    "stars": 1,
+    "energy": "210",
+    "sellPrice": "118",
+    "image": "images/dishes/Oatmeal.png"
+  },
+  {
+    "name": "Olive Plate",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Olives"
+    ],
+    "stars": 1,
+    "energy": "610",
+    "sellPrice": "42",
+    "image": "images/dishes/Olive_Plate.png"
+  },
+  {
+    "name": "Persimmon Chia Pancakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Chia Seeds",
+      "Shovel Bird Eggs",
+      "Persimmon"
+    ],
+    "stars": 4,
+    "energy": "1,072",
+    "sellPrice": "169",
+    "image": "images/dishes/Persimmon_Chia_Pancakes.png"
+  },
+  {
+    "name": "Radicchio-Stuffed Porcini",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Porcini Mushrooms",
+      "Radicchio",
+      "Black Pepper"
+    ],
+    "stars": 3,
+    "energy": "677",
+    "sellPrice": "370",
+    "image": "images/dishes/Radicchio-Stuffed_Porcini.png"
+  },
+  {
+    "name": "Roasted Barley & Veggies",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Barley",
+      "Brussels Sprout",
+      "Onion",
+      "Any Vegetable"
+    ],
+    "stars": 5,
+    "energy": "1,422",
+    "sellPrice": "476",
+    "image": "images/dishes/Roasted_Barley_&_Veggies.png"
+  },
+  {
+    "name": "Roasted Brussels Sprouts",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Flyleaf Feta",
+      "Brussels Sprout",
+      "Garlic"
+    ],
+    "stars": 2,
+    "energy": "959",
+    "sellPrice": "104",
+    "image": "images/dishes/Roasted_Brussels_Sprouts.png"
+  },
+  {
+    "name": "Roasted Green Beans",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Green Beans",
+      "Garlic"
+    ],
+    "stars": 2,
+    "energy": "379",
+    "sellPrice": "336",
+    "image": "images/dishes/Roasted_Green_Beans.png"
+  },
+  {
+    "name": "Salt-Baked Sea Wolf",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sea Wolf",
+      "Salt Crystal"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "123",
+    "image": "images/dishes/Salt-Baked_Sea_Wolf.png"
+  },
+  {
+    "name": "Salt-Pickled Cauliflower",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Cauliflower",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "84",
+    "image": "images/dishes/Salt-Pickled_Cauliflower.png"
+  },
+  {
+    "name": "Salt-Pickled Garlic",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Garlic",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "383",
+    "sellPrice": "119",
+    "image": "images/dishes/Salt-Pickled_Garlic.png"
+  },
+  {
+    "name": "Salt-Pickled Green Beans",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Green Beans",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "246",
+    "sellPrice": "341",
+    "image": "images/dishes/Salt-Pickled_Green_Beans.png"
+  },
+  {
+    "name": "Salt-Pickled Radicchio",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Radicchio",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "474",
+    "sellPrice": "226",
+    "image": "images/dishes/Salt-Pickled_Radicchio.png"
+  },
+  {
+    "name": "Salt-Pickled Radish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Radish",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "314",
+    "sellPrice": "235",
+    "image": "images/dishes/Salt-Pickled_Radish.png"
+  },
+  {
+    "name": "Salt-Pickled Sea Grapes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Sea Grapes",
+      "Salt Crystal",
+      "Any Spice"
+    ],
+    "stars": 3,
+    "energy": "185",
+    "sellPrice": "77",
+    "image": "images/dishes/Salt-Pickled_Sea_Grapes.png"
+  },
+  {
+    "name": "Scottish Porridge",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Oats",
+      "Any Fruit"
+    ],
+    "stars": 2,
+    "energy": "255",
+    "sellPrice": "139",
+    "image": "images/dishes/Scottish_Porridge.png"
+  },
+  {
+    "name": "Sea Grape Chia Pancakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Chia Seeds",
+      "Shovel Bird Eggs",
+      "Sea Grapes"
+    ],
+    "stars": 4,
+    "energy": "549",
+    "sellPrice": "162",
+    "image": "images/dishes/Sea_Grape_Chia_Pancakes.png"
+  },
+  {
+    "name": "Seaweed Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Radish",
+      "Any Vegetable",
+      "Sea Grapes",
+      "Black Pepper"
+    ],
+    "stars": 4,
+    "energy": "382",
+    "sellPrice": "365",
+    "image": "images/dishes/Seaweed_Salad.png"
+  },
+  {
+    "name": "Shovel Bird Eggs Benedict",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Elysian Grain",
+      "Shovel Bird Eggs",
+      "Spiral Strawberries",
+      "Salt Crystal"
+    ],
+    "stars": 4,
+    "energy": "1,522",
+    "sellPrice": "420",
+    "image": "images/dishes/Shovel_Bird_Eggs_Benedict.png"
+  },
+  {
+    "name": "Soda Bread & Feta",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Flyleaf Feta",
+      "Salt Crystal"
+    ],
+    "stars": 3,
+    "energy": "309",
+    "sellPrice": "135",
+    "image": "images/dishes/Soda_Bread_&_Feta.png"
+  },
+  {
+    "name": "Spanakopita",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Onion",
+      "Spinach",
+      "Flyleaf Feta",
+      "Garlic",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "982",
+    "sellPrice": "561",
+    "image": "images/dishes/Spanakopita.png"
+  },
+  {
+    "name": "Spiral Strawberry Chia Pancakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Chia Seeds",
+      "Shovel Bird Eggs",
+      "Spiral Strawberries"
+    ],
+    "stars": 4,
+    "energy": "1,452",
+    "sellPrice": "207",
+    "image": "images/dishes/Spiral_Strawberry_Chia_Pancakes.png"
+  },
+  {
+    "name": "Sprout-Stuffed Porcini",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Brussels Sprout",
+      "Porcini Mushrooms",
+      "Black Pepper"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "235",
+    "image": "images/dishes/Sprout-Stuffed_Porcini.png"
+  },
+  {
+    "name": "Squash-Stuffed Porcini",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Porcini Mushrooms",
+      "Ring Squash",
+      "Black Pepper"
+    ],
+    "stars": 3,
+    "energy": "400",
+    "sellPrice": "250",
+    "image": "images/dishes/Squash-Stuffed_Porcini.png"
+  },
+  {
+    "name": "Squid Sashimi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Squid"
+    ],
+    "stars": 1,
+    "energy": "1,650",
+    "sellPrice": "600",
+    "image": "images/dishes/Squid_Sashimi.png"
+  },
+  {
+    "name": "Steamed Mussels",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mussel"
+    ],
+    "stars": 1,
+    "energy": "290",
+    "sellPrice": "90",
+    "image": "images/dishes/Steamed_Mussels.png"
+  },
+  {
+    "name": "Stuffed Ring Squash",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Ring Squash",
+      "Garlic",
+      "Ambrosia"
+    ],
+    "stars": 3,
+    "energy": "980",
+    "sellPrice": "225",
+    "image": "images/dishes/Stuffed_Ring_Squash.png"
+  },
+  {
+    "name": "Tuna Sashimi",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tuna"
+    ],
+    "stars": 1,
+    "energy": "610",
+    "sellPrice": "114",
+    "image": "images/dishes/Tuna_Sashimi.png"
+  },
+  {
+    "name": "Aphrodite's Delight",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Golden Apple",
+      "Ambrosia"
+    ],
+    "stars": 2,
+    "energy": "1,070",
+    "sellPrice": "234",
+    "image": "images/dishes/Aphrodite's_Delight.png"
+  },
+  {
+    "name": "Cape Gooseberry Sour Fondue",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Cape Gooseberry",
+      "Sour Berries"
+    ],
+    "stars": 2,
+    "energy": "951",
+    "sellPrice": "123",
+    "image": "images/dishes/Cape_Gooseberry_Sour_Fondue.png"
+  },
+  {
+    "name": "Cinnamon Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Plain Yogurt",
+      "Cinnamon"
+    ],
+    "stars": 4,
+    "energy": "1,330",
+    "sellPrice": "348",
+    "image": "images/dishes/Cinnamon_Cake.png"
+  },
+  {
+    "name": "Cinnamon Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Plain Yogurt",
+      "Cinnamon",
+      "Any Sweet"
+    ],
+    "stars": 4,
+    "energy": "1,037",
+    "sellPrice": "256",
+    "image": "images/dishes/Cinnamon_Cookies.png"
+  },
+  {
+    "name": "Golden Apple Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Golden Apple"
+    ],
+    "stars": 3,
+    "energy": "894",
+    "sellPrice": "268",
+    "image": "images/dishes/Golden_Apple_Pie.png"
+  },
+  {
+    "name": "Honeydew Sour Fondue",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Honeydew Melon",
+      "Sour Berries"
+    ],
+    "stars": 2,
+    "energy": "939",
+    "sellPrice": "214",
+    "image": "images/dishes/Honeydew_Sour_Fondue.png"
+  },
+  {
+    "name": "Lightning Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Plain Yogurt",
+      "Lightning Spice"
+    ],
+    "stars": 4,
+    "energy": "1,302",
+    "sellPrice": "400",
+    "image": "images/dishes/Lightning_Cake.png"
+  },
+  {
+    "name": "Lightning Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Plain Yogurt",
+      "Any Sweet",
+      "Lightning Spice"
+    ],
+    "stars": 4,
+    "energy": "1,009",
+    "sellPrice": "308",
+    "image": "images/dishes/Lightning_Cookies.png"
+  },
+  {
+    "name": "Merryweather's Gingersnaps",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Faerie Rye",
+      "Shovel Bird Eggs",
+      "Ginger",
+      "Nutmeg",
+      "Sour Berries"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "443",
+    "image": "images/dishes/Merryweather's_Gingersnaps.png"
+  },
+  {
+    "name": "Nutmeg Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Plain Yogurt",
+      "Nutmeg"
+    ],
+    "stars": 4,
+    "energy": "1,891",
+    "sellPrice": "370",
+    "image": "images/dishes/Nutmeg_Cake.png"
+  },
+  {
+    "name": "Nutmeg Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Plain Yogurt",
+      "Nutmeg",
+      "Any Sweet"
+    ],
+    "stars": 4,
+    "energy": "1,598",
+    "sellPrice": "278",
+    "image": "images/dishes/Nutmeg_Cookies.png"
+  },
+  {
+    "name": "Persimmon Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Persimmon"
+    ],
+    "stars": 3,
+    "energy": "984",
+    "sellPrice": "149",
+    "image": "images/dishes/Persimmon_Pie.png"
+  },
+  {
+    "name": "Persimmon Sour Fondue",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Persimmon",
+      "Sour Berries"
+    ],
+    "stars": 2,
+    "energy": "1,240",
+    "sellPrice": "84",
+    "image": "images/dishes/Persimmon_Sour_Fondue.png"
+  },
+  {
+    "name": "Rice Pudding",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Oats",
+      "Rice",
+      "Vanilla"
+    ],
+    "stars": 3,
+    "energy": "579",
+    "sellPrice": "293",
+    "image": "images/dishes/Rice_Pudding.png"
+  },
+  {
+    "name": "Sour Berry Dessert",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Ambrosia",
+      "Sour Berries"
+    ],
+    "stars": 2,
+    "energy": "1,325",
+    "sellPrice": "143",
+    "image": "images/dishes/Sour_Berry_Dessert.png"
+  },
+  {
+    "name": "Sour Berry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Sour Berries"
+    ],
+    "stars": 3,
+    "energy": "1,164",
+    "sellPrice": "170",
+    "image": "images/dishes/Sour_Berry_Pie.png"
+  },
+  {
+    "name": "Spicy Yogurt",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Plain Yogurt",
+      "Any Spice"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "175",
+    "image": "images/dishes/Spicy_Yogurt.png"
+  },
+  {
+    "name": "Spiral Strawberry Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Shovel Bird Eggs",
+      "Spiral Strawberries"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "184",
+    "image": "images/dishes/Spiral_Strawberry_Pie.png"
+  },
+  {
+    "name": "Spiral Strawberry Sour Fondue",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Spiral Strawberries",
+      "Sour Berries"
+    ],
+    "stars": 2,
+    "energy": "1,580",
+    "sellPrice": "117",
+    "image": "images/dishes/Spiral_Strawberry_Sour_Fondue.png"
+  },
+  {
+    "name": "Strawberry Rhubarb Pie",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Plain Yogurt",
+      "Rhubarb",
+      "Spiral Strawberries"
+    ],
+    "stars": 4,
+    "energy": "1,881",
+    "sellPrice": "601",
+    "image": "images/dishes/Strawberry_Rhubarb_Pie.png"
+  },
+  {
+    "name": "Underworld Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Faerie Rye",
+      "Shovel Bird Eggs",
+      "Plain Yogurt",
+      "Nutmeg"
+    ],
+    "stars": 5,
+    "energy": "2,746",
+    "sellPrice": "603",
+    "image": "images/dishes/Underworld_Cake.png"
+  },
+  {
+    "name": "Vanilla Yogurt",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Ambrosia",
+      "Plain Yogurt",
+      "Vanilla"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "221",
+    "image": "images/dishes/Vanilla_Yogurt.png"
+  },
+  {
+    "name": "Alpine Fishcakes",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Red Alpine Bass",
+      "Dill"
+    ],
+    "stars": 2,
+    "energy": "2,370",
+    "sellPrice": "1,027",
+    "image": "images/dishes/Alpine_Fishcakes.png"
+  },
+  {
+    "name": "Buttermilk Borscht",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Beetroot",
+      "Egg",
+      "Milk",
+      "Dill"
+    ],
+    "stars": 4,
+    "energy": "1,656",
+    "sellPrice": "766",
+    "image": "images/dishes/Buttermilk_Borscht.png"
+  },
+  {
+    "name": "Fizzy Nectar Soda",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Bonsai Star Fruit",
+      "Slush Ice"
+    ],
+    "stars": 2,
+    "energy": "1,197",
+    "sellPrice": "247",
+    "image": "images/dishes/Fizzy_Nectar_Soda.png"
+  },
+  {
+    "name": "Rosehip Honey Tea",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Honey Coral"
+    ],
+    "stars": 1,
+    "energy": null,
+    "sellPrice": "210",
+    "image": "images/dishes/Rosehip_Honey_Tea.png"
+  },
+  {
+    "name": "Scarlet Bouquet Salad",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Scarlet Kale"
+    ],
+    "stars": 1,
+    "energy": "160",
+    "sellPrice": "34",
+    "image": "images/dishes/Scarlet_Bouquet_Salad.png"
+  },
+  {
+    "name": "Smoked Fish Charcuterie Spread",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Mountain Whitefish",
+      "Tuna",
+      "Any Fish",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": "1,321",
+    "sellPrice": "191",
+    "image": "images/dishes/Smoked_Fish_Charcuterie_Spread.png"
+  },
+  {
+    "name": "101 Teeny Tiny Dalmatian Cupcakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Dark Chocolate",
+      "Coffee Beans",
+      "Egg",
+      "Wheat",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": "862",
+    "sellPrice": "460",
+    "image": "images/dishes/101_Teeny_Tiny_Dalmatian_Cupcakes.png"
+  },
+  {
+    "name": "Afternoon Tea Set",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Dark Chocolate",
+      "Coffee Beans",
+      "Pearly Barley",
+      "Any Vegetable",
+      "Pincushion Peach"
+    ],
+    "stars": 4,
+    "energy": "985",
+    "sellPrice": "235",
+    "image": "images/dishes/Afternoon_Tea_Set.png"
+  },
+  {
+    "name": "Baked Whitefish and Roasted Beets",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Mountain Whitefish",
+      "Beetroot"
+    ],
+    "stars": 2,
+    "energy": "400",
+    "sellPrice": "66",
+    "image": "images/dishes/Baked_Whitefish_and_Roasted_Beets.png"
+  },
+  {
+    "name": "Beet-iful Spaetzle",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Wheat",
+      "Beetroot",
+      "Egg"
+    ],
+    "stars": 3,
+    "energy": "778",
+    "sellPrice": "339",
+    "image": "images/dishes/Beet-iful_Spaetzle.png"
+  },
+  {
+    "name": "Bread Bowl Pumpkin Soup",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tigger Fish",
+      "Fairy Kamut",
+      "Pumpkin",
+      "Milk"
+    ],
+    "stars": 4,
+    "energy": "4,153",
+    "sellPrice": "3,901",
+    "image": "images/dishes/Bread_Bowl_Pumpkin_Soup.png"
+  },
+  {
+    "name": "Button Stew",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Button Mushroom",
+      "Carrot"
+    ],
+    "stars": 2,
+    "energy": "375",
+    "sellPrice": "135",
+    "image": "images/dishes/Button_Stew.png"
+  },
+  {
+    "name": "Eton Mess",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Red Currants",
+      "Pincushion Peach",
+      "Egg"
+    ],
+    "stars": 3,
+    "energy": "1,994",
+    "sellPrice": "407",
+    "image": "images/dishes/Eton_Mess.png"
+  },
+  {
+    "name": "Felted Breakfast Spread",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Button Mushroom",
+      "Egg",
+      "Satin-Finned Betta",
+      "Measuring-Tape"
+    ],
+    "stars": 3,
+    "energy": null,
+    "sellPrice": "1,022",
+    "image": "images/dishes/Felted_Breakfast_Spread.png"
+  },
+  {
+    "name": "Fishy Pineapple Jelly",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Snail",
+      "Jellied Fish",
+      "Crab",
+      "Scarlet Kale",
+      "Any Fish"
+    ],
+    "stars": 5,
+    "energy": "5,625",
+    "sellPrice": "2,767",
+    "image": "images/dishes/Fishy_Pineapple_Jelly.png"
+  },
+  {
+    "name": "Friendly Bento",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tigger Fish",
+      "Scarlet Kale",
+      "Honey Coral",
+      "Any Vegetable"
+    ],
+    "stars": 4,
+    "energy": "3,877",
+    "sellPrice": "2,717",
+    "image": "images/dishes/Friendly_Bento.png"
+  },
+  {
+    "name": "Honey-Glazed Carrots",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Honey Coral",
+      "Carrot",
+      "Dill"
+    ],
+    "stars": 3,
+    "energy": "944",
+    "sellPrice": "362",
+    "image": "images/dishes/Honey-Glazed_Carrots.png"
+  },
+  {
+    "name": "Honey Pancakes",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Honey Coral",
+      "Wheat",
+      "Egg"
+    ],
+    "stars": 3,
+    "energy": "1,263",
+    "sellPrice": "555",
+    "image": "images/dishes/Honey_Pancakes.png"
+  },
+  {
+    "name": "Horace's Ham Sandwich",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pearly Barley",
+      "Cheese",
+      "Any Vegetable"
+    ],
+    "stars": 3,
+    "energy": "643",
+    "sellPrice": "326",
+    "image": "images/dishes/Horace's_Ham_Sandwich.png"
+  },
+  {
+    "name": "Jellied Fish Terrine",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Jellied Fish"
+    ],
+    "stars": 1,
+    "energy": "2,450",
+    "sellPrice": "1,200",
+    "image": "images/dishes/Jellied_Fish_Terrine.png"
+  },
+  {
+    "name": "Jellied Salad",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Jellied Fish",
+      "Scarlet Kale"
+    ],
+    "stars": 2,
+    "energy": "2,717",
+    "sellPrice": "1,337",
+    "image": "images/dishes/Jellied_Salad.png"
+  },
+  {
+    "name": "Kanine Krunchies Cereal",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pearly Barley",
+      "Pincushion Peach"
+    ],
+    "stars": 2,
+    "energy": "796",
+    "sellPrice": "107",
+    "image": "images/dishes/Kanine_Krunchies_Cereal.png"
+  },
+  {
+    "name": "Pixie Pizza",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Fairy Kamut",
+      "Cheese"
+    ],
+    "stars": 5,
+    "energy": "1,268",
+    "sellPrice": "718",
+    "image": "images/dishes/Pixie_Pizza.png"
+  },
+  {
+    "name": "Scarlet Kale and Cheese Pinwheels",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Tomato",
+      "Fairy Sprinkles",
+      "Button Mushroom",
+      "Wheat",
+      "Scarlet Kale",
+      "Cheese"
+    ],
+    "stars": 3,
+    "energy": "694",
+    "sellPrice": "294",
+    "image": "images/dishes/Scarlet_Kale_and_Cheese_Pinwheels.png"
+  },
+  {
+    "name": "Stargazy Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Measuring-Tape",
+      "Snail",
+      "Satin-Finned Betta",
+      "Red Alpine Bass",
+      "Wheat"
+    ],
+    "stars": 4,
+    "energy": "5,026",
+    "sellPrice": "1,953",
+    "image": "images/dishes/Stargazy_Pie.png"
+  },
+  {
+    "name": "Vintage Peach Trifle",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Pincushion Peach",
+      "Milk",
+      "Pearly Barley",
+      "Sugarcane",
+      "Any Fruit"
+    ],
+    "stars": 5,
+    "energy": "1,752",
+    "sellPrice": "544",
+    "image": "images/dishes/Vintage_Peach_Trifle.png"
+  },
+  {
+    "name": "Beauty and the Beets Napoleon",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Beetroot",
+      "Butter",
+      "Egg",
+      "Milk",
+      "Red Currants"
+    ],
+    "stars": 5,
+    "energy": null,
+    "sellPrice": "1,109",
+    "image": "images/dishes/Beauty_and_the_Beets_Napoleon.png"
+  },
+  {
+    "name": "Beet Brownie Stack",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Beetroot",
+      "Egg",
+      "Any Sweet"
+    ],
+    "stars": 3,
+    "energy": "826",
+    "sellPrice": "363",
+    "image": "images/dishes/Beet_Brownie_Stack.png"
+  },
+  {
+    "name": "Beet Sugar Sculpture",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Beetroot",
+      "Sugarcane",
+      "Fairy Kamut"
+    ],
+    "stars": 2,
+    "energy": "223",
+    "sellPrice": "51",
+    "image": "images/dishes/Beet_Sugar_Sculpture.png"
+  },
+  {
+    "name": "Fairy Boot Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Honey Coral",
+      "Egg",
+      "Butter",
+      "Dark Chocolate"
+    ],
+    "stars": 0,
+    "energy": "2,052",
+    "sellPrice": "1,212",
+    "image": "images/dishes/Fairy_Boot_Cake.png"
+  },
+  {
+    "name": "Fairy Bread",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Coffee Beans",
+      "Fairy Kamut",
+      "Fairy Sprinkles"
+    ],
+    "stars": 2,
+    "energy": "360",
+    "sellPrice": "243",
+    "image": "images/dishes/Fairy_Bread.png"
+  },
+  {
+    "name": "Fairy Wands",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Bonsai Star Fruit",
+      "Lollipop Fruit",
+      "Any Fruit"
+    ],
+    "stars": 3,
+    "energy": "1,028",
+    "sellPrice": "229",
+    "image": "images/dishes/Fairy_Wands.png"
+  },
+  {
+    "name": "Pixie Ice Cream Dome Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Fairy Kamut",
+      "Fairy Sprinkles",
+      "Slush Ice",
+      "Red Currants"
+    ],
+    "stars": 4,
+    "energy": "1,489",
+    "sellPrice": "554",
+    "image": "images/dishes/Pixie_Ice_Cream_Dome_Cake.png"
+  },
+  {
+    "name": "Red Currant Linzer Cookies",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Wheat",
+      "Butter",
+      "Red Currants",
+      "Sugarcane"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "365",
+    "image": "images/dishes/Red_Currant_Linzer_Cookies.png"
+  },
+  {
+    "name": "Red Currant Valley Cakes",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Egg",
+      "Milk",
+      "Red Currants"
+    ],
+    "stars": 3,
+    "energy": "1,895",
+    "sellPrice": "676",
+    "image": "images/dishes/Red_Currant_Valley_Cakes.png"
+  },
+  {
+    "name": "Tigger Tails",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Lollipop Fruit",
+      "Fairy Sprinkles"
+    ],
+    "stars": 2,
+    "energy": "437",
+    "sellPrice": "253",
+    "image": "images/dishes/Tigger_Tails.png"
+  },
+  {
+    "name": "Blustery Day Soup",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Any Dairy or Oil",
+      "Mushroom",
+      "Truffle",
+      "Golden Honey"
+    ],
+    "stars": 4,
+    "energy": "1,339",
+    "sellPrice": "226",
+    "image": "images/dishes/Blustery_Day_Soup.png"
+  },
+  {
+    "name": "Honeycrunch Bar",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Sweet Chestnut",
+      "Golden Honey"
+    ],
+    "stars": 2,
+    "energy": "1,410",
+    "sellPrice": "107",
+    "image": "images/dishes/Honeycrunch_Bar.png"
+  },
+  {
+    "name": "Sweet Acorn Porridge",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Acorn Snail",
+      "Any Fruit",
+      "Any Grain"
+    ],
+    "stars": 3,
+    "energy": "661",
+    "sellPrice": "119",
+    "image": "images/dishes/Sweet_Acorn_Porridge.png"
+  },
+  {
+    "name": "Warm Milk & Honey",
+    "mealType": "Appetizers",
+    "emoji": "🥗",
+    "ingredients": [
+      "Milk",
+      "Golden Honey",
+      "Any Fish"
+    ],
+    "stars": 2,
+    "energy": null,
+    "sellPrice": "344",
+    "image": "images/dishes/Warm_Milk_&_Honey.png"
+  },
+  {
+    "name": "Foresty Quiche",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Any Fish",
+      "Any Dairy or Oil",
+      "Juniper Berry",
+      "Truffle",
+      "Golden Pattypan"
+    ],
+    "stars": 5,
+    "energy": "1,376",
+    "sellPrice": "248",
+    "image": "images/dishes/Foresty_Quiche.png"
+  },
+  {
+    "name": "Pooh's Birthday Cake",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Golden Honey",
+      "Any Sweet",
+      "Any Dairy or Oil",
+      "Any Fruit",
+      "Any Grain"
+    ],
+    "stars": 5,
+    "energy": "1,060",
+    "sellPrice": "112",
+    "image": "images/dishes/Pooh's_Birthday_Cake.png"
+  },
+  {
+    "name": "Honey-Glazed Plush Fish",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Plush Fish",
+      "Any Vegetable",
+      "Golden Honey"
+    ],
+    "stars": 3,
+    "energy": "3,507",
+    "sellPrice": "1,320",
+    "image": "images/dishes/Honey-Glazed_Plush_Fish.png"
+  },
+  {
+    "name": "Rabbit's Garden Pie",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Golden Pattypan",
+      "Parsnip",
+      "Pufflebud Pods",
+      "Carrot",
+      "Any Grain"
+    ],
+    "stars": 5,
+    "energy": "448",
+    "sellPrice": "323",
+    "image": "images/dishes/Rabbit's_Garden_Pie.png"
+  },
+  {
+    "name": "Toasted Picnic Sandwich",
+    "mealType": "Entrées",
+    "emoji": "🍖",
+    "ingredients": [
+      "Golden Honey",
+      "Parsnip",
+      "Any Dairy or Oil",
+      "Tree Resin",
+      "Any Spice"
+    ],
+    "stars": 5,
+    "energy": "1,208",
+    "sellPrice": "173",
+    "image": "images/dishes/Toasted_Picnic_Sandwich.png"
+  },
+  {
+    "name": "Brunchfast",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sweet Jelly",
+      "Butter",
+      "Egg",
+      "Any Fruit"
+    ],
+    "stars": 4,
+    "energy": "2,967",
+    "sellPrice": "1,303",
+    "image": "images/dishes/Brunchfast.png"
+  },
+  {
+    "name": "Honey Macarons",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Golden Honey",
+      "Sweet Jelly",
+      "Any Grain"
+    ],
+    "stars": 4,
+    "energy": "3,316",
+    "sellPrice": "802",
+    "image": "images/dishes/Honey_Macarons.png"
+  },
+  {
+    "name": "Honey Triffle",
+    "mealType": "Desserts",
+    "emoji": "🍰",
+    "ingredients": [
+      "Sweet Chestnut",
+      "Pufflebud Pods",
+      "Golden Honey"
+    ],
+    "stars": 4,
+    "energy": null,
+    "sellPrice": "239",
+    "image": "images/dishes/Honey_Triffle.png"
+  }
+]

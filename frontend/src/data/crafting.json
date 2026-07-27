@@ -1,0 +1,8442 @@
+[
+  {
+    "name": "Iron Ingot",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ore"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Iron_Ingot.png"
+  },
+  {
+    "name": "Gold Ingot",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Gold Nuggets"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Gold_Ingot.png"
+  },
+  {
+    "name": "Glass",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Glass.png"
+  },
+  {
+    "name": "Brick",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Clay"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Brick.png"
+  },
+  {
+    "name": "Fiber",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Seaweed"
+      }
+    ],
+    "image": "images/crafted/Fiber.png"
+  },
+  {
+    "name": "Fabric",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Cotton"
+      }
+    ],
+    "image": "images/crafted/Fabric.png"
+  },
+  {
+    "name": "Tinkering Parts",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingots"
+      }
+    ],
+    "image": "images/crafted/Tinkering_Parts.png"
+  },
+  {
+    "name": "Rope",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Fiber"
+      }
+    ],
+    "image": "images/crafted/Rope.png"
+  },
+  {
+    "name": "Empty Vial",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Glass"
+      }
+    ],
+    "image": "images/crafted/Empty_Vial.png"
+  },
+  {
+    "name": "Soil",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rich Soil"
+      }
+    ],
+    "image": "images/crafted/Soil.png"
+  },
+  {
+    "name": "Night Shard",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Onyx"
+      }
+    ],
+    "image": "images/crafted/Night_Shard.png"
+  },
+  {
+    "name": "Seaweed",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Red Algae"
+      }
+    ],
+    "image": "images/crafted/Seaweed.png"
+  },
+  {
+    "name": "Bronze Ingot",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Copper"
+      },
+      {
+        "qty": 1,
+        "name": "Tin"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Bronze_Ingot.png"
+  },
+  {
+    "name": "Brass Ingot",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Copper"
+      },
+      {
+        "qty": 2,
+        "name": "Zinc"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": "images/crafted/Brass_Ingot.png"
+  },
+  {
+    "name": "Mechanical Parts",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Brass Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Bronze Ingot"
+      }
+    ],
+    "image": "images/crafted/Mechanical_Parts.png"
+  },
+  {
+    "name": "Electric Power",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Copper"
+      },
+      {
+        "qty": 3,
+        "name": "Electric Eel"
+      }
+    ],
+    "image": "images/crafted/Electric_Power.png"
+  },
+  {
+    "name": "Iron Ingot",
+    "category": "Refined Materials",
+    "yield": 2,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Wrought Iron"
+      }
+    ],
+    "image": "images/crafted/Iron_Ingot_2.png"
+  },
+  {
+    "name": "V-EGG-etable Seed",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 1,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 20,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": "images/crafted/V-EGG-etable_Seed.png"
+  },
+  {
+    "name": "Four-Leaf Clover",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Three-Leaf Clover"
+      },
+      {
+        "qty": 500,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": "images/crafted/Four-Leaf_Clover.png"
+  },
+  {
+    "name": "Storybook Magic",
+    "category": "Refined Materials",
+    "yield": 15,
+    "materials": [
+      {
+        "qty": null,
+        "name": "Any Snippet"
+      }
+    ],
+    "image": "images/crafted/Storybook_Magic.png"
+  },
+  {
+    "name": "Blue Bird Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bird Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Demon Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Frog Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink Frog Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Purple Frog Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Brd Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Demon Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow Bird Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow Frog Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gold Nugget",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Gold Shard (Aladdin Realm Material)"
+      }
+    ],
+    "image": "images/crafted/Gold_Nugget.png"
+  },
+  {
+    "name": "Coal Ore",
+    "category": "Refined Materials",
+    "yield": 10,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Charcoal (Aladdin Realm Material)"
+      }
+    ],
+    "image": "images/crafted/Coal_Ore.png"
+  },
+  {
+    "name": "Shadowy Bird Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Shadowy Frog Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Shadowy Demon Snippet",
+    "category": "Refined Materials",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "White Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Purified Night Shard",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Night Shard"
+      },
+      {
+        "qty": 1,
+        "name": "Dream Shard"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Dreamlight",
+    "category": "Enchantments",
+    "yield": 250,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dream Shards"
+      }
+    ],
+    "image": "images/crafted/Dreamlight.png"
+  },
+  {
+    "name": "Miracle Pickaxe Polish",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 5,
+        "name": "Onyx"
+      },
+      {
+        "qty": 500,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Even More Miraculous Pickaxe Polish",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 10,
+        "name": "Onyx"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Miracle Shovel Varnish",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 10,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 500,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Even More Miraculous Shovel Varnish",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 20,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Miracle Fishing Bait",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 5,
+        "name": "Red Algae"
+      },
+      {
+        "qty": 500,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Even More Miraculous Fishing Bait",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 10,
+        "name": "Red Algae"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Miracle Growth Elixir",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 10,
+        "name": "Rich Soil"
+      },
+      {
+        "qty": 500,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Even More Miraculous Growth Elixir",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Vitalys Crystal"
+      },
+      {
+        "qty": 20,
+        "name": "Rich Soil"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Digging Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Sand"
+      },
+      {
+        "qty": 20,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 30,
+        "name": "Soil"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Fishing Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Swordfish"
+      },
+      {
+        "qty": 10,
+        "name": "Herring"
+      },
+      {
+        "qty": 5,
+        "name": "Bream"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Foraging Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 30,
+        "name": "Banana"
+      },
+      {
+        "qty": 10,
+        "name": "Basil"
+      },
+      {
+        "qty": 20,
+        "name": "Blueberry"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gardening Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Corn"
+      },
+      {
+        "qty": 60,
+        "name": "Tomato"
+      },
+      {
+        "qty": 20,
+        "name": "Carrot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mining Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Topaz"
+      },
+      {
+        "qty": 2,
+        "name": "Peridot"
+      },
+      {
+        "qty": 2,
+        "name": "Aquamarine"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Snippet Catching Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Blue Bird Snippet"
+      },
+      {
+        "qty": 10,
+        "name": "Pink Demon Snippet"
+      },
+      {
+        "qty": 10,
+        "name": "Green Frog Snippet"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Timebending Training Manual",
+    "category": "Enchantments",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Wooden Oar"
+      },
+      {
+        "qty": 10,
+        "name": "Dinglehopper"
+      },
+      {
+        "qty": 10,
+        "name": "Pink Bow"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Asphalt",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Pebble"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brick Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Stones"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Dark Wire Mesh Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Dark Wood Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Dark Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gem and Opal Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Aquamarine"
+      },
+      {
+        "qty": 1,
+        "name": "Tourmaline"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gold and Opal Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Golden Brick Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bamboo Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Softwood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Iron Spike and Brick Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Brick"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Leaf-Strewn Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 1,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Loose Gravel Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Pebble"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Metal Spike Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Brick"
+      },
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Muddy Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Natural Rock Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Pebble"
+      },
+      {
+        "qty": 1,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sinister Brick Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Snowy Brick Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Snow"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sun-Baked Earthen Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "White Bamboo Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wire Mesh Fence (Base)",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Marble Fence",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Marble"
+      },
+      {
+        "qty": 1,
+        "name": "Crimson Eternal Poppies"
+      },
+      {
+        "qty": 1,
+        "name": "Fuchsia Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Asphalt with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Muddy Path with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Natural Rock Path with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brick Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Stone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sinister Brick Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Golden Brick Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Leaf-Strewn Path with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 1,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Loose Gravel Path with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gold and Opal Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gem and Opal Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Aquamarine"
+      },
+      {
+        "qty": 1,
+        "name": "Tourmaline"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sun-Baked Earthen Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Soil"
+      },
+      {
+        "qty": 1,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Snowy Brick Road with Border",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Snowball"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient's Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient's Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stone"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient Tile Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Ancient Radiator"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient Tile Road",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Ancient Radiator"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient Gear Tile",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Ancient Gear"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient Gear Corner Tile",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Ancient Gear"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Precious Pebble Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Pearl"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Jade"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Precious Amber Pebble Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Pearl"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Jade"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green and Purple Speckled Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 1,
+        "name": "Alexandrite"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow and Blue Speckled Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Main Street Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Clay"
+      },
+      {
+        "qty": 1,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 1,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wrought Iron Fence",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Wrought Iron"
+      }
+    ],
+    "image": "images/crafted/Wrought_Iron_Fence.png"
+  },
+  {
+    "name": "Pale Wood Fence",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Softwood"
+      },
+      {
+        "qty": 2,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Savanna Wooden Fence",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sugar Cookie Pavement",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Candy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Deluxe Sugar Cookie Pavement",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Candy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Bronze Pathway",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Spinel"
+      },
+      {
+        "qty": 1,
+        "name": "Bronze Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Bronze Pathway",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Spinel"
+      },
+      {
+        "qty": 1,
+        "name": "Bronze Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Zircon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ancient's Bamboo Fence",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Bamboo"
+      },
+      {
+        "qty": 1,
+        "name": "Rope"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blend Left Curving Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blend Right Curving Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Straight Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Oswaldian Blend Left Curving Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Oswaldian Blend Right Curving Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Oswaldian Straight Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Curved Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Oswaldian Curved Trolley Tracks",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Plastic Scrap"
+      },
+      {
+        "qty": 5,
+        "name": "Copper"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gold Bumblestone Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Bumblestone"
+      },
+      {
+        "qty": 1,
+        "name": "Scales"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bumblestone Path",
+    "category": "Fences and Paving",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Bumblestone"
+      },
+      {
+        "qty": 1,
+        "name": "Scales"
+      },
+      {
+        "qty": 1,
+        "name": "Alexandrite"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black Flat-Top Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Black Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black Gas Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 12,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black Retro Portable Radio",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Retro Portable Radio",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Star Lil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brown Retro Portable Radio",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gray Flat-Top Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gray Gas Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 12,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Iron Crafting Station",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gray Mailbox",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": null,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 1,
+        "name": "White Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pale Gray Flat-Stop Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pale Gray Gast Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 12,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pastel Egg Cooking Station",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Spring Egg"
+      },
+      {
+        "qty": 1,
+        "name": "Onyx"
+      }
+    ],
+    "image": "images/crafted/Pastel_Egg_Cooking_Station.png"
+  },
+  {
+    "name": "Pink Flat-Top Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass Pink Houseleek"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink Gas Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 12,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass Pink Houseleek"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Mailbox",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Red Bromeliad"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "White Flat-Top Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "White Gas Stove",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 12,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Black Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Crafting Station",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      },
+      {
+        "qty": 3,
+        "name": "Red Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Fall Leaves Snippet Repellent",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Lamprey"
+      },
+      {
+        "qty": 1,
+        "name": "Star Sapphire"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Moss"
+      },
+      {
+        "qty": 5,
+        "name": "Pine Cone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Faerie Snippet Repellent",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Lamprey"
+      },
+      {
+        "qty": 1,
+        "name": "Star Sapphire"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Olympic Snippet Repellent",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Lamprey"
+      },
+      {
+        "qty": 1,
+        "name": "Star Sapphire"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Marble"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Fall Leaves Slow Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sorcerer Hat Hermit Crab"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Moss"
+      },
+      {
+        "qty": 5,
+        "name": "Pine Cone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Faerie Slow Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sorcerer Hat Hermit Crab"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Olympic Slow Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sorcerer Hat Hermit Crab"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Marble"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Fall Leaves Lure Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stygian Mudskipper"
+      },
+      {
+        "qty": 1,
+        "name": "Magma"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Moss"
+      },
+      {
+        "qty": 5,
+        "name": "Pine Cone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Faerie Lure Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stygian Mudskipper"
+      },
+      {
+        "qty": 1,
+        "name": "Magma"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Olympic Lure Trap",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Stygian Mudskipper"
+      },
+      {
+        "qty": 1,
+        "name": "Magma"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 10,
+        "name": "Marble"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Chariot Lift",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Lightning Spice"
+      },
+      {
+        "qty": 10,
+        "name": "Gravel"
+      },
+      {
+        "qty": 10,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 5,
+        "name": "Coal"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Fairytale Armor",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Bars"
+      },
+      {
+        "qty": 3,
+        "name": "White Rose"
+      },
+      {
+        "qty": 2,
+        "name": "Opal"
+      },
+      {
+        "qty": 2,
+        "name": "Star Sapphire"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Blue Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 6,
+        "name": "Blue Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Green Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 5,
+        "name": "Green Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Red Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 10,
+        "name": "Red Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small White Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 6,
+        "name": "White Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Yellow Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 6,
+        "name": "Dandelion"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Blue Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 3,
+        "name": "Blue Star Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Green Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 5,
+        "name": "Green Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Red Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 10,
+        "name": "Red Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium White Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 6,
+        "name": "White Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Yellow Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 6,
+        "name": "Sunflower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Blue Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 5,
+        "name": "Blue Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Green Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlighty"
+      },
+      {
+        "qty": 10,
+        "name": "Green Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Red Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 6,
+        "name": "Red Nasturtium"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large White Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 10,
+        "name": "White Impatiens"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Yellow Chest",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      },
+      {
+        "qty": 3,
+        "name": "Yellow Nasturtium"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Chin Up White Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hand on Hip Black Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hesitant White Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Softwood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Relaxed Black Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Relaxed White Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Thoughtful Black Mannequin",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Softwood"
+      },
+      {
+        "qty": 15,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bayou Companion Home",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Blue Marsh Milkweed"
+      },
+      {
+        "qty": 1,
+        "name": "Orange and Red Marsh Milkweed"
+      },
+      {
+        "qty": 10,
+        "name": "Clay"
+      },
+      {
+        "qty": 1,
+        "name": "Okra Seed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Cozy Companion Home",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Softwood"
+      },
+      {
+        "qty": 5,
+        "name": "Sunflower"
+      },
+      {
+        "qty": 5,
+        "name": "White and Red Hydrangea"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": "images/crafted/Cozy_Companion_Home.png"
+  },
+  {
+    "name": "Tropical Companion",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Bamboo"
+      },
+      {
+        "qty": 1,
+        "name": "Spinel"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Flying Companion Feeder",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Softwood"
+      },
+      {
+        "qty": 5,
+        "name": "Clay"
+      },
+      {
+        "qty": 5,
+        "name": "Wheat"
+      },
+      {
+        "qty": 2,
+        "name": "Red Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Fuzzy Friend Companion Dish",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Clay"
+      },
+      {
+        "qty": 5,
+        "name": "Wheat"
+      },
+      {
+        "qty": 2,
+        "name": "Red Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pixar Companion Ball",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Red Bell Flower"
+      },
+      {
+        "qty": 5,
+        "name": "Yellow Daisy"
+      },
+      {
+        "qty": 5,
+        "name": "Blue Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Playful Companion Pinwheel",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Softwood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 5,
+        "name": "Pink Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Campfire",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 7,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Custom Signpost",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Delicious Gift",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Festive Wrapping Paper"
+      },
+      {
+        "qty": 1,
+        "name": "Hot Cocoa"
+      },
+      {
+        "qty": 1,
+        "name": "Minnie's Gingerbread Cookies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Handcrafted Gift",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Festive Wrapping Paper"
+      },
+      {
+        "qty": 1,
+        "name": "Holiday Feast Chair"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Naughty Gift",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Festive Wrapping Paper"
+      },
+      {
+        "qty": 1,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Shiny Gift",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Festive Wrapping Paper"
+      },
+      {
+        "qty": 1,
+        "name": "Shiny Ruby"
+      },
+      {
+        "qty": 1,
+        "name": "Shiny Emerald"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Purple Button",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 2,
+        "name": "Red Button"
+      },
+      {
+        "qty": 100,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Slow Cooker",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 6,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Timebending Table",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Mechanical Parts"
+      },
+      {
+        "qty": 10,
+        "name": "Quartz"
+      },
+      {
+        "qty": 10,
+        "name": "Zinc"
+      },
+      {
+        "qty": 3,
+        "name": "Blue Luminescent Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Uncrafting Station",
+    "category": "Functional Items",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 35,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 17,
+        "name": "Glass"
+      },
+      {
+        "qty": 28,
+        "name": "Mushroom"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Barrel Fragment",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 6,
+        "name": "Fiber"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bench",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black and White Mickey Mouse Water Tower",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Topaz"
+      },
+      {
+        "qty": 5,
+        "name": "White Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black Wrought Iron Streetlamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black, White, and Yellow Balloon Cluster",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 8,
+        "name": "Sunflower"
+      },
+      {
+        "qty": 8,
+        "name": "Black Passion Lily"
+      },
+      {
+        "qty": 8,
+        "name": "White Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Balloon Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 20,
+        "name": "Blue Star Lily"
+      },
+      {
+        "qty": 20,
+        "name": "Blue Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Balloon Cluster",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 8,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 8,
+        "name": "Blue Star Lily"
+      },
+      {
+        "qty": 8,
+        "name": "Blue Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Egg Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 1,
+        "name": "Sapphire"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Stone"
+      }
+    ],
+    "image": "images/crafted/Blue_Egg_Lamppost.png"
+  },
+  {
+    "name": "Blue Light High Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Aquamarine"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Light Low Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Aquamarine"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blue Wrought Iron Streetlamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Aquamarine"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Broken Carved Pillar Base",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Broken Pillar Base",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bromeliad and Marsh Milkweed Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 3,
+        "name": "Pink Bromeliad"
+      },
+      {
+        "qty": 2,
+        "name": "White Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brown, Green, and Yellow Balloon Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Green Rising Penstemon"
+      },
+      {
+        "qty": 20,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 20,
+        "name": "White Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brown, Green, and Yellow Balloon Cluster",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 8,
+        "name": "Green Rising Penstemon"
+      },
+      {
+        "qty": 8,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 8,
+        "name": "White Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Burlap Bags",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Soil"
+      },
+      {
+        "qty": 20,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Cart",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Classic Snowman",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Snowball"
+      },
+      {
+        "qty": 1,
+        "name": "Carrot"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      },
+      {
+        "qty": 3,
+        "name": "Pebbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Compass Ottoman",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 8,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 12,
+        "name": "Fabric"
+      },
+      {
+        "qty": 15,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 2,
+        "name": "Rope"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Crate",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Hard Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Daisy and Marsh Milkweed Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Red Daisy"
+      },
+      {
+        "qty": 2,
+        "name": "White Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Dandelion and Rising Penstemon Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "Rising Purple Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "DJ Booth Rig",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 6,
+        "name": "Topaz"
+      },
+      {
+        "qty": 6,
+        "name": "Aquamarine"
+      },
+      {
+        "qty": 6,
+        "name": "Tourmaline"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Egg Banner",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 5,
+        "name": "Spring V-EGG-table"
+      }
+    ],
+    "image": "images/crafted/Egg_Banner.png"
+  },
+  {
+    "name": "Elegant Gazebo",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 200,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 50,
+        "name": "Glass"
+      },
+      {
+        "qty": 10,
+        "name": "Diamond"
+      },
+      {
+        "qty": 10,
+        "name": "Crystal"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Elegant Town Square Clock",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 200,
+        "name": "Stone"
+      },
+      {
+        "qty": 100,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 30,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Falling Penstemon and Bell Flower Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 2,
+        "name": "White Bell Flower Join for free"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Festive Pennants",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Flower Boxes",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 6,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 2,
+        "name": "Pink Hydrangea"
+      },
+      {
+        "qty": 2,
+        "name": "Blue Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Flower Pots",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 6,
+        "name": "Clay"
+      },
+      {
+        "qty": 2,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Fountain",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 20,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 10,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Granite Fire Bowl",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Broken Sandstone"
+      },
+      {
+        "qty": 20,
+        "name": "Sand"
+      },
+      {
+        "qty": 25,
+        "name": "Stone"
+      },
+      {
+        "qty": 10,
+        "name": "Coal"
+      },
+      {
+        "qty": 3,
+        "name": "Red Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Egg Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 1,
+        "name": "Emerald"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Stone"
+      }
+    ],
+    "image": "images/crafted/Green_Egg_Lamppost.png"
+  },
+  {
+    "name": "Green Light High Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Peridot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Light Low Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Peridot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Wrought Iron Streetlamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Emerald"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Half-Barrel",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": null,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Haughty Snowman",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Snow Ball"
+      },
+      {
+        "qty": 1,
+        "name": "Crystal"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      },
+      {
+        "qty": 2,
+        "name": "Garnet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hay Bale",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Fiber"
+      },
+      {
+        "qty": 10,
+        "name": "Wheat"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hay Bales",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Fiber"
+      },
+      {
+        "qty": 10,
+        "name": "Wheat"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Heavy Wooden Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Soft Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Helm Bookshelf",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hydrangea and Bell Flower Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Hydrangea"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Bell Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Impatiens and Bromeliad Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Purple Impatiens"
+      },
+      {
+        "qty": 2,
+        "name": "Yellow Bromeliad"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Jubilant Topiary",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Clay"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      },
+      {
+        "qty": 3,
+        "name": "Pink Houseleek"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lamppost with Blue Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Amethyst"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lamppost with Green Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Emerald"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lamppost with Red Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Garnet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lamppost with Yellow Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Left Signpost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Low Sculpted Pillar",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mailbox",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Stone"
+      },
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Map",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": null,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Nugget"
+      },
+      {
+        "qty": 8,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mossy Circle-Carving Stone",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mossy Eye-Carving Stone",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mossy Fallen Pillar",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Soil"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 15,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Nasturtium and Marsh Milkweed Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Yellow Nasturtium"
+      },
+      {
+        "qty": 1,
+        "name": "Purple Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Nautical Themed Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Rope"
+      },
+      {
+        "qty": 15,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 10,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Old Barrel",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Outhouse",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 20,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Soil"
+      },
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Painted Wood Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Blue Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Passion Lily and Houseleek Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Orange Houseleek"
+      },
+      {
+        "qty": 1,
+        "name": "White Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink and Blue Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Impatiens"
+      },
+      {
+        "qty": 2,
+        "name": "Blue Star Lily"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Bromelia"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink, Blue, and Purple Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Houseleek"
+      },
+      {
+        "qty": 2,
+        "name": "Blue Marsh Milkweed"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Impatiens"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink, Red, and Purple Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Hydrangea"
+      },
+      {
+        "qty": 3,
+        "name": "Red Bell Flower"
+      },
+      {
+        "qty": 3,
+        "name": "Orange Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink, Yellow, and Black Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Houseleek"
+      },
+      {
+        "qty": 2,
+        "name": "Orange Star Lily"
+      },
+      {
+        "qty": 1,
+        "name": "Red Nasturtium"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink, Yellow, and Blue Balloon Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Pink Bromeliad"
+      },
+      {
+        "qty": 20,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 20,
+        "name": "Yellow Bromeliad"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pink, Yellow, and Blue Balloon Cluster",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 8,
+        "name": "Pink Bromeliad"
+      },
+      {
+        "qty": 8,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 8,
+        "name": "Yellow Bromeliad"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Purple Egg Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 1,
+        "name": "Amethyst"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Stone"
+      }
+    ],
+    "image": "images/crafted/Purple_Egg_Lamppost.png"
+  },
+  {
+    "name": "Purple Wrought Iron Streetlamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Glass Shard"
+      },
+      {
+        "qty": 1,
+        "name": "Amethyst"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Purple, Pink, and Yellow Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Pink Hydrangea"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Bell Flower"
+      },
+      {
+        "qty": 1,
+        "name": "Yellow Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Rectangular Soil Area",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Stone"
+      },
+      {
+        "qty": 8,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red and Black Passion Lily Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Red Passion Lily"
+      },
+      {
+        "qty": 1,
+        "name": "Black Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Egg Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Fishy Green Egg"
+      },
+      {
+        "qty": 1,
+        "name": "Ruby"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Stone"
+      }
+    ],
+    "image": "images/crafted/Red_Egg_Lamppost.png"
+  },
+  {
+    "name": "Red and Yellow Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "White Daisy"
+      },
+      {
+        "qty": 2,
+        "name": "Red Falling Panstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Light High Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Garnet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red, Blue, and Green Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Green Passion Lily"
+      },
+      {
+        "qty": 2,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 4,
+        "name": "Red Nasturtium"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red, White, and Purple Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Red Bromeliad"
+      },
+      {
+        "qty": 2,
+        "name": "White Impatiens"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red, Yellow, and Black Balloon Cluster",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 8,
+        "name": "Yellow Nasturtium"
+      },
+      {
+        "qty": 8,
+        "name": "Red Nasturtium"
+      },
+      {
+        "qty": 8,
+        "name": "Black Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Refreshment Chest",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Nuggets"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Right Signpost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Blue Three-Pronged",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Iron Ingots"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      },
+      {
+        "qty": 3,
+        "name": "Amethyst"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Lamppost with Blue Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Amethyst"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Lamppost with Orange Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Citrine"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Lamppost with Pink Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Tourmaline"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Lamppost with White Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 1,
+        "name": "Diamond"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Orange Three-Pronged Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      },
+      {
+        "qty": 3,
+        "name": "Citrine"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Pink Three-ProngedLamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      },
+      {
+        "qty": 3,
+        "name": "Tourmaline"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round Soil Area",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Stone"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round White Three-Pronged Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Glass"
+      },
+      {
+        "qty": 3,
+        "name": "Diamond"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Rustic Clock Tower",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Stone"
+      },
+      {
+        "qty": 100,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 30,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 200,
+        "name": "Clay"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Rustic Wooden Case",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": null,
+        "name": "Soft Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sack",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Fiber"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Scrooge McDuck's Store Sign",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Soft Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ship Coffee Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 15,
+        "name": "Tinkering Parts"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Short Birdhouse",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Yellow Bromeliad Pink Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Snow Kid",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Snow Ball"
+      },
+      {
+        "qty": 1,
+        "name": "Carrot"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      },
+      {
+        "qty": 3,
+        "name": "Pebbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Snow Lady",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Snow Ball"
+      },
+      {
+        "qty": 1,
+        "name": "Carrot"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      },
+      {
+        "qty": 3,
+        "name": "Pebbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stack of Firewood",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Dry Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stall",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Hard Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Star Lily and Falling Penstemon Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Star Lily"
+      },
+      {
+        "qty": 1,
+        "name": "White and Pink Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stellar Blue DJ Booth",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 50,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stellar Pink DJ Booth",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 50,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Pink Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stone Well",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 10,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sturdy Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Soft Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sunflower and Daisy Pot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Flower Pot"
+      },
+      {
+        "qty": 2,
+        "name": "Yellow Daisy"
+      },
+      {
+        "qty": 1,
+        "name": "Sunflower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Swimming Pool",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 300,
+        "name": "Stone"
+      },
+      {
+        "qty": 50,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 10,
+        "name": "White Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Tall Birdhouse",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 8,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Blue Falling Penstemon"
+      },
+      {
+        "qty": 3,
+        "name": "White Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Tool Rack",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 4,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 3,
+        "name": "Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Training Mannequin",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 3,
+        "name": "Red Bell Flower"
+      },
+      {
+        "qty": 3,
+        "name": "Red Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Trellis",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Soil"
+      },
+      {
+        "qty": 2,
+        "name": "White and Pink Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Trellis Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Soil"
+      },
+      {
+        "qty": 3,
+        "name": "White and Pink Falling Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "White, Red, and Purple Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "White Impatiens"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Rising Penstemon"
+      },
+      {
+        "qty": 3,
+        "name": "Orange and Red Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wide Arched Window",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 12,
+        "name": "Glass"
+      },
+      {
+        "qty": 10,
+        "name": "Gold Nugget"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Lamppost with Yellow Light",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      },
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wrought Iron Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 4,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow and White Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "White Daisy"
+      },
+      {
+        "qty": 1,
+        "name": "Yellow Bromeliad"
+      },
+      {
+        "qty": 3,
+        "name": "Orange Star Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow Light High Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow Light Low Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow Light Low Beach Torch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Soft Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Fiber"
+      },
+      {
+        "qty": 3,
+        "name": "Sand"
+      },
+      {
+        "qty": 1,
+        "name": "Garnet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow, Black, and White Balloon Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Sunflower"
+      },
+      {
+        "qty": 20,
+        "name": "Black Passion Lily"
+      },
+      {
+        "qty": 20,
+        "name": "White Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow, Green, and Purple Flower Rectangle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Rectangular Soil Area"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Falling Penstemon"
+      },
+      {
+        "qty": 2,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 2,
+        "name": "Green Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow, Red, and Black Balloon Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Black Passion Lilu"
+      },
+      {
+        "qty": 20,
+        "name": "Red Nasturtium"
+      },
+      {
+        "qty": 20,
+        "name": "Yellow Nasturtium"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Yellow, Red, and Blue Flower Disk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Round Soil Area"
+      },
+      {
+        "qty": 4,
+        "name": "Blue Passion Lily"
+      },
+      {
+        "qty": 2,
+        "name": "Red Bell Flower"
+      },
+      {
+        "qty": 4,
+        "name": "Sunflower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Zen Garden",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Stone"
+      },
+      {
+        "qty": 100,
+        "name": "Pebbles"
+      },
+      {
+        "qty": 200,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "White Rose Stone Fence",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 2,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 2,
+        "name": "Fairy Bubbles"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Black Rose Stone Fence",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 2,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 2,
+        "name": "Fairy Bubbles"
+      },
+      {
+        "qty": 1,
+        "name": "White Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Rose Stone Fence",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 2,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 2,
+        "name": "Fairy Bubbles"
+      },
+      {
+        "qty": 1,
+        "name": "Crimson Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mossy Stone Fence",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 2,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 2,
+        "name": "Fairy Bubbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Broken Cobblestone Path",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Stone"
+      },
+      {
+        "qty": 6,
+        "name": "Moss"
+      },
+      {
+        "qty": 1,
+        "name": "Common Club Rush"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Autumnal Bind Fence",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Mud"
+      },
+      {
+        "qty": 1,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Yellow Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lilo's Bunk Bed",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Posidonia"
+      },
+      {
+        "qty": 10,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 5,
+        "name": "Goldenrod Eternal Poppies"
+      },
+      {
+        "qty": 15,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Dumptruck Armchair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Coal"
+      },
+      {
+        "qty": 10,
+        "name": "Lightning Spice"
+      },
+      {
+        "qty": 10,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 10,
+        "name": "Gravel"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Fountain of Thebes",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Pure Ice"
+      },
+      {
+        "qty": 2,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 5,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 5,
+        "name": "Star Sapphire"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Madrigal Family Door",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Magma"
+      },
+      {
+        "qty": 5,
+        "name": "Lightning Spice"
+      },
+      {
+        "qty": 5,
+        "name": "Gravel"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Transportation Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Lightning Spice"
+      },
+      {
+        "qty": 5,
+        "name": "Fairy Bubbles"
+      },
+      {
+        "qty": 1,
+        "name": "Pure Ice"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Red Novel Tennis Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 5,
+        "name": "Moss"
+      },
+      {
+        "qty": 10,
+        "name": "Mud"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Bird Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Novel Tennis Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 5,
+        "name": "Moss"
+      },
+      {
+        "qty": 10,
+        "name": "Mud"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Bird Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bind L Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 6,
+        "name": "Moss"
+      },
+      {
+        "qty": 15,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 6,
+        "name": "Posidonia"
+      },
+      {
+        "qty": 10,
+        "name": "Teal Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Orange Bind L Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 6,
+        "name": "Moss"
+      },
+      {
+        "qty": 15,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 6,
+        "name": "Posidonia"
+      },
+      {
+        "qty": 6,
+        "name": "Goldenrod Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bind Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 20,
+        "name": "Moss"
+      },
+      {
+        "qty": 1,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 1,
+        "name": "Pink Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Orange Bind Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 4,
+        "name": "Moss"
+      },
+      {
+        "qty": 10,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 4,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 4,
+        "name": "Teal Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Potted Blooming Tree",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Common Club Rush"
+      },
+      {
+        "qty": 4,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      },
+      {
+        "qty": 4,
+        "name": "Pink Rose"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Halloween Town Clock",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 2,
+        "name": "White Rose"
+      },
+      {
+        "qty": 2,
+        "name": "Trumpet Snail"
+      },
+      {
+        "qty": 2,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Brave Bear Tapestry",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 8,
+        "name": "Topaz"
+      },
+      {
+        "qty": 5,
+        "name": "Olive Green Tale Cone Flower"
+      },
+      {
+        "qty": 8,
+        "name": "Yellow Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Great Tome Banner",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Fairy Bubbles"
+      },
+      {
+        "qty": 20,
+        "name": "Yellow Tale Cone Flower"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Tale Cone Flower"
+      },
+      {
+        "qty": 10,
+        "name": "Olive Green Tale Cone Flower"
+      },
+      {
+        "qty": 5,
+        "name": "Beige Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Garden Temple",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Stone"
+      },
+      {
+        "qty": 3,
+        "name": "Crimson Eternal Poppies"
+      },
+      {
+        "qty": 2,
+        "name": "Ruby"
+      },
+      {
+        "qty": 5,
+        "name": "Gravel"
+      },
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sea Palace Window",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Stone"
+      },
+      {
+        "qty": 10,
+        "name": "Marble"
+      },
+      {
+        "qty": 10,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Royal Candy Doors",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Sour Berries"
+      },
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 5,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medieval Wooden Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Moss"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Corporate Ceiling Lamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 1,
+        "name": "Star Sapphire"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "The Bind Fountain",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Marble"
+      },
+      {
+        "qty": 5,
+        "name": "Moss"
+      },
+      {
+        "qty": 10,
+        "name": "Posidonia"
+      },
+      {
+        "qty": 10,
+        "name": "Stone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Grecian Workout Bench",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Lightning Spice"
+      },
+      {
+        "qty": 5,
+        "name": "Gravel"
+      },
+      {
+        "qty": 20,
+        "name": "Marble"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "The Stained Glass Window to Imagination",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 5,
+        "name": "Dusty Violet Rose"
+      },
+      {
+        "qty": 2,
+        "name": "Pure Ice"
+      },
+      {
+        "qty": 5,
+        "name": "Fuchsia Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Greek Mosaic Rug",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Gravel"
+      },
+      {
+        "qty": 2,
+        "name": "Broken Weapon"
+      },
+      {
+        "qty": 1,
+        "name": "Ruby"
+      },
+      {
+        "qty": 4,
+        "name": "Blue Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Orange Bind Armchair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Moss"
+      },
+      {
+        "qty": 5,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 2,
+        "name": "Olive Green Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Bind Armchair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Moss"
+      },
+      {
+        "qty": 5,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 2,
+        "name": "Goldenrod Eternal Poppies"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Classroom Blackboard",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 3,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 2,
+        "name": "Pink Rose"
+      },
+      {
+        "qty": 2,
+        "name": "White Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Green Rustic Wooden Desk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 2,
+        "name": "Olive Green Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Rustic Wooden Desk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 2,
+        "name": "Yellow Tale Cone Flower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Giant Leaf Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Mud"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "\"La Ratatouille\" Sign",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Agrabah Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sorcerer Hat Hermit Crab"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Autumnal Volleyball Net",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Mud"
+      },
+      {
+        "qty": 2,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 4,
+        "name": "Common Club Rush"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Swirly Striped Rug",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Sea Monster Tooth"
+      },
+      {
+        "qty": 10,
+        "name": "Moss"
+      },
+      {
+        "qty": 4,
+        "name": "Pink Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Storybook Frame",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 250,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 2,
+        "name": "Blue Bird Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Gray Storybook Frame",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 250,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 1,
+        "name": "Green Frog Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Storybook Frame",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 250,
+        "name": "Story Magic"
+      },
+      {
+        "qty": 2,
+        "name": "Pink Demon Snippet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bridge Lamp Post",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 4,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Ruby"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Classroom Pens and Pencils",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Coal"
+      },
+      {
+        "qty": 1,
+        "name": "Slate Gray Rose"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Atrium Candles",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 1,
+        "name": "Opal"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "The Princess and the Frog Chest",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Opal"
+      },
+      {
+        "qty": 25,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 25,
+        "name": "Green Frog Snippet"
+      },
+      {
+        "qty": 500,
+        "name": "Story Magic"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Autumn Mage Scarecrow",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Sorcerer Hat Hermit Crab"
+      },
+      {
+        "qty": 5,
+        "name": "Trumpet Snail"
+      },
+      {
+        "qty": 10,
+        "name": "Pine Cone"
+      },
+      {
+        "qty": 5,
+        "name": "Soil"
+      },
+      {
+        "qty": 10,
+        "name": "Petrified Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wonderland Candle",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 6,
+        "name": "Glass"
+      },
+      {
+        "qty": 9,
+        "name": "Coal Ore"
+      },
+      {
+        "qty": 10,
+        "name": "Red Bell Flower"
+      },
+      {
+        "qty": 12,
+        "name": "Yellow Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Marketplace Chest",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 4,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 9,
+        "name": "Dry Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Marketplace Chest",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Tinkering Parts"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 7,
+        "name": "Dark Wood"
+      },
+      {
+        "qty": 18,
+        "name": "Dry Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Compost Bin",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Soil"
+      },
+      {
+        "qty": 15,
+        "name": "Brick"
+      },
+      {
+        "qty": 10,
+        "name": "Dark Wood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Hanging Egg Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Purple Spring Egg"
+      },
+      {
+        "qty": 20,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 20,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 20,
+        "name": "Spring V-EGG-etable"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Egg-cellent Balloons",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Purple Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 5,
+        "name": "Spring V-EGG-etable"
+      },
+      {
+        "qty": 5,
+        "name": "Rope"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Over Easy Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Egg-cellent Fruit"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "\"Don't Put Em All In One Basket\" Basket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 10,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 5,
+        "name": "Spring V-EGG-etable"
+      },
+      {
+        "qty": 20,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Spring Egg Bounty",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 15,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 15,
+        "name": "Spring V-EGG-etable"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sunny Side Up Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 25,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 25,
+        "name": "Spring V-EGG-etable"
+      },
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Potted Spring Egg Tree",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Purple Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Wild Spring Egg"
+      },
+      {
+        "qty": 5,
+        "name": "Egg-cellent Fruit"
+      },
+      {
+        "qty": 5,
+        "name": "Spring V-EGG-etable"
+      },
+      {
+        "qty": 1,
+        "name": "Rich Soil"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "End of the Rainbow Cauldron",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Four-Leaf Clover"
+      },
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 20,
+        "name": "Gold Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Transparent Blooming Teapot",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Volcanic Rock"
+      },
+      {
+        "qty": 1,
+        "name": "Magma"
+      },
+      {
+        "qty": 4,
+        "name": "Dusty Violet Rose"
+      },
+      {
+        "qty": 1,
+        "name": "Ruby"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Display Pillar",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Orange and Red Marsh Milkweed"
+      },
+      {
+        "qty": 3,
+        "name": "White Bell Flower"
+      },
+      {
+        "qty": 3,
+        "name": "White and Red Hydrangea"
+      },
+      {
+        "qty": 3,
+        "name": "Citrine"
+      },
+      {
+        "qty": 4,
+        "name": "Emerald"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Mickey's Halloween Candy Bowl",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Clay"
+      },
+      {
+        "qty": 2,
+        "name": "Green Candy"
+      },
+      {
+        "qty": 2,
+        "name": "Purple Candy"
+      },
+      {
+        "qty": 2,
+        "name": "Red Candy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Archery Target",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Blue Tale Cone Flower"
+      },
+      {
+        "qty": 3,
+        "name": "Yellow Tale Cone Flower"
+      },
+      {
+        "qty": 10,
+        "name": "Petrified Wood"
+      },
+      {
+        "qty": 8,
+        "name": "Wheat"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Blank Sandwich Board",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Stone"
+      },
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 10,
+        "name": "Wheat"
+      },
+      {
+        "qty": 5,
+        "name": "Egg"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bonfire Pit",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Roasted Marshmallows"
+      },
+      {
+        "qty": 50,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 50,
+        "name": "Stone"
+      },
+      {
+        "qty": 10,
+        "name": "Coal Ore"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Vintage Cooler",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "S'mores"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 100,
+        "name": "Snowball"
+      },
+      {
+        "qty": 1000,
+        "name": "Dreamlight"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Outdoor Lounge Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Roasted Marshmallows"
+      },
+      {
+        "qty": 25,
+        "name": "Fabric"
+      },
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 5,
+        "name": "S'mores"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Attorney Stand",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 5,
+        "name": "Brass Ingot"
+      },
+      {
+        "qty": 5,
+        "name": "Plastic Scrap"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Ornate Parisian Statue",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 100,
+        "name": "Wrought Iron"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bistro Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Softwood"
+      },
+      {
+        "qty": 6,
+        "name": "Fiber"
+      },
+      {
+        "qty": 1,
+        "name": "Green Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Bistro Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 1,
+        "name": "Green Rising Penstemon"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Parade Festival Arch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 15,
+        "name": "Green Passion Lily"
+      },
+      {
+        "qty": 15,
+        "name": "Yellow Daisy"
+      },
+      {
+        "qty": 15,
+        "name": "Purple Marsh Milkweed"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Cinderella Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 10,
+        "name": "Red Button"
+      }
+    ],
+    "image": "images/crafted/Cinderella_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Dug Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      }
+    ],
+    "image": "images/crafted/Dug_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Figment Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      },
+      {
+        "qty": 10,
+        "name": "Red Button"
+      }
+    ],
+    "image": "images/crafted/Figment_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Metallic Mickey Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Button"
+      }
+    ],
+    "image": "images/crafted/Metallic_Mickey_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Minecart Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 10,
+        "name": "Red Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      }
+    ],
+    "image": "images/crafted/Minecart_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Pooh's Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Button"
+      },
+      {
+        "qty": 10,
+        "name": "Red Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      }
+    ],
+    "image": "images/crafted/Pooh's_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Slinky Dog Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Buttons"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Buttons"
+      },
+      {
+        "qty": 10,
+        "name": "Blue Buttons"
+      },
+      {
+        "qty": 10,
+        "name": "Red Buttons"
+      }
+    ],
+    "image": "images/crafted/Slinky_Dog_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Stitch Popcorn Bucket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 40,
+        "name": "Green Button"
+      },
+      {
+        "qty": 15,
+        "name": "Blue Button"
+      },
+      {
+        "qty": 20,
+        "name": "Flower Button"
+      },
+      {
+        "qty": 5,
+        "name": "Purple Button"
+      }
+    ],
+    "image": "images/crafted/Stitch_Popcorn_Bucket.png"
+  },
+  {
+    "name": "Mickey Mouse Park Balloons",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Rope"
+      },
+      {
+        "qty": 1,
+        "name": "Purple Rising Penstemon"
+      },
+      {
+        "qty": 1,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "Blue Hydrangea"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Disney Park Balloons",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Rope"
+      },
+      {
+        "qty": 1,
+        "name": "White and Red Hydrangea"
+      },
+      {
+        "qty": 1,
+        "name": "Purple Hydrangea"
+      },
+      {
+        "qty": 1,
+        "name": "Yellow Daisy"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Colorful Park Bench",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Red Falling Penstemon"
+      },
+      {
+        "qty": 3,
+        "name": "Green Rising Penstemon"
+      },
+      {
+        "qty": 1,
+        "name": "Sunflower"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Park Banner Lamppost",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Topaz"
+      },
+      {
+        "qty": 10,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Round White Basket",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Tropical Wood"
+      },
+      {
+        "qty": 1,
+        "name": "Fiber"
+      },
+      {
+        "qty": 1,
+        "name": "White Bird of Paradise"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Armchair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 10,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Beach Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Softwood"
+      },
+      {
+        "qty": 10,
+        "name": "Fiber"
+      },
+      {
+        "qty": 10,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Chair",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Couch",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 20,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Desk",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Double Bed",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 5,
+        "name": "Fabric"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Dresser",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 25,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Fridge",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Iron Ingot"
+      },
+      {
+        "qty": 10,
+        "name": "Snowball"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Lamp",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 3,
+        "name": "Fabric"
+      },
+      {
+        "qty": 1,
+        "name": "Glass"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Large Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 15,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Parasol and Towel",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Fiber"
+      },
+      {
+        "qty": 10,
+        "name": "Sand"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Picnic Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Softwood"
+      },
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Rug",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Fiber"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Side Table",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Basic Wardrobe",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 30,
+        "name": "Softwood"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Lost Boys Audition Sign",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 10,
+        "name": "Softwood"
+      },
+      {
+        "qty": 1,
+        "name": "Red Passion Lily"
+      },
+      {
+        "qty": 1,
+        "name": "Green Passion Lily"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Summer Crafting Station",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 20,
+        "name": "Fabric"
+      },
+      {
+        "qty": 20,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 20,
+        "name": "S'mores"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Sizzling BBQ Cooking Station",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 10,
+        "name": "Coal Ore"
+      },
+      {
+        "qty": 20,
+        "name": "Iron Ore"
+      },
+      {
+        "qty": 20,
+        "name": "S'mores"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Wooden Training Dummy",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 4,
+        "name": "Dry Wood"
+      },
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 6,
+        "name": "Hardwood"
+      },
+      {
+        "qty": 15,
+        "name": "Stone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Stack of Crates",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Crate"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Pile of Crates",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Crate"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Small Heap of Riches",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 3,
+        "name": "Gold Nugget"
+      },
+      {
+        "qty": 1,
+        "name": "Brass Ingot"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Medium Heap of Riches",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Brass Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Spinel"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Heap of Riches",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Gold Ingot"
+      },
+      {
+        "qty": 2,
+        "name": "Brass Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Bronze Ingot"
+      },
+      {
+        "qty": 1,
+        "name": "Spinel"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Broken Teacup",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 5,
+        "name": "Mud"
+      },
+      {
+        "qty": 3,
+        "name": "Volcanic Rock"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Elevated / Low Display Bubble",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 1,
+        "name": "Opal"
+      },
+      {
+        "qty": 2,
+        "name": "Fairy Bubbles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "name": "Large Elevated / Low Display Bubble",
+    "category": "Furniture",
+    "yield": null,
+    "materials": [
+      {
+        "qty": 2,
+        "name": "Opal"
+      },
+      {
+        "qty": 4,
+        "name": "Fairy Bubbles"
+      }
+    ],
+    "image": null
+  }
+]

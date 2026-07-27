@@ -1,0 +1,333 @@
+Aladdin!Carpet -> Magic Carpet
+Aladdin!Rajah -> Rajah
+Aladdin!TigerCub -> Tiger Cub
+AncientCiv!MiniAtlantisGuardian -> Ancient Robot
+Beach!CritterBeach01 -> Classic Sea Turtle
+Beach!CritterBeach02 -> Brown Sea Turtle
+Beach!CritterBeach03 -> White Sea Turtle
+Beach!CritterBeach04 -> Purple Sea Turtle
+Beach!CritterBeach05 -> Black Sea Turtle
+Bird!BirdRainbow -> Rainbow Bird Snippet
+Bird!SnippetBird01 -> Red Bird Snippet
+Bird!SnippetBird01Tuto -> Red Bird Snippet
+Bird!SnippetBird02 -> Blue Bird Snippet
+Bird!SnippetBird03 -> Green Bird Snippet
+Bird!SnippetBird04 -> Yellow Bird Snippet
+Bird!SnippetBird05 -> White Bird Snippet
+Bird!SnippetBird06 -> Shadowy Bird Snippet
+Cat!BlackCat -> Witchy Kitty
+Cat!BuzzLightyearInspiredCat -> Star Command Cat
+Cat!Dinah -> Dinah
+Cat!Figaro01 -> Figaro
+Cat!Mochi -> Mochi
+Crocodile!Chocodile01 -> Choco Crocodile
+Crocodile!Crocodile01 -> Classic Crocodile
+Crocodile!Crocodile02 -> Blue Crocodile
+Crocodile!Crocodile03 -> Red Crocodile
+Crocodile!Crocodile04 -> Golden Crocodile
+Crocodile!Crocodile05 -> White Crocodile
+Crocodile!Crocodile06 -> Pink Crocodile
+Crocodile!DapperCrocodile01 -> Dapper Crocodile
+Crocodile!Dreamlight!color01 -> Blue Whimsical Crocodile
+Crocodile!Dreamlight!color02 -> Pink Whimsical Crocodile
+Crocodile!FruitCroco01 -> Bountiful Croc
+DarkMountains!CritterDarkMountains01 -> Classic Raven
+DarkMountains!CritterDarkMountains02 -> Red Raven
+DarkMountains!CritterDarkMountains03 -> White Raven
+DarkMountains!CritterDarkMountains04 -> Blue Raven
+DarkMountains!CritterDarkMountains05 -> Brown Raven
+Demon!DemonEvil -> Everafter Demon Snippet
+Demon!DemonEvil01 -> Everafter Demon Snippet
+Demon!DemonRainbow -> Rainbow Demon Snippet
+Demon!SnippetDemon01Pink -> Pink Demon Snippet
+Demon!SnippetDemon02Blue -> Blue Demon Snippet
+Demon!SnippetDemon03Red -> Red Demon Snippet
+Demon!SnippetDemon04Green -> Green Demon Snippet
+Demon!SnippetDemon05Black -> Shadowy Demon Snippet
+Dog!Baby3HeadedPuppy -> Good, Good, Good Puppy
+Dog!BabyCorgi -> Corgi Puppy
+Dog!BabyHusky -> Husky Puppy
+Dog!FlowerPuppy -> Blooming Puppy
+Dog!Lucky -> Lucky
+Dog!Max -> Max
+Dog!Percy -> Percy
+Dog!SailorDaschund -> Sailing Skipper Dachshund
+DreamlightValley!GenericHorse -> Wishblossom Horse
+Event!FloatingFestival!FFSpring2026Capy01 -> {DoNotTranslate}Spring Floating Festival Capybara Monday
+Event!FloatingFestival!FFSpring2026Capy02 -> {DoNotTranslate}Spring Floating Festival Capybara Tuesday
+Event!FloatingFestival!FFSpring2026Capy03 -> {DoNotTranslate}Spring Floating Festival Capybara Wednesday
+Event!FloatingFestival!FFSpring2026Capy04 -> {DoNotTranslate}Spring Floating Festival Capybara Thursday
+Event!FloatingFestival!FFSpring2026Capy05 -> {DoNotTranslate}Spring Floating Festival Capybara Friday
+Event!FloatingFestival!FFSpring2026Capy06 -> {DoNotTranslate}Spring Floating Festival Capybara Saturday
+Event!FloatingFestival!FFSpring2026Capy07 -> {DoNotTranslate}Spring Floating Festival Capybara Sunday
+Event!FloatingFestival!FloatingFestivalFox -> Haunted Floating Festival Fox
+Event!FloatingFestival!FloatingFestivalWinterRabbit01 -> {DoNotTranslate} Chunky Rabbit
+Event!FloatingFestival!FloatingFestivalWinterRabbit02 -> {DoNotTranslate} Chunky Rabbit
+Event!FloatingFestival!FloatingFestivalWinterRabbit03 -> {DoNotTranslate} Chunky Rabbit
+Expansion01!Capybara!BigHero6InspiredCapybara -> Robo Capybara
+Expansion01!Capybara!Capybara01 -> Classic Capybara
+Expansion01!Capybara!Capybara02 -> Black and White Capybara
+Expansion01!Capybara!Capybara03 -> Blue Striped Capybara
+Expansion01!Capybara!Capybara04 -> Gray Spotted Capybara
+Expansion01!Capybara!Capybara05 -> Red and White Striped Capybara
+Expansion01!Capybara!CapybaraBW01 -> Toon Capybara
+Expansion01!Capybara!CapybaraCottage01 -> Flowery Capybara
+Expansion01!Capybara!NostalgiaCapybara -> Nostalgia Capybara
+Expansion01!Capybara!RelaxCapybara01 -> Relaxing Capybara
+Expansion01!Capybara!TinkerBellInspiredCritter01 -> Tinker Bell Capybara
+Expansion01!Cobra!Cobra01 -> Classic Cobra
+Expansion01!Cobra!Cobra02 -> Blue and Red Striped Cobra
+Expansion01!Cobra!Cobra03 -> Pink Spotted Cobra
+Expansion01!Cobra!Cobra04 -> Yellow and Purple Striped Cobra
+Expansion01!Cobra!Cobra05 -> Green and White Striped Cobra
+Expansion01!Cobra!CobraBW01 -> Toon Cobra
+Expansion01!Desert!CritterDesert01 -> Classic Cobra
+Expansion01!Desert!CritterDesert02 -> Blue and Red Striped Cobra
+Expansion01!Desert!CritterDesert03 -> Pink Spotted Cobra
+Expansion01!Desert!CritterDesert04 -> Yellow and Purple Striped Cobra
+Expansion01!Desert!CritterDesert05 -> Green and White Striped Cobra
+Expansion01!Desert!CritterDesertBW01 -> Toon Cobra
+Expansion01!Jungle!CritterJungle01 -> Classic Capybara
+Expansion01!Jungle!CritterJungle02 -> Black and White Capybara
+Expansion01!Jungle!CritterJungle03 -> Blue Striped Capybara
+Expansion01!Jungle!CritterJungle04 -> Gray Spotted Capybara
+Expansion01!Jungle!CritterJungle05 -> Red and White Striped Capybara
+Expansion01!Jungle!CritterJungleBW01 -> Toon Capybara
+Expansion01!Monkey!MadHatterInspired -> Tea Party Monkey
+Expansion01!Monkey!Monkey01 -> Classic Monkey
+Expansion01!Monkey!Monkey02 -> Black and Brown Monkey
+Expansion01!Monkey!Monkey03 -> Red and Beige Monkey
+Expansion01!Monkey!Monkey04 -> Beige Monkey
+Expansion01!Monkey!Monkey05 -> Black and Gray Monkey
+Expansion01!Monkey!MonkeyBW01 -> Toon Monkey
+Expansion01!Monkey!MonkeyJester01 -> Jester Monkey
+Expansion01!Monkey!MonkeyPirate01 -> Pirate Monkey
+Expansion01!Outpost!CritterOutpost01 -> Classic Monkey
+Expansion01!Outpost!CritterOutpost02 -> Black and Brown Monkey
+Expansion01!Outpost!CritterOutpost03 -> Red and Beige Monkey
+Expansion01!Outpost!CritterOutpost04 -> Beige Monkey
+Expansion01!Outpost!CritterOutpost05 -> Black and Gray Monkey
+Expansion01!Outpost!CritterOutpostBW01 -> Toon Monkey
+Expansion02!BabyDragon!BabyDragon01 -> Blue Baby Dragon
+Expansion02!BabyDragon!BabyDragon02 -> Red Baby Dragon
+Expansion02!BabyDragon!BabyDragon03 -> Green Baby Dragon
+Expansion02!BabyDragon!BabyDragon04 -> Purple Baby Dragon
+Expansion02!BabyDragon!BabyDragon05 -> Teal Baby Dragon
+Expansion02!BabyDragon!KnightDragon -> Knightly Dragon
+Expansion02!BabyDragon!SakuraDragon -> Sakura Blossom Dragon
+Expansion02!BabyDragon!ScholaryDragonSkin01 -> Scholarly Baby Dragon
+Expansion02!BabyDragon!TrainConductorDragon -> Train Conductor Dragon
+Expansion02!BabyPegasus!BabyPegasus01 -> Pink Pegasus
+Expansion02!BabyPegasus!BabyPegasus02 -> Blue Pegasus
+Expansion02!BabyPegasus!BabyPegasus03 -> Yellow Pegasus
+Expansion02!BabyPegasus!BabyPegasus04 -> Peach Pegasus
+Expansion02!BabyPegasus!BabyPegasus05 -> Black Pegasus
+Expansion02!BabyPegasus!Herc_Pegasus_Baby01 -> Baby Pegasus
+Expansion02!BabyPegasus!HolidayPegasus -> Festive Pegasus
+Expansion02!BabyPegasus!PinkMiniPegasus -> Pink Baby Pegasus
+Expansion02!BabyPegasus!UnicornFairyWinter -> Winter Fairy Unicorn
+Expansion02!FairyTales!CritterFairyTales01 -> Blue Baby Dragon
+Expansion02!FairyTales!CritterFairyTales02 -> Red Baby Dragon
+Expansion02!FairyTales!CritterFairyTales03 -> Green Baby Dragon
+Expansion02!FairyTales!CritterFairyTales04 -> Purple Baby Dragon
+Expansion02!FairyTales!CritterFairyTales05 -> Teal Baby Dragon
+Expansion02!Library!CritterLibrary01 -> Brown Owl
+Expansion02!Library!CritterLibrary02 -> Purple Owl
+Expansion02!Library!CritterLibrary03 -> Dark Owl
+Expansion02!Library!CritterLibrary04 -> Light Owl
+Expansion02!Mythology!CritterMythology01 -> Pink Pegasus
+Expansion02!Mythology!CritterMythology02 -> Blue Pegasus
+Expansion02!Mythology!CritterMythology03 -> Yellow Pegasus
+Expansion02!Mythology!CritterMythology04 -> Peach Pegasus
+Expansion02!Mythology!CritterMythology05 -> Black Pegasus
+Expansion02!Owl!Owl01 -> Brown Owl
+Expansion02!Owl!Owl02 -> Purple Owl
+Expansion02!Owl!Owl03 -> Dark Owl
+Expansion02!Owl!Owl04 -> White Owl
+Expansion02!Owl!WitchyOwl -> Witching Owl
+Expansion03!Bee!BamBee -> BamBee
+Expansion03!Bee!Bee01 -> Sweet Bee
+Expansion03!Bee!Bee02 -> Pink Sweet Bee
+Expansion03!Bee!Bee03 -> Blue Sweet Bee
+Expansion03!Bee!Bee04 -> White Sweet Bee
+Expansion03!Fashion!CritterFashion01 -> Skunk
+Expansion03!Fashion!CritterFashion02 -> Brown Skunk
+Expansion03!Fashion!CritterFashion03 -> White Skunk
+Expansion03!Fashion!CritterFashion04 -> Patterned Skunk
+Expansion03!Goose!AbigailGoose -> Abigail the Goose
+Expansion03!Goose!AmeliaGoose -> Amelia the Goose
+Expansion03!Goose!CowboyGoose -> Yeehaw Goose
+Expansion03!Goose!Goose01 -> Goose
+Expansion03!Goose!Goose02 -> True North Goose
+Expansion03!Goose!Goose03 -> Black Goose
+Expansion03!Goose!Goose04 -> Golden Goose
+Expansion03!Goose!Goose05 -> Blue Goose
+Expansion03!Rockies!CritterRockies01 -> Goose
+Expansion03!Rockies!CritterRockies02 -> True North Goose
+Expansion03!Rockies!CritterRockies03 -> Black Goose
+Expansion03!Rockies!CritterRockies04 -> Yellow Goose
+Expansion03!Rockies!CritterRockies05 -> Blue Goose
+Expansion03!Skunk!FashionDesignerSkunk -> Professor Mouffette
+Expansion03!Skunk!JesterSkunk -> Jester Skunk
+Expansion03!Skunk!Skunk01 -> Skunk
+Expansion03!Skunk!Skunk02 -> Brown Skunk
+Expansion03!Skunk!Skunk03 -> White Skunk
+Expansion03!Skunk!Skunk04 -> Patterned Skunk
+Expansion03!Wishland!CritterWishland01 -> Sweet Bee
+Expansion03!Wishland!CritterWishland02 -> Pink Sweet Bee
+Expansion03!Wishland!CritterWishland03 -> Blue Sweet Bee
+Expansion03!Wishland!CritterWishland04 -> White Sweet Bee
+FootStool!FootStool01 -> The Footstool
+Forest!CritterForest01 -> Classic Raccoon
+Forest!CritterForest02 -> Red Raccoon
+Forest!CritterForest03 -> Black Raccoon
+Forest!CritterForest04 -> White Raccoon
+Forest!CritterForest05 -> Blue Raccoon
+Fox!CoolRiderFox -> Rock and Roll Fox
+Fox!Dreamlight!color01 -> Blue Whimsical Fox
+Fox!Dreamlight!color02 -> Pink Whimsical Fox
+Fox!FennecFox -> Fennec Fox
+Fox!FestiveFox01 -> Festive Fox
+Fox!Fox01 -> White Fox
+Fox!Fox02 -> Classic Fox
+Fox!Fox03 -> Black Fox
+Fox!Fox04 -> Blue Fox
+Fox!Fox05 -> Red Fox
+Fox!GhostZeroFox01 -> Ghostly "Zero" Fox
+Fox!LionFox01 -> Dancing Lion Fox
+Fox!LionInspiredFox01 -> "Lion" Cub Fox
+Fox!LoungeflyFox01 -> Pooh Adorable Loungefly Harness Fox
+Fox!RainbowFox -> Rainbow Fox
+Fox!RoyalFox01 -> Regal Fox
+Frog!FrogEvil -> Neverafter Frog Snippet
+Frog!FrogRainbow -> Rainbow Frog Snippet
+Frog!SnippetFrog01Blue -> Blue Frog Snippet
+Frog!SnippetFrog02Pink -> Pink Frog Snippet
+Frog!SnippetFrog03Purple -> Purple Frog Snippet
+Frog!SnippetFrog04Yellow -> Yellow Frog Snippet
+Frog!SnippetFrog05Black -> Shadowy Frog Snippet
+Frozen!Sven -> Sven
+Hercules!Pegasus -> Pegasus
+Meadow!CritterMeadow01 -> Classic Rabbit
+Meadow!CritterMeadow02 -> Black Rabbit
+Meadow!CritterMeadow03 -> Brown Rabbit
+Meadow!CritterMeadow04 -> White Rabbit
+Meadow!CritterMeadow05 -> Calico Rabbit
+Mickey!Pluto -> Pluto
+Mini01!Hedgehog!ApiaryHedgehog -> Busy Bee Hedgehog
+Mini01!Hedgehog!Hedgehog01 -> Classic Hedgehog
+Mini01!Hedgehog!Hedgehog02 -> Yellow Hedgehog
+Mini01!Hedgehog!Hedgehog03 -> Green Hedgehog
+Mini01!Hedgehog!Hedgehog04 -> Orange Hedgehog
+Mini01!Honeywood!Hedgehog01 -> Classic Hedgehog
+Mini01!Honeywood!Hedgehog02 -> Yellow Hedgehog
+Mini01!Honeywood!Hedgehog03 -> Green Hedgehog
+Mini01!Honeywood!Hedgehog04 -> Orange Hedgehog
+Moana!Heihei -> Heihei
+Moana!Pua -> Pua
+Mulan!Khan -> Khan
+PeterPan!Nana -> Nana
+Pocahontas!Meeko -> Meeko
+Rabbit!Dreamlight!color01 -> Blue Whimsical Rabbit
+Rabbit!Dreamlight!color02 -> Pink Whimsical Rabbit
+Rabbit!EnvyRabbit -> Envy Rabbit
+Rabbit!GingerRabbit -> Gingerbread Rabbit
+Rabbit!PlatinumRabbit01 -> Gentle Rabbit
+Rabbit!Rabbit01 -> Classic Rabbit
+Rabbit!Rabbit02 -> Black Rabbit
+Rabbit!Rabbit03 -> Brown Rabbit
+Rabbit!Rabbit04 -> White Rabbit
+Rabbit!Rabbit05 -> Calico Rabbit
+Rabbit!SpringRabbit_Blue -> Blue Spring Rabbit
+Rabbit!SpringRabbit_Pink -> Pink Spring Rabbit
+Rabbit!SpringRabbit_Yellow -> Yellow Spring Rabbit
+Rabbit!WinterRabbit01 -> Frosty Rabbit
+Racoon!Dreamlight!color01 -> Blue Whimsical Raccoon
+Racoon!Dreamlight!color02 -> Pink Whimsical Raccoon
+Racoon!Emotions!RacoonAnger01 -> Anger Raccoon
+Racoon!Emotions!RacoonDisgust01 -> Disgust Raccoon
+Racoon!Emotions!RacoonFear01 -> Fear Raccoon
+Racoon!Emotions!RacoonJoy01 -> Joy Raccoon
+Racoon!Emotions!RacoonSadness01 -> Sadness Raccoon
+Racoon!Racoon01 -> Classic Raccoon
+Racoon!Racoon02 -> Red Raccoon
+Racoon!Racoon03 -> Black Raccoon
+Racoon!Racoon04 -> White Raccoon
+Racoon!Racoon05 -> Blue Raccoon
+Racoon!RacoonDoll01 -> Wind-Up Raccoon
+Racoon!RacoonSnowman01 -> Snowy Raccoon
+Raven!ChineseRaven01 -> Mystical Phoenix
+Raven!DiabloRaven -> Maleficent's Raven
+Raven!Dreamlight!color01 -> Blue Whimsical Raven
+Raven!Dreamlight!color02 -> Pink Whimsical Raven
+Raven!EnnuiRaven -> Ennui Raven
+Raven!FieryRaven -> Purple Fiery Raven
+Raven!LumenRaven01 -> Fiery Raven
+Raven!PirateRaven01 -> Pirate Parrot
+Raven!Raven01 -> Classic Raven
+Raven!Raven02 -> Red Raven
+Raven!Raven03 -> White Raven
+Raven!Raven04 -> Blue Raven
+Raven!Raven05 -> Brown Raven
+Reindeer!BabyReindeer -> Mini Reindeer
+Savanna!CritterSavanna01 -> Red Sunbird
+Savanna!CritterSavanna02 -> Turquoise Sunbird
+Savanna!CritterSavanna03 -> Emerald Sunbird
+Savanna!CritterSavanna04 -> Golden Sunbird
+Savanna!CritterSavanna05 -> Orchid Sunbird
+SnowCliffs!CritterSnowCliffs01 -> White Fox
+SnowCliffs!CritterSnowCliffs02 -> Classic Fox
+SnowCliffs!CritterSnowCliffs03 -> Black Fox
+SnowCliffs!CritterSnowCliffs04 -> Blue Fox
+SnowCliffs!CritterSnowCliffs05 -> Red Fox
+Squirrel!AnxietySquirrel -> Anxiety Squirrel
+Squirrel!Dreamlight!color01 -> Blue Whimsical Squirrel
+Squirrel!Dreamlight!color02 -> Pink Whimsical Squirrel
+Squirrel!IncrediSquirrel01 -> IncrediSquirrel
+Squirrel!ParkSquirrel01 -> Magical Squirrel
+Squirrel!PopCornSquirrel01 -> Peppy Popcorn Squirrel
+Squirrel!ScarySquirrel01 -> Scary Squirrel
+Squirrel!Squirrel01 -> Classic Squirrel
+Squirrel!Squirrel02 -> Red Squirrel
+Squirrel!Squirrel03 -> Gray Squirrel
+Squirrel!Squirrel04 -> Black Squirrel
+Squirrel!Squirrel05 -> White Squirrel
+StarWars!BB-8 -> BB-8
+StarWars!R2D2 -> R2-D2
+Sunbird!AbsolemBird!AbsolemBird01 -> Butterfly Companion
+Sunbird!Dreamlight!color01 -> Blue Whimsical Sunbird
+Sunbird!Dreamlight!color02 -> Pink Whimsical Sunbird
+Sunbird!FlyingToastInspiredBird!color01 -> Bread and Butterfly
+Sunbird!Lovebird!Lovebird01 -> Pink Lovebird
+Sunbird!Lovebird!Lovebird02 -> Green Lovebird
+Sunbird!Sunbird01 -> Red Sunbird
+Sunbird!Sunbird02 -> Turquoise Sunbird
+Sunbird!Sunbird03 -> Emerald Sunbird
+Sunbird!Sunbird04 -> Golden Sunbird
+Sunbird!Sunbird05 -> Orchid Sunbird
+Tangled!Maximus -> Maximus
+Turtle!CelestialTurtle01 -> Celestial Sea Turtle
+Turtle!CitrusTurtle01 -> Tart Turtle
+Turtle!Dreamlight!color01 -> Blue Whimsical Turtle
+Turtle!Dreamlight!color02 -> Pink Whimsical Turtle
+Turtle!EmbarassmentTurtle -> Embarrassment Turtle
+Turtle!RockstarTurtle01 -> Rock Star Turtle
+Turtle!SeaTurtleMicrobiome -> Hermit Garden Turtle
+Turtle!Turtle01 -> Classic Sea Turtle
+Turtle!Turtle02 -> Brown Sea Turtle
+Turtle!Turtle03 -> White Sea Turtle
+Turtle!Turtle04 -> Purple Sea Turtle
+Turtle!Turtle05 -> Black Sea Turtle
+Turtle!ValentineTurtle01 -> Rosy Cloud Turtle
+Urban!CritterUrban01 -> Classic Squirrel
+Urban!CritterUrban02 -> Red Squirrel
+Urban!CritterUrban03 -> Gray Squirrel
+Urban!CritterUrban04 -> Black Squirrel
+Urban!CritterUrban05 -> White Squirrel
+Wetlands!CritterWetlands01 -> Classic Crocodile
+Wetlands!CritterWetlands02 -> Blue Crocodile
+Wetlands!CritterWetlands03 -> Red Crocodile
+Wetlands!CritterWetlands04 -> Golden Crocodile
+Wetlands!CritterWetlands05 -> White Crocodile
+Wetlands!CritterWetlands06 -> Pink Crocodile
+---missing---

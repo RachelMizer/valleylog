@@ -1,0 +1,698 @@
+[
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Banana",
+    "itemType": "Rotating Ingredient",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 58
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Corn",
+    "itemType": "Rotating Ingredient",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 24
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Sugarcane",
+    "itemType": "Rotating Ingredient",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 29
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Tomato",
+    "itemType": "Rotating Ingredient",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 33
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Corn Seed",
+    "itemType": "Seed",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 15
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Sugarcane Seed",
+    "itemType": "Seed",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 5
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Tomato Seed",
+    "itemType": "Seed",
+    "zone": "Dazzle Beach",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 8
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Bell Pepper",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 50
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Blueberry",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 58
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Canola",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 164
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Onion",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 255
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Bell Pepper Seed",
+    "itemType": "Seed",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 12
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Canola Seed",
+    "itemType": "Seed",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 25
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Onion Seed",
+    "itemType": "Seed",
+    "zone": "Forest of Valor",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 50
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Gooseberry",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 100
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Leek",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 464
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Potato",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 189
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Pumpkin",
+    "itemType": "Rotating Ingredient",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 996
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Leek Seed",
+    "itemType": "Seed",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 120
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Potato Seed",
+    "itemType": "Seed",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 55
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Pumpkin Seed",
+    "itemType": "Seed",
+    "zone": "Forgotten Lands",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 275
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Asparagus",
+    "itemType": "Rotating Ingredient",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 200
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cherry",
+    "itemType": "Rotating Ingredient",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 83
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cucumber",
+    "itemType": "Rotating Ingredient",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 239
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Eggplant",
+    "itemType": "Rotating Ingredient",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 462
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Asparagus Seed",
+    "itemType": "Seed",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 150
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cucumber Seed",
+    "itemType": "Seed",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 40
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Eggplant Seed",
+    "itemType": "Seed",
+    "zone": "Frosted Heights",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 95
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Lemon",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 67
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Okra",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 171
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Rice",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 92
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Spinach",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 62
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Okra Seed",
+    "itemType": "Seed",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 135
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Rice Seed",
+    "itemType": "Seed",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 35
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Spinach Seed",
+    "itemType": "Seed",
+    "zone": "Glade of Trust",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 45
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Apple",
+    "itemType": "Rotating Ingredient",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 50
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Carrot",
+    "itemType": "Rotating Ingredient",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 66
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Lettuce",
+    "itemType": "Rotating Ingredient",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 12
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Raspberry",
+    "itemType": "Rotating Ingredient",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 42
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Wheat",
+    "itemType": "Rotating Ingredient",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 3
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Carrot Seed",
+    "itemType": "Seed",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 10
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Lettuce Seed",
+    "itemType": "Seed",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 3
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Wheat Seed",
+    "itemType": "Seed",
+    "zone": "Peaceful Meadow",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 1
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Chili Pepper",
+    "itemType": "Rotating Ingredient",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 117
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cocoa Bean",
+    "itemType": "Rotating Ingredient",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 75
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Soya",
+    "itemType": "Rotating Ingredient",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 104
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Zucchini",
+    "itemType": "Rotating Ingredient",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 78
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Chili Pepper Seed",
+    "itemType": "Seed",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 20
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cotton Seed",
+    "itemType": "Seed",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 42
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Soya Seed",
+    "itemType": "Seed",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 60
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Zucchini Seed",
+    "itemType": "Seed",
+    "zone": "Sunlit Plateau",
+    "realm": "Dreamlight Valley (Base Game)",
+    "price": 30
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Canola Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 25
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Celery Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 20
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cosmic Fig Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 10
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Grape Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 5
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Wheat Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 1
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Yam Seed",
+    "itemType": "Seed",
+    "zone": "Ancient’s Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 15
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Bean Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 50
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Broccoli Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 60
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Chili Pepper Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 20
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Corn Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 15
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Flute Root Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 70
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Melon Seed",
+    "itemType": "Seed",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 40
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cabbage Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 150
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Pineapple Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 200
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Potato Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 55
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Ruby Lentil Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 250
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Tomato Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 8
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Turnip Seed",
+    "itemType": "Seed",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 100
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Faerie Rye Seed",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 60
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Green Bean Seed",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 250
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Oat Seed",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 150
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Plain Yogurt",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 240
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Radish Seed",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 100
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Rhubarb Seed",
+    "itemType": "Seed",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 200
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Ambrosia",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 140
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Black Pepper Seed",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 70
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Elysian Grain",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 260
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Golden Apple",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 220
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Honeydew Seed",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 40
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Radicchio Seed",
+    "itemType": "Seed",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 50
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Barley Seed",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 15
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cauliflower Seed",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 10
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Chia Seed",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 5
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Flyleaf Feta",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 150
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Ring Squash Seed",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 20
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Shovel Bird Eggs",
+    "itemType": "Seed",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 160
+  }
+]
