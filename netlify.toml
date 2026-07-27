@@ -1,0 +1,29 @@
+# Netlify build config.
+#
+# Without this file Netlify publishes the repository root, which still holds the
+# original standalone prototype (index.html / app.js / data.js). That is why new
+# work never appeared on the live site: the React app lives in frontend/ and has
+# a build step Netlify was never told about.
+
+[build]
+  # Paths below are relative to `base`, so publish = "dist" means frontend/dist.
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Vite 8 requires Node 20+; pinned to match the version used locally so a
+  # future change to Netlify's default image can't silently break the build.
+  NODE_VERSION = "22"
+
+# React Router serves every route from one HTML file. Netlify would otherwise
+# look for an actual /login file and return 404 on deep links and refreshes.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# NOTE: the app reads its API host from VITE_API_BASE_URL and falls back to
+# http://localhost:8000, which on a deployed site points at the visitor's own
+# machine. Set VITE_API_BASE_URL in Netlify's environment variables once the
+# backend is hosted, otherwise anything behind login cannot work.
