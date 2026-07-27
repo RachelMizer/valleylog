@@ -27,6 +27,19 @@ body {
   margin: 0;
 }
 
+/* Sticky footer: the app column fills at least the viewport and <main> absorbs
+   the slack, so the footer sits at the bottom on short pages instead of riding
+   up under the content. */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#root > main {
+  flex: 1 0 auto;
+}
+
 h1 {
   color: var(--text-h);
   font-size: 28px;
@@ -303,6 +316,80 @@ button.tab-btn:hover:not(:disabled) {
 button.tab-btn.active:hover:not(:disabled) {
   background: #3d4b83;
   color: #fff;
+}
+
+/* ---------- site footer ---------- */
+
+.site-footer {
+  margin-top: 2.5rem;
+  padding: 1.4rem 1.5rem 1.6rem;
+  background: linear-gradient(135deg, #485795, #2a344f);
+  color: #fff;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.7rem;
+  font-size: 0.92rem;
+}
+
+.footer-links a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-sep {
+  opacity: 0.55;
+}
+
+.footer-note {
+  margin: 0.6rem auto 0;
+  max-width: 62ch;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  opacity: 0.75;
+}
+
+/* ---------- Help / Legal ---------- */
+
+.info-page {
+  max-width: 70ch;
+  margin: 0 auto;
+}
+
+.info-section {
+  margin-bottom: 1.6rem;
+}
+
+.info-section h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-h);
+}
+
+.info-section p,
+.info-section li {
+  margin: 0 0 0.6rem;
+  line-height: 1.6;
+}
+
+.info-section ul {
+  margin: 0 0 0.6rem;
+  padding-left: 1.2rem;
+}
+
+.info-section a {
+  color: var(--accent);
+  font-weight: 600;
 }
 
 /* ---------- dashboard panels (villagers, tasks, etc.) ---------- */
