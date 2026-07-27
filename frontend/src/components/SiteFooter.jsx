@@ -8,10 +8,6 @@ export default function SiteFooter() {
         <span className="footer-sep" aria-hidden="true">•</span>
         <Link to="/legal">Legal</Link>
       </nav>
-      <p className="footer-note">
-        Valley Log — a fan-made companion for Disney Dreamlight Valley.
-        Not affiliated with or endorsed by Disney or Gameloft.
-      </p>
     </footer>
   );
 }
