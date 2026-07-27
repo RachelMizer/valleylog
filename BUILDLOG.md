@@ -4,6 +4,89 @@ Tracks what gets worked on each session. Newest entries at the top.
 
 ---
 
+## 2026-07-27 (3)
+
+**Published to GitHub, wired up Netlify, and made the backend Postgres-ready.**
+Full deployment write-up in `DEPLOYMENT.md`.
+
+### Version control
+
+Repo is `github.com/RachelMizer/valleylog`, **public**. Four commits pushed: app
+code + datasets, 643 images, `netlify.toml`, and the Postgres work.
+
+**`.gitignore` had a real leak.** It listed `*.db`, which does **not** match
+`valleylog.db.bak` — both DB backups were staged for a public repo, containing a
+real account's email and bcrypt hash. Added `*.db.*`, `*.sqlite*`, `*.log`, and
+`bridge/loc_extracted/` + `bridge/loc_dict.json` (15,640 dialogue files and a
+2.6MB string dump, recreatable from the game install, same category as `dev/`).
+**Check what a glob actually matches before trusting it.**
+
+Also caught before committing: `frontend/public/images/ingredients/` held 16
+files from the incomplete first extraction pass. Deleted rather than committed —
+the real 126 live in `dev/images/ingredients/`.
+
+### Why the live site showed nothing new
+
+Netlify had no build config, so it published the **repo root** — the original
+static prototype. The React app in `frontend/` was never being built. Added
+`netlify.toml` (base `frontend`, publish `dist`, Node 22, SPA rewrite).
+
+### Hosting: the constraint that decided the architecture
+
+**Netlify cannot host this backend, and Netlify DB cannot serve it.** Netlify's
+compute is JS/TS and Go functions — no Python ASGI runtime. And Netlify DB,
+despite being Postgres (Neon), documents its access surface as *Functions, Edge
+Functions, Builds, and Agent Runners*, with production deploys the only context
+permitted to reach the main database. An external service isn't a deploy
+context. Its client is npm-only and it applies migrations during the deploy
+lifecycle, which would collide with `run_migrations()`.
+
+Settled on: **Netlify** frontend, **Render** API, **Neon direct** (not via
+Netlify) for a plain `DATABASE_URL`.
+
+### Three Postgres landmines, all silent on SQLite
+
+- `run_migrations()` emitted `BOOLEAN DEFAULT 0` and `DATETIME` in hand-written
+  DDL. SQLite accepts both; **Postgres rejects `0` as a boolean and has no
+  `DATETIME` type.** Specs are now portable tokens resolved per dialect.
+- No Postgres driver — added `psycopg[binary]`.
+- Neon suspends when idle and drops pooled connections, which surfaces as
+  intermittent *"server closed the connection"*. Added `pool_pre_ping` and
+  `pool_recycle=300`.
+
+`scripts/migrate_sqlite_to_postgres.py` handles what a naive row copy gets
+wrong: SQLite's 0/1 booleans and text timestamps, `users.created_at` being NOT
+NULL with only a **Python-side** default (a raw-SQL insert fails outright — found
+by hitting it), and advancing identity sequences after inserting explicit ids,
+without which the next signup collides on the primary key. Dry-run by default;
+refuses a non-empty target.
+
+**Verified against real Postgres 16 in Docker**, not just compiled DDL: fresh
+boot, repeated migration runs, a simulated legacy upgrade (dropping columns and
+re-adding them), ORM read/write, and a full copy of the live database — 1 user,
+3 villagers, 478 recipe rows — with zero field-level differences and a working
+post-migration signup. SQLite retested separately and unaffected.
+
+*Testing note:* a first attempt used `sqlite:////tmp/…`, which on Windows
+resolves to the drive root and silently created an **empty** database, so the
+test passed against no data. Assert your fixture actually loaded before trusting
+a green result.
+
+### Also this session
+
+Sticky footer with public Help and Legal pages (contact
+`valleylog.app@gmail.com`; Disney disclaimer with takedown contact, remaining
+code and design copyright Iconic Arts). Favicon generated from
+`dev/images/profpic.png` at multiple resolutions. Pruned 43 dummy accounts from
+the local DB, keeping the real one — dependents deleted explicitly, since SQLite
+doesn't enforce foreign keys by default.
+
+**Still blocking a working public site:** the API isn't deployed yet, so
+`VITE_API_BASE_URL` still resolves to `localhost:8000` and anything behind login
+fails. `DEPLOYMENT.md` has the click-by-click.
+
+---
+
 ## 2026-07-27 (2)
 
 **Creatures tab rebuilt from `dev/creature_guide.pdf` (90 critters), villager cards gained
