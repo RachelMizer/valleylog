@@ -81,9 +81,62 @@ code and design copyright Iconic Arts). Favicon generated from
 the local DB, keeping the real one — dependents deleted explicitly, since SQLite
 doesn't enforce foreign keys by default.
 
-**Still blocking a working public site:** the API isn't deployed yet, so
-`VITE_API_BASE_URL` still resolves to `localhost:8000` and anything behind login
-fails. `DEPLOYMENT.md` has the click-by-click.
+### Pick up here next session
+
+**Critical path — nothing is live until this is done.** The API isn't deployed,
+so `VITE_API_BASE_URL` still resolves to `localhost:8000` and everything behind
+login fails on the public site. All code-side work is finished and verified;
+what remains is click-ops, walked through in `DEPLOYMENT.md`:
+
+1. Create the Neon database. **Rewrite the scheme to `postgresql+psycopg://`** —
+   Neon hands out `postgresql://`, which makes SQLAlchemy reach for `psycopg2`
+   (not installed) and fail at startup. Keep `?sslmode=require`.
+2. Create the Render service from `backend/render.yaml`; set `DATABASE_URL`,
+   `CORS_ORIGINS`, `FRONTEND_BASE_URL`, and the three `SMTP_*` values.
+3. Run `scripts/migrate_sqlite_to_postgres.py --write` to move the account,
+   3 villagers and 478 recipe rows across.
+4. Set `VITE_API_BASE_URL` in Netlify and **redeploy** — Vite inlines it at
+   build time, so saving the variable alone changes nothing.
+
+*Fallback if hosting the API stops being worth it:* drop `ProtectedRoute` from
+`Home` and the seven reference tabs work publicly with no server at all. Only
+Villagers and Tasks actually need the backend.
+
+**Data still owed by the user:**
+- Critter spawn times/days — `timesAvailable` is null on all 90 rows.
+- Creature images; no `images/creatures` folder exists yet. Once they land the
+  Creatures tab wants an image column like Cooking and Crafting.
+- Transparent-background replacements for 385 crafting icons. The originals are
+  parked in `dev/images/crafted_purple_removed/`, not deleted. ~5 of those were
+  legitimate texture tiles (e.g. `Gold_Bumblestone_Path`) caught as collateral
+  and can just be moved back.
+- A stall-wares source covering Wishblossom, Honeyglow Woods, Glamour Gulch and
+  Pixie Acres. `goofy_stall_items.txt` predates those realms — confirmed by grep,
+  nothing was lost in extraction. Check whether any new source lists base prices
+  or post-discount ones before merging with the existing 87.
+
+**Known gaps, deliberately left:**
+- 7 fish have no sell price (`Measuring-Tape Snail` plus the six Festive/event
+  catches). Real entries, not artifacts — the event sub-table they came from
+  likely never listed prices.
+- 126 ingredient images sit in `dev/images/ingredients/` with no Ingredients tab
+  and nothing referencing them. The tab data (zones, grow time, yield, price,
+  energy) is cleanly extractable from `dev/ingredients.pdf` whenever wanted.
+- `recipes.json` gave up three genuine extraction bugs from spot-checks alone; a
+  full re-verification of all 480 against `dev/cooking_recipes.pdf` was never
+  done and is probably overdue.
+- `images/villagers/Tramp.png` is unreferenced — the pre-existing "Lady Tramp"
+  single-roster-entry case, which uses `Lady.png`.
+- The root static app (`index.html` / `app.js` / `data.js`) is superseded and its
+  image paths point at a `dev/` location that no longer exists. Still committed;
+  worth deleting or repointing at some point.
+
+**Operational notes:**
+- Render's free tier sleeps after ~15 minutes idle; the first request then takes
+  30–60s. Data is unaffected since it lives in Neon.
+- Run the backend with `--reload` during dev. A stale process was the cause of
+  the "villager info isn't saving" report — it was serving day-old code that
+  silently ignored the new fields.
 
 ---
 
