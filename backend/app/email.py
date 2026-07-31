@@ -5,7 +5,7 @@ from pathlib import Path
 
 from app.config import settings
 
-LOGO_PATH = Path(__file__).resolve().parent.parent.parent / "frontend" / "public" / "valley_log_logo_lt.png"
+LOGO_PATH = Path(__file__).resolve().parent.parent.parent / "frontend" / "public" / "images" / "valley_log_logo_lt.png"
 
 
 class EmailNotConfigured(Exception):
