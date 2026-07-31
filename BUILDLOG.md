@@ -4,6 +4,66 @@ Tracks what gets worked on each session. Newest entries at the top.
 
 ---
 
+## 2026-07-31
+
+**Creature spawn times landed, and the Creatures tab learned about "today."**
+Committed and pushed as `3c3191d`.
+
+### Creature schedules
+
+`creatures.json` had `timesAvailable: null` on every row — the first item on last
+session's *data still owed* list. Each of the 91 creatures now carries a
+`schedule` object keyed `sun`–`sat` alongside the human-readable
+`timesAvailable` summary string, so the data is machine-readable per day instead
+of only displayable.
+
+- 76 rows have at least one window; 13 are out every day.
+- 15 remain all-null (the hedgehogs, Patterned Skunk, the Sweet Bees and
+  friends) — no times were listed for them, so they're not-yet-known rather
+  than confirmed-never.
+
+Keeping both shapes is deliberate: the summary is what reads well in a cell
+(`"Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day"`), the map is what the filter
+can actually query.
+
+### Creatures tab
+
+Added a **Today (<weekday>)** column and a "only show creatures out on
+<weekday>" checkbox. `new Date().getDay()` indexes the schedule keys, so the
+column header and the filter label both name the real weekday. The checkbox
+composes with the existing search rather than replacing it. Reused the
+`filter-row` / `filter-checkbox` / `filter-label` classes already in
+`index.css` and already used by the Vendor, Crops, Crafting and Recipes tabs —
+no new styling.
+
+### Deployment status: still nothing live
+
+Checked while looking into a login failure, and last session's critical path is
+untouched:
+
+- `https://valleylog-api.onrender.com/health` returns `x-render-routing:
+  no-server` — **no Render service exists**, so the API isn't deployed.
+- Neither local process was running either (ports 8000 and 8765 both refused).
+- The account is fine and was never the problem: `rmizer` /
+  `rei.mizer@gmail.com`, `is_verified=1`, `has_onboarded=1`, 3 tracked
+  villagers, intact bcrypt hash — in the **local SQLite** file. The 43 pruned
+  test accounts still live in `valleylog.db.bak`.
+
+So a login attempt currently fails at the network layer, before any password is
+ever checked, in both environments. Steps 1–4 in the previous entry (Neon →
+Render → migrate → `VITE_API_BASE_URL` + redeploy) are still the whole job, and
+step 3 matters here specifically: until the migration script runs, a deployed
+Postgres has **zero** users, so even a working API would reject the real
+credentials.
+
+### Pick up here next session
+
+- The deployment click-ops, unchanged from below.
+- Creature images (`images/creatures` still doesn't exist) and the image column
+  the Creatures tab wants, plus times for the 15 unknown creatures.
+
+---
+
 ## 2026-07-27 (3)
 
 **Published to GitHub, wired up Netlify, and made the backend Postgres-ready.**
