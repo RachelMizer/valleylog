@@ -3,540 +3,1365 @@
     "name": "Yellow Hedgehog",
     "locationOrigin": "Braveheart Grove",
     "favoriteFood": "Pufflebud Pods, Golden Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Black Sea Turtle",
     "locationOrigin": "Dazzle Beach",
     "favoriteFood": "Seaweed",
-    "timesAvailable": null
+    "timesAvailable": "Mon: All day",
+    "schedule": {
+      "sun": null,
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Brown Sea Turtle",
     "locationOrigin": "Dazzle Beach",
     "favoriteFood": "Seaweed",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Classic Sea Turtle",
     "locationOrigin": "Dazzle Beach",
     "favoriteFood": "Seaweed",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Purple Sea Turtle",
     "locationOrigin": "Dazzle Beach",
     "favoriteFood": "Seaweed",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "White Sea Turtle",
     "locationOrigin": "Dazzle Beach",
     "favoriteFood": "Seaweed",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Golden Goose",
     "locationOrigin": "Delver Dale - Wishing Alps",
     "favoriteFood": "Red Currants",
-    "timesAvailable": null
+    "timesAvailable": "7-8 AM and 7-8 PM, every day",
+    "schedule": {
+      "sun": "7-8 AM and 7-8 PM",
+      "mon": "7-8 AM and 7-8 PM",
+      "tue": "7-8 AM and 7-8 PM",
+      "wed": "7-8 AM and 7-8 PM",
+      "thu": "7-8 AM and 7-8 PM",
+      "fri": "7-8 AM and 7-8 PM",
+      "sat": "7-8 AM and 7-8 PM"
+    }
   },
   {
     "name": "Classic Hedgehog",
     "locationOrigin": "Drowsybloom Acre",
     "favoriteFood": "Pufflebud Pods, Golden Honey",
-    "timesAvailable": null
-  },
-  {
-    "name": "Blue Baby Dragon",
-    "locationOrigin": "Everafter",
-    "favoriteFood": "Magma and Pure Ice",
-    "timesAvailable": null
-  },
-  {
-    "name": "Green Baby Dragon",
-    "locationOrigin": "Everafter",
-    "favoriteFood": "Magma and Pure Ice",
-    "timesAvailable": null
-  },
-  {
-    "name": "Purple Baby Dragon",
-    "locationOrigin": "Everafter",
-    "favoriteFood": "Magma and Pure Ice",
-    "timesAvailable": null
-  },
-  {
-    "name": "Red Baby Dragon",
-    "locationOrigin": "Everafter",
-    "favoriteFood": "Magma and Pure Ice",
-    "timesAvailable": null
-  },
-  {
-    "name": "Teal Baby Dragon",
-    "locationOrigin": "Everafter",
-    "favoriteFood": "Magma and Pure Ice",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Black Raccoon",
     "locationOrigin": "Forest of Valor",
     "favoriteFood": "Blueberries",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Blue Raccoon",
     "locationOrigin": "Forest of Valor",
     "favoriteFood": "Blueberries",
-    "timesAvailable": null
+    "timesAvailable": "Wed: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Classic Raccoon",
     "locationOrigin": "Forest of Valor",
     "favoriteFood": "Blueberries",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Red Raccoon",
     "locationOrigin": "Forest of Valor",
     "favoriteFood": "Blueberries",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "White Raccoon",
     "locationOrigin": "Forest of Valor",
     "favoriteFood": "Blueberries",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Blue Raven",
     "locationOrigin": "Forgotten Lands",
     "favoriteFood": "Any 5-Star Meal",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Brown Raven",
     "locationOrigin": "Forgotten Lands",
     "favoriteFood": "Any 5-Star Meal",
-    "timesAvailable": null
+    "timesAvailable": "Tue: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Classic Raven",
     "locationOrigin": "Forgotten Lands",
     "favoriteFood": "Any 5-Star Meal",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Red Raven",
     "locationOrigin": "Forgotten Lands",
     "favoriteFood": "Any 5-Star Meal",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "White Raven",
     "locationOrigin": "Forgotten Lands",
     "favoriteFood": "Any 5-Star Meal",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Black Fox",
     "locationOrigin": "Frosted Heights",
     "favoriteFood": "White Sturgeon",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Blue Fox",
     "locationOrigin": "Frosted Heights",
     "favoriteFood": "White Sturgeon",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Classic Fox",
     "locationOrigin": "Frosted Heights",
     "favoriteFood": "White Sturgeon",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Red Fox",
     "locationOrigin": "Frosted Heights",
     "favoriteFood": "White Sturgeon",
-    "timesAvailable": null
+    "timesAvailable": "Sat: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "White Fox",
     "locationOrigin": "Frosted Heights",
     "favoriteFood": "White Sturgeon",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Blue Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Classic Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Golden Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Pink Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sat: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Red Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "White Crocodile",
     "locationOrigin": "Glade of Trust",
     "favoriteFood": "Lobster",
-    "timesAvailable": null
+    "timesAvailable": "Sun: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Green Hedgehog",
     "locationOrigin": "Gloommeadow",
     "favoriteFood": "Pufflebud Pods, Golden Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Patterned Skunk",
     "locationOrigin": "Haute Plateau - Glamour Gulch",
     "favoriteFood": "Pincushion Peach, Button Mushroom",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "White Sweet Bee",
     "locationOrigin": "Hundred-Acre Fields - Pixie Acres",
     "favoriteFood": "Coral Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Blue Sweet Bee",
     "locationOrigin": "Hunny Falls - Pixie Acres",
     "favoriteFood": "Coral Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "White Skunk",
     "locationOrigin": "Modish Marsh - Glamour Gulch",
     "favoriteFood": "Pincushion Peach, Button Mushroom",
-    "timesAvailable": null
-  },
-  {
-    "name": "Black Pegasus",
-    "locationOrigin": "Mythopia",
-    "favoriteFood": "4 Star+ Vegetable Meal",
-    "timesAvailable": null
-  },
-  {
-    "name": "Blue Pegasus",
-    "locationOrigin": "Mythopia",
-    "favoriteFood": "4 Star+ Vegetable Meal",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Peach Pegasus",
-    "locationOrigin": "Mythopia",
+    "locationOrigin": "Mount Olympus - Mythopia",
     "favoriteFood": "4 Star+ Vegetable Meal",
-    "timesAvailable": null
-  },
-  {
-    "name": "Pink Pegasus",
-    "locationOrigin": "Mythopia",
-    "favoriteFood": "4 Star+ Vegetable Meal",
-    "timesAvailable": null
-  },
-  {
-    "name": "Yellow Pegasus",
-    "locationOrigin": "Mythopia",
-    "favoriteFood": "4 Star+ Vegetable Meal",
-    "timesAvailable": null
+    "timesAvailable": "6 AM to 2 PM, every day",
+    "schedule": {
+      "sun": "6 AM to 2 PM",
+      "mon": "6 AM to 2 PM",
+      "tue": "6 AM to 2 PM",
+      "wed": "6 AM to 2 PM",
+      "thu": "6 AM to 2 PM",
+      "fri": "6 AM to 2 PM",
+      "sat": "6 AM to 2 PM"
+    }
   },
   {
     "name": "Orange Hedgehog",
     "locationOrigin": "Nectar Apiary",
     "favoriteFood": "Pufflebud Pods, Golden Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Brown Skunk",
     "locationOrigin": "Paisley Park - Glamour Gulch",
     "favoriteFood": "Pincushion Peach, Button Mushroom",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Black Rabbit",
     "locationOrigin": "Peaceful Meadow",
     "favoriteFood": "Carrot",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Brown Rabbit",
     "locationOrigin": "Peaceful Meadow",
     "favoriteFood": "Carrot",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Calico Rabbit",
     "locationOrigin": "Peaceful Meadow",
     "favoriteFood": "Carrot",
-    "timesAvailable": null
+    "timesAvailable": "Thu: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Classic Rabbit",
     "locationOrigin": "Peaceful Meadow",
     "favoriteFood": "Carrot",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "White Rabbit",
     "locationOrigin": "Peaceful Meadow",
     "favoriteFood": "Carrot",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Pink Sweet Bee",
     "locationOrigin": "Pixie Flats - Pixie Acres",
     "favoriteFood": "Coral Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Black Squirrel",
     "locationOrigin": "Plaza",
     "favoriteFood": "Peanuts",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Classic Squirrel",
     "locationOrigin": "Plaza",
     "favoriteFood": "Peanuts",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Gray Squirrel",
     "locationOrigin": "Plaza",
     "favoriteFood": "Peanuts",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Red Squirrel",
     "locationOrigin": "Plaza",
     "favoriteFood": "Peanuts",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "White Squirrel",
     "locationOrigin": "Plaza",
     "favoriteFood": "Peanuts",
-    "timesAvailable": null
+    "timesAvailable": "Sun: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "True North Goose",
     "locationOrigin": "Ranch Highlands - Wishing Alps",
     "favoriteFood": "Red Currants",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Skunk",
     "locationOrigin": "Runway River - Glamour Gulch",
     "favoriteFood": "Pincushion Peach, Button Mushroom",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Black Goose",
     "locationOrigin": "Silver Summit - Wishing Alps",
     "favoriteFood": "Red Currants",
-    "timesAvailable": null
+    "timesAvailable": "5 AM to 11 AM, every day",
+    "schedule": {
+      "sun": "5 AM to 11 AM",
+      "mon": "5 AM to 11 AM",
+      "tue": "5 AM to 11 AM",
+      "wed": "5 AM to 11 AM",
+      "thu": "5 AM to 11 AM",
+      "fri": "5 AM to 11 AM",
+      "sat": "5 AM to 11 AM"
+    }
   },
   {
     "name": "Sweet Bee",
     "locationOrigin": "Sundae Shores - Pixie Acres",
     "favoriteFood": "Coral Honey",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Emerald Sunbird",
     "locationOrigin": "Sunlit Plateau",
     "favoriteFood": "Any Green or Yellow Flowers",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Tue, Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Golden Sunbird",
     "locationOrigin": "Sunlit Plateau",
     "favoriteFood": "Any Orange and Yellow Flowers",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Tue, Thu, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Orchid Sunbird",
     "locationOrigin": "Sunlit Plateau",
     "favoriteFood": "Any Pink or Purple Flowers",
-    "timesAvailable": null
+    "timesAvailable": "Fri: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Red Sunbird",
     "locationOrigin": "Sunlit Plateau",
     "favoriteFood": "Any Red or Purple Flowers",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 PM to 12 AM · Mon, Thu, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Turquoise Sunbird",
     "locationOrigin": "Sunlit Plateau",
     "favoriteFood": "Any Pink and Green Flowers",
-    "timesAvailable": null
+    "timesAvailable": "Sun: 12 AM to 12 PM · Mon, Wed, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "All day",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
-    "name": "Brown Owl",
-    "locationOrigin": "The Bind",
-    "favoriteFood": "Barley",
-    "timesAvailable": null
+    "name": "Red Baby Dragon",
+    "locationOrigin": "Teapot Falls - Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": "Sun, Mon, Sat: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
-    "name": "Dark Owl",
-    "locationOrigin": "The Bind",
-    "favoriteFood": "Barley",
-    "timesAvailable": null
+    "name": "Purple Baby Dragon",
+    "locationOrigin": "The Beanstalk Marshes - Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": "12 AM to 12 PM, every day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "12 AM to 12 PM",
+      "tue": "12 AM to 12 PM",
+      "wed": "12 AM to 12 PM",
+      "thu": "12 AM to 12 PM",
+      "fri": "12 AM to 12 PM",
+      "sat": "12 AM to 12 PM"
+    }
   },
   {
     "name": "Light Owl",
     "locationOrigin": "The Bind",
     "favoriteFood": "Barley",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Purple Owl",
     "locationOrigin": "The Bind",
     "favoriteFood": "Barley",
-    "timesAvailable": null
+    "timesAvailable": "12 AM to 9 AM, every day",
+    "schedule": {
+      "sun": "12 AM to 9 AM",
+      "mon": "12 AM to 9 AM",
+      "tue": "12 AM to 9 AM",
+      "wed": "12 AM to 9 AM",
+      "thu": "12 AM to 9 AM",
+      "fri": "12 AM to 9 AM",
+      "sat": "12 AM to 9 AM"
+    }
+  },
+  {
+    "name": "White Owl",
+    "locationOrigin": "The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": "3 PM to 8 PM, every day",
+    "schedule": {
+      "sun": "3 PM to 8 PM",
+      "mon": "3 PM to 8 PM",
+      "tue": "3 PM to 8 PM",
+      "wed": "3 PM to 8 PM",
+      "thu": "3 PM to 8 PM",
+      "fri": "3 PM to 8 PM",
+      "sat": "3 PM to 8 PM"
+    }
   },
   {
     "name": "Green and White Striped Cobra",
     "locationOrigin": "The Borderlands",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "Thu: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Yellow and Purple Striped Cobra",
     "locationOrigin": "The Borderlands",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Wed, Thu: 12 PM to 12 AM · Tue, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": "12 PM to 12 AM",
+      "thu": "12 PM to 12 AM",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Black and Brown Monkey",
     "locationOrigin": "The Courtyard",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Tue, Thu: 12 PM to 12 AM · Wed, Sat: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "12 PM to 12 AM",
+      "wed": "All day",
+      "thu": "12 PM to 12 AM",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Classic Monkey",
     "locationOrigin": "The Docks",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
   },
   {
     "name": "Toon Monkey",
     "locationOrigin": "The Docks",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
+  },
+  {
+    "name": "Black Pegasus",
+    "locationOrigin": "The Elysian Fields - Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": "Sun, Wed–Sat: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
+  },
+  {
+    "name": "Pink Pegasus",
+    "locationOrigin": "The Elysian Fields - Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": "Sun, Thu–Sat: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
+  },
+  {
+    "name": "Green Baby Dragon",
+    "locationOrigin": "The Fallen Fortress - Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": "Sun–Thu: 10 AM to 6 PM",
+    "schedule": {
+      "sun": "10 AM to 6 PM",
+      "mon": "10 AM to 6 PM",
+      "tue": "10 AM to 6 PM",
+      "wed": "10 AM to 6 PM",
+      "thu": "10 AM to 6 PM",
+      "fri": null,
+      "sat": null
+    }
+  },
+  {
+    "name": "Blue Pegasus",
+    "locationOrigin": "The Fiery Plains - Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": "Mon–Wed: All day",
+    "schedule": {
+      "sun": null,
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Classic Capybara",
     "locationOrigin": "The Grasslands",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
   },
   {
     "name": "Blue Striped Capybara",
     "locationOrigin": "The Grove",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "Mon–Wed: 12 AM to 12 PM · Thu, Sat: All day",
+    "schedule": {
+      "sun": null,
+      "mon": "12 AM to 12 PM",
+      "tue": "12 AM to 12 PM",
+      "wed": "12 AM to 12 PM",
+      "thu": "All day",
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Toon Capybara",
     "locationOrigin": "The Grove",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
   },
   {
     "name": "Gray Spotted Capybara",
     "locationOrigin": "The Lagoon",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Fri: All day · Mon–Wed: 12 PM to 12 AM",
+    "schedule": {
+      "sun": "All day",
+      "mon": "12 PM to 12 AM",
+      "tue": "12 PM to 12 AM",
+      "wed": "12 PM to 12 AM",
+      "thu": null,
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Red and White Striped Capybara",
     "locationOrigin": "The Lagoon",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "Sat: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
+  },
+  {
+    "name": "Brown Owl",
+    "locationOrigin": "The Library of Lore - The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": "Mon–Fri: All day",
+    "schedule": {
+      "sun": null,
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
+  },
+  {
+    "name": "Dark Owl",
+    "locationOrigin": "The Library of Lore - The Bind",
+    "favoriteFood": "Barley",
+    "timesAvailable": "Sun, Sat: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": "All day"
+    }
   },
   {
     "name": "Pink Spotted Cobra",
     "locationOrigin": "The Oasis",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Wed, Thu: 12 AM to 12 PM · Mon, Fri: All day",
+    "schedule": {
+      "sun": "12 AM to 12 PM",
+      "mon": "All day",
+      "tue": null,
+      "wed": "12 AM to 12 PM",
+      "thu": "12 AM to 12 PM",
+      "fri": "All day",
+      "sat": null
+    }
   },
   {
     "name": "Red and Beige Monkey",
     "locationOrigin": "The Overlook",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "Mon, Wed, Fri: 12 AM to 12 PM · Tue, Sat: All day",
+    "schedule": {
+      "sun": null,
+      "mon": "12 AM to 12 PM",
+      "tue": "All day",
+      "wed": "12 AM to 12 PM",
+      "thu": null,
+      "fri": "12 AM to 12 PM",
+      "sat": "All day"
+    }
   },
   {
     "name": "Classic Cobra",
     "locationOrigin": "The Plains",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
   },
   {
     "name": "Black and White Capybara",
     "locationOrigin": "The Promenade",
     "favoriteFood": "Cabbage",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Fri, Sat: 12 PM to 12 AM · Tue, Thu: All day",
+    "schedule": {
+      "sun": "12 PM to 12 AM",
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": "All day",
+      "fri": "12 PM to 12 AM",
+      "sat": "12 PM to 12 AM"
+    }
   },
   {
     "name": "Beige Monkey",
     "locationOrigin": "The Ruins",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Thu: All day · Mon, Wed, Fri: 12 PM to 12 AM",
+    "schedule": {
+      "sun": "All day",
+      "mon": "12 PM to 12 AM",
+      "tue": null,
+      "wed": "12 PM to 12 AM",
+      "thu": "All day",
+      "fri": "12 PM to 12 AM",
+      "sat": null
+    }
   },
   {
     "name": "Black and Gray Monkey",
     "locationOrigin": "The Ruins",
     "favoriteFood": "Banana Split",
-    "timesAvailable": null
+    "timesAvailable": "Tue: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": "All day",
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
+  },
+  {
+    "name": "Yellow Pegasus",
+    "locationOrigin": "The Statue's Shadow - Mythopia",
+    "favoriteFood": "4 Star+ Vegetable Meal",
+    "timesAvailable": "Tue–Sat: 6 PM to 12 AM",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": "6 PM to 12 AM",
+      "wed": "6 PM to 12 AM",
+      "thu": "6 PM to 12 AM",
+      "fri": "6 PM to 12 AM",
+      "sat": "6 PM to 12 AM"
+    }
   },
   {
     "name": "Blue and Red Striped Cobra",
     "locationOrigin": "The Wastes",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "Sun, Thu: All day · Mon, Tue, Sat: 12 PM to 12 AM",
+    "schedule": {
+      "sun": "All day",
+      "mon": "12 PM to 12 AM",
+      "tue": "12 PM to 12 AM",
+      "wed": null,
+      "thu": "All day",
+      "fri": null,
+      "sat": "12 PM to 12 AM"
+    }
   },
   {
     "name": "Toon Cobra",
     "locationOrigin": "The Wastes",
     "favoriteFood": "Eggs",
-    "timesAvailable": null
+    "timesAvailable": "All day, every day",
+    "schedule": {
+      "sun": "All day",
+      "mon": "All day",
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
+  },
+  {
+    "name": "Blue Baby Dragon",
+    "locationOrigin": "The Wild Woods - Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": "Tue–Fri: All day",
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": "All day",
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": null
+    }
+  },
+  {
+    "name": "Teal Baby Dragon",
+    "locationOrigin": "The Wild Woods - Everafter",
+    "favoriteFood": "Magma and Pure Ice",
+    "timesAvailable": "Sun, Wed–Sat: All day",
+    "schedule": {
+      "sun": "All day",
+      "mon": null,
+      "tue": null,
+      "wed": "All day",
+      "thu": "All day",
+      "fri": "All day",
+      "sat": "All day"
+    }
   },
   {
     "name": "Goose",
     "locationOrigin": "Wishblossom Ranch - Wishing Alps",
     "favoriteFood": "Red Currants",
-    "timesAvailable": null
+    "timesAvailable": null,
+    "schedule": {
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null
+    }
   },
   {
     "name": "Blue Goose",
     "locationOrigin": "Wishing Way",
     "favoriteFood": "Red Currants",
-    "timesAvailable": null
+    "timesAvailable": "6 PM to 8 PM, every day",
+    "schedule": {
+      "sun": "6 PM to 8 PM",
+      "mon": "6 PM to 8 PM",
+      "tue": "6 PM to 8 PM",
+      "wed": "6 PM to 8 PM",
+      "thu": "6 PM to 8 PM",
+      "fri": "6 PM to 8 PM",
+      "sat": "6 PM to 8 PM"
+    }
   }
 ]
