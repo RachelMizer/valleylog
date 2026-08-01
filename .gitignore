@@ -26,3 +26,10 @@ bridge/loc_dict.json
 # Node / frontend
 node_modules/
 dist/
+
+# Archive of the retired Python/FastAPI backend, kept locally so the pieces git
+# never tracked survive the switch to Netlify Functions: backend/.env (real
+# SECRET_KEY and Gmail app password) and the SQLite files (a real account's
+# email, bcrypt hash, tracked villagers and recipe progress). NEVER commit this
+# to a public repo. The source itself is recoverable from git history.
+backend-python-archive-*.tar.gz

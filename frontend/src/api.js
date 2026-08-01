@@ -1,4 +1,9 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+// The API is a Netlify Function on this same site, mapped to /api by the
+// redirect in netlify.toml, so the default is relative: no host to configure,
+// no CORS, and nothing that can point at the visitor's own machine the way the
+// previous http://localhost:8000 fallback did. Override only to aim a local
+// dev server at a deployed API.
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "/api";
 const TOKEN_KEY = "vl_token";
 
 export function getToken() {

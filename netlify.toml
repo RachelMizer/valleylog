@@ -16,6 +16,25 @@
   # future change to Netlify's default image can't silently break the build.
   NODE_VERSION = "22"
 
+[functions]
+  # Relative to `base`, so this is frontend/netlify/functions.
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  # The verification email embeds the logo as an inline attachment. Bundling
+  # would otherwise leave the file out of the zip and the header image would
+  # silently vanish from every email.
+  included_files = ["public/images/valley_log_logo_lt.png"]
+
+# The API. This MUST come before the SPA catch-all below: Netlify applies
+# redirects in order and takes the first match, so a /* rule sitting above this
+# one would hand every API call back to index.html and the app would receive
+# HTML where it expected JSON.
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  force = true
+
 # React Router serves every route from one HTML file. Netlify would otherwise
 # look for an actual /login file and return 404 on deep links and refreshes.
 [[redirects]]
@@ -23,7 +42,6 @@
   to = "/index.html"
   status = 200
 
-# NOTE: the app reads its API host from VITE_API_BASE_URL and falls back to
-# http://localhost:8000, which on a deployed site points at the visitor's own
-# machine. Set VITE_API_BASE_URL in Netlify's environment variables once the
-# backend is hosted, otherwise anything behind login cannot work.
+# The API is served from this same site at /api, so the frontend uses a relative
+# base URL and there is no cross-origin request to configure. VITE_API_BASE_URL
+# still exists as an override for pointing a local dev server at a deployed API.
