@@ -840,11 +840,21 @@ select {
   background: #2a344f;
   color: #fff;
   border-radius: 999px;
-  padding: 0.1rem 0.55rem;
   font-size: 0.8rem;
   font-weight: 600;
-  min-width: 2.2em;
+  line-height: 1.25;
+  padding: 0.3rem 0.75rem;
   text-align: center;
+  white-space: nowrap;
+  /* .level-row is a flex container, so this badge is a flex item and shrinks
+     by default. The slider next to it holds its width, so the badge was being
+     squeezed down to its old 2.2em min-width — narrower than the "8/10" inside
+     it, which then spilled outside the pill. Hence a bubble that looked too
+     small for its own text. */
+  flex-shrink: 0;
+  /* Wide enough for the longest value ("10/10") so the pill keeps a constant
+     width as the slider moves instead of resizing under the cursor. */
+  min-width: 3.4rem;
 }
 
 .card-footer {
