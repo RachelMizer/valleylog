@@ -11,6 +11,14 @@ const INGREDIENT_TYPES = [...new Set(KNOWN_CROPS.map(r => r.ingredientType || "O
 
 const columns = [
   {
+    // Unsortable and self-explanatory, so no header text -- same treatment as
+    // the dish column on the Cooking tab.
+    key: "image", label: "",
+    render: r => (r.image
+      ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
+      : ""),
+  },
+  {
     key: "name", label: "Name",
     sortValue: r => r.name.toLowerCase(),
     render: r => r.name,
