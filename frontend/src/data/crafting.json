@@ -485,7 +485,7 @@
         "name": "Dream Shard"
       }
     ],
-    "image": null
+    "image": "images/crafted/Purified_Night_Shard.png"
   },
   {
     "name": "Dreamlight",
@@ -517,7 +517,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Miracle_Pickaxe_Polish.png"
   },
   {
     "name": "Even More Miraculous Pickaxe Polish",
@@ -557,7 +557,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Miracle_Shovel_Varnish.png"
   },
   {
     "name": "Even More Miraculous Shovel Varnish",
@@ -597,7 +597,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Miracle_Fishing_Bait.png"
   },
   {
     "name": "Even More Miraculous Fishing Bait",
@@ -637,7 +637,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Miracle_Growth_Elixir.png"
   },
   {
     "name": "Even More Miraculous Growth Elixir",
@@ -681,7 +681,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Digging_Training_Manual.png"
   },
   {
     "name": "Fishing Training Manual",
@@ -705,7 +705,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Fishing_Training_Manual.png"
   },
   {
     "name": "Foraging Training Manual",
@@ -729,7 +729,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Foraging_Training_Manual.png"
   },
   {
     "name": "Gardening Training Manual",
@@ -753,7 +753,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gardening_Training_Manual.png"
   },
   {
     "name": "Mining Training Manual",
@@ -777,7 +777,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mining_Training_Manual.png"
   },
   {
     "name": "Snippet Catching Training Manual",
@@ -845,7 +845,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Asphalt.png"
   },
   {
     "name": "Brick Road",
@@ -857,7 +857,7 @@
         "name": "Stones"
       }
     ],
-    "image": null
+    "image": "images/crafted/Brick_Road.png"
   },
   {
     "name": "Dark Wire Mesh Fence (Base)",
@@ -869,7 +869,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Dark_Wire_Mesh_Fence_Base.png"
   },
   {
     "name": "Dark Wood Fence (Base)",
@@ -881,7 +881,7 @@
         "name": "Dark Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Dark_Wood_Fence_Base.png"
   },
   {
     "name": "Gem and Opal Road",
@@ -929,7 +929,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Golden_Brick_Road.png"
   },
   {
     "name": "Green Bamboo Fence (Base)",
@@ -945,7 +945,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Bamboo_Fence_Base.png"
   },
   {
     "name": "Iron Spike and Brick Fence (Base)",
@@ -961,7 +961,7 @@
         "name": "Brick"
       }
     ],
-    "image": null
+    "image": "images/crafted/Iron_Spike_and_Brick_Fence_Base.png"
   },
   {
     "name": "Leaf-Strewn Path",
@@ -977,7 +977,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Leaf_Strewn_Path.png"
   },
   {
     "name": "Loose Gravel Path",
@@ -993,7 +993,7 @@
         "name": "Pebble"
       }
     ],
-    "image": null
+    "image": "images/crafted/Loose_Gravel_Path.png"
   },
   {
     "name": "Metal Spike Fence (Base)",
@@ -1009,7 +1009,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Metal_Spike_Fence_Base.png"
   },
   {
     "name": "Muddy Path",
@@ -1025,7 +1025,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Muddy_Path.png"
   },
   {
     "name": "Natural Rock Path",
@@ -1041,7 +1041,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Natural_Rock_Path.png"
   },
   {
     "name": "Sinister Brick Road",
@@ -1057,7 +1057,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sinister_Brick_Road.png"
   },
   {
     "name": "Snowy Brick Road",
@@ -1073,7 +1073,7 @@
         "name": "Snow"
       }
     ],
-    "image": null
+    "image": "images/crafted/Snowy_Brick_Road.png"
   },
   {
     "name": "Sun-Baked Earthen Road",
@@ -1089,7 +1089,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sun_Baked_Earthen_Road.png"
   },
   {
     "name": "White Bamboo Fence (Base)",
@@ -1101,7 +1101,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/White_Bamboo_Fence_Base.png"
   },
   {
     "name": "Wire Mesh Fence (Base)",
@@ -1113,7 +1113,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wire_Mesh_Fence_Base.png"
   },
   {
     "name": "Marble Fence",
@@ -1133,7 +1133,7 @@
         "name": "Fuchsia Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Marble_Fence.png"
   },
   {
     "name": "Asphalt with Border",
@@ -1153,7 +1153,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Asphalt_with_Border.png"
   },
   {
     "name": "Muddy Path with Border",
@@ -1169,7 +1169,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Muddy_Path_with_Border.png"
   },
   {
     "name": "Natural Rock Path with Border",
@@ -1197,7 +1197,7 @@
         "name": "Stone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Brick_Road_with_Border.png"
   },
   {
     "name": "Sinister Brick Road with Border",
@@ -1345,7 +1345,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_s_Path.png"
   },
   {
     "name": "Ancient's Road",
@@ -1365,7 +1365,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_s_Road.png"
   },
   {
     "name": "Ancient Tile Path",
@@ -1377,7 +1377,7 @@
         "name": "Ancient Radiator"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_Tile_Path.png"
   },
   {
     "name": "Ancient Tile Road",
@@ -1389,7 +1389,7 @@
         "name": "Ancient Radiator"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_Tile_Road.png"
   },
   {
     "name": "Ancient Gear Tile",
@@ -1401,7 +1401,7 @@
         "name": "Ancient Gear"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_Gear_Tile.png"
   },
   {
     "name": "Ancient Gear Corner Tile",
@@ -1413,7 +1413,7 @@
         "name": "Ancient Gear"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_Gear_Corner_Tile.png"
   },
   {
     "name": "Precious Pebble Path",
@@ -1433,7 +1433,7 @@
         "name": "Jade"
       }
     ],
-    "image": null
+    "image": "images/crafted/Precious_Pebble_Path.png"
   },
   {
     "name": "Precious Amber Pebble Path",
@@ -1453,7 +1453,7 @@
         "name": "Jade"
       }
     ],
-    "image": null
+    "image": "images/crafted/Precious_Amber_Pebble_Path.png"
   },
   {
     "name": "Green and Purple Speckled Path",
@@ -1469,7 +1469,7 @@
         "name": "Alexandrite"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_and_Purple_Speckled_Path.png"
   },
   {
     "name": "Yellow and Blue Speckled Path",
@@ -1485,7 +1485,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow_and_Blue_Speckled_Path.png"
   },
   {
     "name": "Main Street Path",
@@ -1505,7 +1505,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Main_Street_Path.png"
   },
   {
     "name": "Wrought Iron Fence",
@@ -1533,7 +1533,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pale_Wood_Fence.png"
   },
   {
     "name": "Savanna Wooden Fence",
@@ -1545,7 +1545,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Savanna_Wooden_Fence.png"
   },
   {
     "name": "Sugar Cookie Pavement",
@@ -1557,7 +1557,7 @@
         "name": "Candy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sugar_Cookie_Pavement.png"
   },
   {
     "name": "Deluxe Sugar Cookie Pavement",
@@ -1585,7 +1585,7 @@
         "name": "Bronze Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_Bronze_Pathway.png"
   },
   {
     "name": "Blue Bronze Pathway",
@@ -1605,7 +1605,7 @@
         "name": "Blue Zircon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_Bronze_Pathway.png"
   },
   {
     "name": "Ancient's Bamboo Fence",
@@ -1621,7 +1621,7 @@
         "name": "Rope"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ancient_s_Bamboo_Fence.png"
   },
   {
     "name": "Blend Left Curving Trolley Tracks",
@@ -1797,7 +1797,7 @@
         "name": "Scales"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gold_Bumblestone_Path.png"
   },
   {
     "name": "Green Bumblestone Path",
@@ -1817,7 +1817,7 @@
         "name": "Alexandrite"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Bumblestone_Path.png"
   },
   {
     "name": "Black Flat-Top Stove",
@@ -1837,7 +1837,7 @@
         "name": "Black Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Black_Flat_Top_Stove.png"
   },
   {
     "name": "Black Gas Stove",
@@ -1853,7 +1853,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Black_Gas_Stove.png"
   },
   {
     "name": "Black Retro Portable Radio",
@@ -1869,7 +1869,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Black_Retro_Portable_Radio.png"
   },
   {
     "name": "Blue Retro Portable Radio",
@@ -1889,7 +1889,7 @@
         "name": "Blue Star Lil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_Retro_Portable_Radio.png"
   },
   {
     "name": "Brown Retro Portable Radio",
@@ -1905,7 +1905,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Brown_Retro_Portable_Radio.png"
   },
   {
     "name": "Gray Flat-Top Stove",
@@ -1921,7 +1921,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gray_Flat_Top_Stove.png"
   },
   {
     "name": "Gray Gas Stove",
@@ -1937,7 +1937,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gray_Gas_Stove.png"
   },
   {
     "name": "Iron Crafting Station",
@@ -1977,7 +1977,7 @@
         "name": "White Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gray_Mailbox.png"
   },
   {
     "name": "Pale Gray Flat-Stop Stove",
@@ -2045,7 +2045,7 @@
         "name": "Glass Pink Houseleek"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink_Flat_Top_Stove.png"
   },
   {
     "name": "Pink Gas Stove",
@@ -2061,7 +2061,7 @@
         "name": "Glass Pink Houseleek"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink_Gas_Stove.png"
   },
   {
     "name": "Red Mailbox",
@@ -2081,7 +2081,7 @@
         "name": "Red Bromeliad"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_Mailbox.png"
   },
   {
     "name": "White Flat-Top Stove",
@@ -2097,7 +2097,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/White_Flat_Top_Stove.png"
   },
   {
     "name": "White Gas Stove",
@@ -2117,7 +2117,7 @@
         "name": "Black Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/White_Gas_Stove.png"
   },
   {
     "name": "Wooden Crafting Station",
@@ -2253,7 +2253,7 @@
         "name": "Pine Cone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Fall_Leaves_Slow_Trap.png"
   },
   {
     "name": "Basic Faerie Slow Trap",
@@ -2281,7 +2281,7 @@
         "name": "Petrified Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Faerie_Slow_Trap.png"
   },
   {
     "name": "Basic Olympic Slow Trap",
@@ -2309,7 +2309,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Olympic_Slow_Trap.png"
   },
   {
     "name": "Basic Fall Leaves Lure Trap",
@@ -2337,7 +2337,7 @@
         "name": "Pine Cone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Fall_Leaves_Lure_Trap.png"
   },
   {
     "name": "Basic Faerie Lure Trap",
@@ -2365,7 +2365,7 @@
         "name": "Petrified Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Faerie_Lure_Trap.png"
   },
   {
     "name": "Basic Olympic Lure Trap",
@@ -2393,7 +2393,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Olympic_Lure_Trap.png"
   },
   {
     "name": "Chariot Lift",
@@ -2421,7 +2421,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Chariot_Lift.png"
   },
   {
     "name": "Fairytale Armor",
@@ -2461,7 +2461,7 @@
         "name": "Stone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Chest.png"
   },
   {
     "name": "Small Blue Chest",
@@ -3145,7 +3145,7 @@
         "name": "Minnie's Gingerbread Cookies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Delicious_Gift.png"
   },
   {
     "name": "Handcrafted Gift",
@@ -3161,7 +3161,7 @@
         "name": "Holiday Feast Chair"
       }
     ],
-    "image": null
+    "image": "images/crafted/Handcrafted_Gift.png"
   },
   {
     "name": "Naughty Gift",
@@ -3177,7 +3177,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Naughty_Gift.png"
   },
   {
     "name": "Shiny Gift",
@@ -3197,7 +3197,7 @@
         "name": "Shiny Emerald"
       }
     ],
-    "image": null
+    "image": "images/crafted/Shiny_Gift.png"
   },
   {
     "name": "Purple Button",
@@ -3217,7 +3217,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Purple_Button.png"
   },
   {
     "name": "Slow Cooker",
@@ -3241,7 +3241,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Slow_Cooker.png"
   },
   {
     "name": "Timebending Table",
@@ -3317,7 +3317,7 @@
         "name": "Pink Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basket.png"
   },
   {
     "name": "Bench",
@@ -3333,7 +3333,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bench.png"
   },
   {
     "name": "Black and White Mickey Mouse Water Tower",
@@ -3373,7 +3373,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Black_Wrought_Iron_Streetlamp.png"
   },
   {
     "name": "Black, White, and Yellow Balloon Cluster",
@@ -3521,7 +3521,7 @@
         "name": "Aquamarine"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_Light_Low_Beach_Torch.png"
   },
   {
     "name": "Blue Wrought Iron Streetlamp",
@@ -3541,7 +3541,7 @@
         "name": "Aquamarine"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_Wrought_Iron_Streetlamp.png"
   },
   {
     "name": "Broken Carved Pillar Base",
@@ -3561,7 +3561,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Broken_Carved_Pillar_Base.png"
   },
   {
     "name": "Broken Pillar Base",
@@ -3581,7 +3581,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Broken_Pillar_Base.png"
   },
   {
     "name": "Bromeliad and Marsh Milkweed Pot",
@@ -3665,7 +3665,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Burlap_Bags.png"
   },
   {
     "name": "Cart",
@@ -3705,7 +3705,7 @@
         "name": "Pebbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Classic_Snowman.png"
   },
   {
     "name": "Compass Ottoman",
@@ -3733,7 +3733,7 @@
         "name": "Rope"
       }
     ],
-    "image": null
+    "image": "images/crafted/Compass_Ottoman.png"
   },
   {
     "name": "Crate",
@@ -3745,7 +3745,7 @@
         "name": "Hard Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Crate.png"
   },
   {
     "name": "Daisy and Marsh Milkweed Pot",
@@ -3809,7 +3809,7 @@
         "name": "Tourmaline"
       }
     ],
-    "image": null
+    "image": "images/crafted/DJ_Booth_Rig.png"
   },
   {
     "name": "Egg Banner",
@@ -3861,7 +3861,7 @@
         "name": "Crystal"
       }
     ],
-    "image": null
+    "image": "images/crafted/Elegant_Gazebo.png"
   },
   {
     "name": "Elegant Town Square Clock",
@@ -3885,7 +3885,7 @@
         "name": "Blue Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Elegant_Town_Square_Clock.png"
   },
   {
     "name": "Falling Penstemon and Bell Flower Pot",
@@ -3925,7 +3925,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Festive_Pennants.png"
   },
   {
     "name": "Flower Boxes",
@@ -3949,7 +3949,7 @@
         "name": "Blue Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Flower_Boxes.png"
   },
   {
     "name": "Flower Pots",
@@ -3965,7 +3965,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Flower_Pots.png"
   },
   {
     "name": "Fountain",
@@ -3985,7 +3985,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Fountain.png"
   },
   {
     "name": "Granite Fire Bowl",
@@ -4013,7 +4013,7 @@
         "name": "Red Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Granite_Fire_Bowl.png"
   },
   {
     "name": "Green Egg Lamppost",
@@ -4125,7 +4125,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Half_Barrel.png"
   },
   {
     "name": "Haughty Snowman",
@@ -4149,7 +4149,7 @@
         "name": "Garnet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Haughty_Snowman.png"
   },
   {
     "name": "Hay Bale",
@@ -4165,7 +4165,7 @@
         "name": "Wheat"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hay_Bale.png"
   },
   {
     "name": "Hay Bales",
@@ -4181,7 +4181,7 @@
         "name": "Wheat"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hay_Bales.png"
   },
   {
     "name": "Heavy Wooden Table",
@@ -4193,7 +4193,7 @@
         "name": "Soft Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Heavy_Wooden_Table.png"
   },
   {
     "name": "Helm Bookshelf",
@@ -4209,7 +4209,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Helm_Bookshelf.png"
   },
   {
     "name": "Hydrangea and Bell Flower Pot",
@@ -4269,7 +4269,7 @@
         "name": "Pink Houseleek"
       }
     ],
-    "image": null
+    "image": "images/crafted/Jubilant_Topiary.png"
   },
   {
     "name": "Lamppost with Blue Light",
@@ -4289,7 +4289,7 @@
         "name": "Amethyst"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lamppost_with_Blue_Light.png"
   },
   {
     "name": "Lamppost with Green Light",
@@ -4309,7 +4309,7 @@
         "name": "Emerald"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lamppost_with_Green_Light.png"
   },
   {
     "name": "Lamppost with Red Light",
@@ -4329,7 +4329,7 @@
         "name": "Garnet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lamppost_with_Red_Light.png"
   },
   {
     "name": "Lamppost with Yellow Light",
@@ -4349,7 +4349,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lamppost_with_Yellow_Light.png"
   },
   {
     "name": "Left Signpost",
@@ -4365,7 +4365,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Left_Signpost.png"
   },
   {
     "name": "Low Sculpted Pillar",
@@ -4385,7 +4385,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Low_Sculpted_Pillar.png"
   },
   {
     "name": "Mailbox",
@@ -4405,7 +4405,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mailbox.png"
   },
   {
     "name": "Map",
@@ -4445,7 +4445,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mossy_Circle_Carving_Stone.png"
   },
   {
     "name": "Mossy Eye-Carving Stone",
@@ -4465,7 +4465,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mossy_Eye_Carving_Stone.png"
   },
   {
     "name": "Mossy Fallen Pillar",
@@ -4533,7 +4533,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Nautical_Themed_Couch.png"
   },
   {
     "name": "Old Barrel",
@@ -4549,7 +4549,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Old_Barrel.png"
   },
   {
     "name": "Outhouse",
@@ -4573,7 +4573,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Outhouse.png"
   },
   {
     "name": "Painted Wood Table",
@@ -4589,7 +4589,7 @@
         "name": "Blue Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Painted_Wood_Table.png"
   },
   {
     "name": "Passion Lily and Houseleek Pot",
@@ -4633,7 +4633,7 @@
         "name": "Pink Bromelia"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink_and_Blue_Flower_Disk.png"
   },
   {
     "name": "Pink, Blue, and Purple Flower Rectangle",
@@ -4841,7 +4841,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Rectangular_Soil_Area.png"
   },
   {
     "name": "Red and Black Passion Lily Pot",
@@ -4913,7 +4913,7 @@
         "name": "Red Falling Panstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_and_Yellow_Flower_Disk.png"
   },
   {
     "name": "Red Light High Beach Torch",
@@ -4937,7 +4937,7 @@
         "name": "Garnet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_Light_High_Beach_Torch.png"
   },
   {
     "name": "Red, Blue, and Green Flower Rectangle",
@@ -5029,7 +5029,7 @@
         "name": "Gold Nuggets"
       }
     ],
-    "image": null
+    "image": "images/crafted/Refreshment_Chest.png"
   },
   {
     "name": "Right Signpost",
@@ -5045,7 +5045,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Right_Signpost.png"
   },
   {
     "name": "Round Blue Three-Pronged",
@@ -5065,7 +5065,7 @@
         "name": "Amethyst"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Blue_Three_Pronged.png"
   },
   {
     "name": "Round Lamppost with Blue Light",
@@ -5201,7 +5201,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Soil_Area.png"
   },
   {
     "name": "Round White Three-Pronged Lamppost",
@@ -5245,7 +5245,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Rustic_Clock_Tower.png"
   },
   {
     "name": "Rustic Wooden Case",
@@ -5257,7 +5257,7 @@
         "name": "Soft Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Rustic_Wooden_Case.png"
   },
   {
     "name": "Sack",
@@ -5273,7 +5273,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sack.png"
   },
   {
     "name": "Scrooge McDuck's Store Sign",
@@ -5305,7 +5305,7 @@
         "name": "Tinkering Parts"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ship_Coffee_Table.png"
   },
   {
     "name": "Short Birdhouse",
@@ -5321,7 +5321,7 @@
         "name": "Yellow Bromeliad Pink Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Short_Birdhouse.png"
   },
   {
     "name": "Snow Kid",
@@ -5345,7 +5345,7 @@
         "name": "Pebbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Snow_Kid.png"
   },
   {
     "name": "Snow Lady",
@@ -5369,7 +5369,7 @@
         "name": "Pebbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Snow_Lady.png"
   },
   {
     "name": "Stack of Firewood",
@@ -5381,7 +5381,7 @@
         "name": "Dry Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stack_of_Firewood.png"
   },
   {
     "name": "Stall",
@@ -5401,7 +5401,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stall.png"
   },
   {
     "name": "Star Lily and Falling Penstemon Pot",
@@ -5441,7 +5441,7 @@
         "name": "Blue Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stellar_Blue_DJ_Booth.png"
   },
   {
     "name": "Stellar Pink DJ Booth",
@@ -5461,7 +5461,7 @@
         "name": "Pink Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stellar_Pink_DJ_Booth.png"
   },
   {
     "name": "Stone Well",
@@ -5481,7 +5481,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stone_Well.png"
   },
   {
     "name": "Sturdy Chair",
@@ -5493,7 +5493,7 @@
         "name": "Soft Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sturdy_Chair.png"
   },
   {
     "name": "Sunflower and Daisy Pot",
@@ -5513,7 +5513,7 @@
         "name": "Sunflower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sunflower_and_Daisy_Pot.png"
   },
   {
     "name": "Swimming Pool",
@@ -5533,7 +5533,7 @@
         "name": "White Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Swimming_Pool.png"
   },
   {
     "name": "Tall Birdhouse",
@@ -5553,7 +5553,7 @@
         "name": "White Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Tall_Birdhouse.png"
   },
   {
     "name": "Tool Rack",
@@ -5573,7 +5573,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Tool_Rack.png"
   },
   {
     "name": "Training Mannequin",
@@ -5613,7 +5613,7 @@
         "name": "White and Pink Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Trellis.png"
   },
   {
     "name": "Trellis Arch",
@@ -5633,7 +5633,7 @@
         "name": "White and Pink Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Trellis_Arch.png"
   },
   {
     "name": "White, Red, and Purple Flower Disk",
@@ -5677,7 +5677,7 @@
         "name": "Gold Nugget"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wide_Arched_Window.png"
   },
   {
     "name": "Wooden Bucket",
@@ -5693,7 +5693,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wooden_Bucket.png"
   },
   {
     "name": "Wooden Lamppost with Yellow Light",
@@ -5733,7 +5733,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wooden_Table.png"
   },
   {
     "name": "Wrought Iron Arch",
@@ -5749,7 +5749,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wrought_Iron_Arch.png"
   },
   {
     "name": "Yellow and White Flower Rectangle",
@@ -5961,7 +5961,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Zen_Garden.png"
   },
   {
     "name": "White Rose Stone Fence",
@@ -6121,7 +6121,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lilo_s_Bunk_Bed.png"
   },
   {
     "name": "Dumptruck Armchair",
@@ -6177,7 +6177,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Fountain_of_Thebes.png"
   },
   {
     "name": "Madrigal Family Door",
@@ -6205,7 +6205,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Madrigal_Family_Door.png"
   },
   {
     "name": "Transportation Table",
@@ -6233,7 +6233,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Transportation_Table.png"
   },
   {
     "name": "Red Novel Tennis Table",
@@ -6261,7 +6261,7 @@
         "name": "Blue Bird Snippet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_Novel_Tennis_Table.png"
   },
   {
     "name": "Green Novel Tennis Table",
@@ -6289,7 +6289,7 @@
         "name": "Blue Bird Snippet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Novel_Tennis_Table.png"
   },
   {
     "name": "Green Bind L Couch",
@@ -6317,7 +6317,7 @@
         "name": "Teal Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Bind_L_Couch.png"
   },
   {
     "name": "Orange Bind L Couch",
@@ -6345,7 +6345,7 @@
         "name": "Goldenrod Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Orange_Bind_L_Couch.png"
   },
   {
     "name": "Green Bind Couch",
@@ -6369,7 +6369,7 @@
         "name": "Pink Rose"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Bind_Couch.png"
   },
   {
     "name": "Orange Bind Couch",
@@ -6397,7 +6397,7 @@
         "name": "Teal Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Orange_Bind_Couch.png"
   },
   {
     "name": "Potted Blooming Tree",
@@ -6425,7 +6425,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Potted_Blooming_Tree.png"
   },
   {
     "name": "Halloween Town Clock",
@@ -6453,7 +6453,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Halloween_Town_Clock.png"
   },
   {
     "name": "Brave Bear Tapestry",
@@ -6481,7 +6481,7 @@
         "name": "Yellow Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Brave_Bear_Tapestry.png"
   },
   {
     "name": "Great Tome Banner",
@@ -6509,7 +6509,7 @@
         "name": "Beige Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Great_Tome_Banner.png"
   },
   {
     "name": "Garden Temple",
@@ -6537,7 +6537,7 @@
         "name": "Petrified Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Garden_Temple.png"
   },
   {
     "name": "Sea Palace Window",
@@ -6561,7 +6561,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sea_Palace_Window.png"
   },
   {
     "name": "Royal Candy Doors",
@@ -6585,7 +6585,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Royal_Candy_Doors.png"
   },
   {
     "name": "Medieval Wooden Chair",
@@ -6609,7 +6609,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medieval_Wooden_Chair.png"
   },
   {
     "name": "Corporate Ceiling Lamp",
@@ -6633,7 +6633,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Corporate_Ceiling_Lamp.png"
   },
   {
     "name": "The Bind Fountain",
@@ -6657,7 +6657,7 @@
         "name": "Stone"
       }
     ],
-    "image": null
+    "image": "images/crafted/The_Bind_Fountain.png"
   },
   {
     "name": "Grecian Workout Bench",
@@ -6681,7 +6681,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Grecian_Workout_Bench.png"
   },
   {
     "name": "The Stained Glass Window to Imagination",
@@ -6729,7 +6729,7 @@
         "name": "Blue Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Greek_Mosaic_Rug.png"
   },
   {
     "name": "Orange Bind Armchair",
@@ -6753,7 +6753,7 @@
         "name": "Olive Green Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Orange_Bind_Armchair.png"
   },
   {
     "name": "Green Bind Armchair",
@@ -6777,7 +6777,7 @@
         "name": "Goldenrod Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Bind_Armchair.png"
   },
   {
     "name": "Classroom Blackboard",
@@ -6801,7 +6801,7 @@
         "name": "White Rose"
       }
     ],
-    "image": null
+    "image": "images/crafted/Classroom_Blackboard.png"
   },
   {
     "name": "Green Rustic Wooden Desk",
@@ -6825,7 +6825,7 @@
         "name": "Olive Green Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Rustic_Wooden_Desk.png"
   },
   {
     "name": "Rustic Wooden Desk",
@@ -6849,7 +6849,7 @@
         "name": "Yellow Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Rustic_Wooden_Desk.png"
   },
   {
     "name": "Giant Leaf Chair",
@@ -6869,7 +6869,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Giant_Leaf_Chair.png"
   },
   {
     "name": "\"La Ratatouille\" Sign",
@@ -6909,7 +6909,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Agrabah_Chair.png"
   },
   {
     "name": "Autumnal Volleyball Net",
@@ -6929,7 +6929,7 @@
         "name": "Common Club Rush"
       }
     ],
-    "image": null
+    "image": "images/crafted/Autumnal_Volleyball_Net.png"
   },
   {
     "name": "Swirly Striped Rug",
@@ -6949,7 +6949,7 @@
         "name": "Pink Rose"
       }
     ],
-    "image": null
+    "image": "images/crafted/Swirly_Striped_Rug.png"
   },
   {
     "name": "Wooden Storybook Frame",
@@ -6969,7 +6969,7 @@
         "name": "Blue Bird Snippet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wooden_Storybook_Frame.png"
   },
   {
     "name": "Gray Storybook Frame",
@@ -6989,7 +6989,7 @@
         "name": "Green Frog Snippet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gray_Storybook_Frame.png"
   },
   {
     "name": "Storybook Frame",
@@ -7009,7 +7009,7 @@
         "name": "Pink Demon Snippet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Storybook_Frame.png"
   },
   {
     "name": "Bridge Lamp Post",
@@ -7065,7 +7065,7 @@
         "name": "Opal"
       }
     ],
-    "image": null
+    "image": "images/crafted/Atrium_Candles.png"
   },
   {
     "name": "The Princess and the Frog Chest",
@@ -7121,7 +7121,7 @@
         "name": "Petrified Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Autumn_Mage_Scarecrow.png"
   },
   {
     "name": "Wonderland Candle",
@@ -7241,7 +7241,7 @@
         "name": "Spring V-EGG-etable"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hanging_Egg_Chair.png"
   },
   {
     "name": "Egg-cellent Balloons",
@@ -7269,7 +7269,7 @@
         "name": "Rope"
       }
     ],
-    "image": null
+    "image": "images/crafted/Egg_cellent_Balloons.png"
   },
   {
     "name": "Over Easy Chair",
@@ -7385,7 +7385,7 @@
         "name": "Rich Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Potted_Spring_Egg_Tree.png"
   },
   {
     "name": "End of the Rainbow Cauldron",
@@ -7633,7 +7633,7 @@
         "name": "Wrought Iron"
       }
     ],
-    "image": null
+    "image": "images/crafted/Ornate_Parisian_Statue.png"
   },
   {
     "name": "Bistro Table",
@@ -8305,7 +8305,7 @@
         "name": "Stone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wooden_Training_Dummy.png"
   },
   {
     "name": "Stack of Crates",
@@ -8317,7 +8317,7 @@
         "name": "Crate"
       }
     ],
-    "image": null
+    "image": "images/crafted/Stack_of_Crates.png"
   },
   {
     "name": "Pile of Crates",
@@ -8329,7 +8329,7 @@
         "name": "Crate"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pile_of_Crates.png"
   },
   {
     "name": "Small Heap of Riches",
@@ -8405,7 +8405,7 @@
         "name": "Volcanic Rock"
       }
     ],
-    "image": null
+    "image": "images/crafted/Broken_Teacup.png"
   },
   {
     "name": "Elevated / Low Display Bubble",
