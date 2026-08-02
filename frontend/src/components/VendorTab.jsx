@@ -10,6 +10,15 @@ const REALMS = [...new Set(KNOWN_VENDOR_ITEMS.map(r => r.realm))];
 const MULTI_VENDOR = new Set(KNOWN_VENDOR_ITEMS.map(r => r.vendor)).size > 1;
 
 const columns = [
+  {
+    // Unsortable and self-explanatory, so no header text -- same as the
+    // Cooking, Crops and Fish tabs. Foraged fruit and the handful of
+    // non-seed items have no artwork yet, so the cell can be empty.
+    key: "image", label: "",
+    render: r => (r.image
+      ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
+      : ""),
+  },
   ...(MULTI_VENDOR ? [{
     key: "vendor", label: "Vendor",
     sortValue: r => r.vendor.toLowerCase(),
