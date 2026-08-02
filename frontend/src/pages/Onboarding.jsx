@@ -6,7 +6,7 @@ import { useAuth } from "../context/AuthContext";
 const FEATURES = [
   ["Villagers", "Track friendship levels, daily gifts, and discussion status for every villager you're building a relationship with."],
   ["Tasks", "Keep a running list of daily and weekly to-dos, quests, and anything else you don't want to forget."],
-  ["Recipes", "Browse the full cooking recipe library and mark off what you've discovered."],
+  ["Recipes", "Browse the full cooking recipe library and mark off what you've cooked."],
   ["Crops, Creatures & Fish", "Reference tables for what to grow, catch, and where to find it."],
   ["Gems, Vendor Ware & Crafting", "Look up sell prices, materials, and vendor stock at a glance."],
 ];

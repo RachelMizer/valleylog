@@ -30,7 +30,7 @@ const TABS = [
   {
     id: "recipes", label: "Cooking", title: "Cooking Recipes",
     blurb: "Every dish in the game with its ingredients, star rating, energy restored, and " +
-      "sell price. Filter by meal type or star level, and mark recipes as discovered to " +
+      "sell price. Filter by meal type or star level, and mark recipes as cooked to " +
       "see what you still have left to unlock.",
   },
   {

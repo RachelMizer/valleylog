@@ -99,7 +99,9 @@ export default function RecipesTab() {
       render: r => r.sellPrice || "—",
     },
     {
-      key: "discovered", label: "Discovered",
+      // The key stays "discovered" to match the API field; only the label the
+      // user reads changes.
+      key: "discovered", label: "Cooked",
       sortValue: r => (progressByName[r.name] ? 1 : 0),
       render: r => (
         <button
@@ -107,7 +109,7 @@ export default function RecipesTab() {
           className={`toggle-btn ${progressByName[r.name] ? "on" : ""}`}
           onClick={() => handleToggleDiscovered(r.name, !progressByName[r.name])}
         >
-          {progressByName[r.name] ? "🔓 Discovered" : "🔒 Not Made Yet"}
+          {progressByName[r.name] ? "🔓 Cooked" : "🔒 Not Made Yet"}
         </button>
       ),
     },
