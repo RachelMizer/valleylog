@@ -8,6 +8,7 @@ import Help from "./pages/Help";
 import Home from "./pages/Home";
 import Legal from "./pages/Legal";
 import Login from "./pages/Login";
+import NotFound from "./pages/NotFound";
 import Onboarding from "./pages/Onboarding";
 import Signup from "./pages/Signup";
 import VerifyEmail from "./pages/VerifyEmail";
@@ -71,6 +72,12 @@ export default function App() {
               </RedirectIfAuthed>
             }
           />
+          {/* Catch-all. netlify.toml rewrites every unknown path to index.html
+              so React Router can handle deep links, which means an address like
+              /cooking arrives here rather than 404ing at the CDN. Without this
+              route nothing matches and <main> renders empty — a blank page
+              rather than an explanation. Public, so it works signed out too. */}
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
       <SiteFooter />

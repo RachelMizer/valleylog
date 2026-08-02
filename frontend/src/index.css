@@ -384,6 +384,14 @@ button.tab-btn.active:hover:not(:disabled) {
   font-weight: 600;
 }
 
+.info-section code {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.05rem 0.3rem;
+  font-size: 0.9em;
+}
+
 /* ---------- dashboard panels (villagers, tasks, etc.) ---------- */
 
 /* One shared treatment for every tab's heading + purpose line, rendered from
