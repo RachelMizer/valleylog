@@ -33,3 +33,6 @@ dist/
 # email, bcrypt hash, tracked villagers and recipe progress). NEVER commit this
 # to a public repo. The source itself is recoverable from git history.
 backend-python-archive-*.tar.gz
+
+# Local Netlify folder
+.netlify
