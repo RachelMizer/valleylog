@@ -4,6 +4,148 @@ Tracks what gets worked on each session. Newest entries at the top.
 
 ---
 
+## 2026-08-02
+
+**Artwork and data pulled out of six wiki PDFs.** Every reference tab that
+should have pictures now has them, and several long-standing data gaps closed.
+Most of the session was spent learning — repeatedly, the hard way — how these
+wiki-print PDFs actually lay out, so that section is first.
+
+### How to parse these PDFs (read this before writing another extractor)
+
+Every one of these is a printed wiki table, and they share the same traps. Each
+lesson below cost a wrong result first.
+
+- **Anchor rows on the Name column, not on the images.** The wiki lazy-loads
+  sprites, and a row whose picture hadn't loaded (Coffee Beans, first on its
+  page) has no image at all. An image-anchored pass drops that row silently and
+  merges its data into a neighbour.
+- **Assign a word to the last row that started at or before it**, rather than
+  splitting on the midpoint between row starts. A narrow cell wraps onto more
+  lines than the name does, so its final line ("Way" of "Wishing Way") sits past
+  the midpoint and defects to the following row.
+- **Stitch cells that run over a page break.** "Dark Chocolate Coffee Beans" is
+  *one* crop whose name spans pages 1–2 — the original data was right and the
+  "fix" was the bug. Pearly Barley's second biome sits alone atop page 3 with no
+  name to anchor it. A continuation row has a name but no numeric columns.
+- **Apply the soft mask.** `fitz.Pixmap(doc, xref)` alone drops the alpha and
+  every sprite lands on a solid black square. `fitz.Pixmap(pix, fitz.Pixmap(doc,
+  smask))` is what you want.
+- **Text is drawn twice** in some captures (a shadow layer at ~0.5pt offset), so
+  de-duplicate, and group words into visual lines *before* joining — sorting by
+  y alone turned "None or White" into "White None or".
+- **Exclude headers by position, not by matching header words**, wherever a data
+  value could contain one. "Seed" and "Price" are column headers that also occur
+  inside real seed names.
+- **Line breaks do not delimit list items.** The crops biome column is narrow
+  enough that every *word* wraps onto its own line, so "Wishblossom Ranch" +
+  "Wishing Way" arrives as four lines. Split against a known vocabulary instead.
+- **Some columns can't be parsed positionally at all.** A fish found in many
+  places wraps into a list that overflows past the start of the next row —
+  Anglerfish's "Sunlit Plateau" renders at y=191–203 while the Bass row *begins*
+  at 191. Left those alone rather than guessing.
+
+### Snippets
+
+All 16 from `snippets.pdf` — name, family (Birds/Demons/Frogs), sell price,
+catch locations, artwork. The 13 craftable ones now have images on the Crafting
+tab, and `Red Brd Snippet` is corrected to `Red Bird Snippet`, both as a row and
+where it appeared as a material. Creatures went 91 → 107 rows and gained Type
+and Sell Price columns; snippets keep null favourite-food and schedule, because
+they're caught rather than befriended.
+
+*Note:* the PDF is page 2 of 3 of the source article, so other snippet families
+may exist.
+
+### Crops — 53 → 57, all with artwork
+
+Five names were corrupted by the **earlier** extraction, which pulled the "Oil"
+of a wrapped "Dairy and Oil" ingredient type into the name column: `Beans Oil`,
+`Canola Oil`, `Chia Seeds Oil`, `Ruby Lentils Oil`, `Soya Oil`. Four crops were
+missing outright (Cotton, Golden Pattypan, Parsnip, Pufflebud Pods) and 25 blank
+cells filled — mostly waterings, plus the negative profits the old pass lost to
+a Unicode minus. **No existing correct value changed.**
+
+### Fish — 63 sprites
+
+`Measuring-Tape Snail` is no longer unpriced: this newer capture has 100 / +400
+/ White / Fish, confirmed against the raw page. That retires part of the "known
+gap" recorded on 2026-07-27. Locations and the six Festive/event rows were
+deliberately not rewritten (see the overflow trap above).
+
+### Crafting — 52 → 244 of 425
+
+From the rebuilt `crafting_recipes.pdf` (55 pages, 780 items indexed). Names
+matched progressively — exact, then ignoring a `(Base)` suffix, then a trailing
+Path/Road — with ambiguous keys dropped rather than guessed. The remaining 181
+are genuinely absent from the PDF: 114 Furniture, 41 Functional Items, 20 paving
+(mostly "… with Border" variants), and 6 Enchantments — the Snippet Catching and
+Timebending manuals and the four "Even More Miraculous" tools all return zero
+hits.
+
+### Stall Wares — 87 → 111 rows, 97 with artwork
+
+Images from `crop_seeds.pdf` for 52 seed rows, plus 21 rotating ingredients
+reusing the crop artwork rather than shipping a second copy. All 52 stall prices
+cross-checked against the PDF's buy price: **zero mismatches.**
+
+Then the real gap: the **six DLC zones sold seeds but listed no rotating
+ingredients at all**, because `dev/goofy_stall_items.txt` predates those realms.
+24 rows added across Ancient's Landing, Glittering Dunes, Wild Tangle,
+Everafter, Mythopia and The Bind.
+
+**Those 24 are derived, not sourced.** Two rules were validated against all 21
+existing rotating rows before generating anything:
+
+```
+price = ceil(crop sell price * 1.5)     21/21 exact
+zone  = one of the crop's native biomes 21/21
+```
+
+Worth spot-checking against a real listing if one ever turns up — Pineapple at
+798 is the largest extrapolation.
+
+**Also a genuine cross-file bug:** `vendor.json` was the only data file writing
+"Ancient's Landing" with a curly apostrophe. It silently failed to match the
+same zone in `crops.json` and `gems.json`, which is why that zone appeared to
+have no native crops. Normalised to the straight form.
+
+### Smaller fixes
+
+- **A 404 page.** `netlify.toml` rewrites every unknown path to `index.html`, so
+  a wrong address reached React Router, matched no route, and rendered an empty
+  `<main>` — a blank page. Added a public catch-all explaining that the tabs
+  live on the main page rather than at their own addresses.
+- **Cooking tab:** the "Dish" header is gone (unsortable and self-explanatory)
+  and dish thumbnails went 44 → 52px via a `.table-thumb-lg` modifier, so the
+  Crafting and Gems tabs that share `.table-thumb` are unaffected.
+- **Pure Ice's gem image** was a screenshot that captured IGN's site chrome —
+  "Guide Checklists" and the logo were visible in the table. Replaced from
+  `gems.pdf`. The other 50 gem images are screenshots too, but correctly
+  cropped, so they were left alone.
+
+### Pick up here next session
+
+- **181 crafting rows still have no image**, and this PDF doesn't contain them.
+- **Six stall items are filed as `itemType: "Seed"` but aren't seeds** — Plain
+  Yogurt, Ambrosia, Elysian Grain, Golden Apple, Flyleaf Feta, Shovel Bird Eggs.
+  Looks like a mislabel.
+- **Six seeds are sold at Goofy's *Caravan***, a vendor `vendor.json` doesn't
+  have at all (Beetroot, Dark Chocolate Coffee Bean, Fairy Kamut, Lollipop
+  Fruit, Pearly Barley, Scarlet Kale). Blocked on a zone/realm decision, and
+  `VendorTab.jsx` calls `r.zone.toLowerCase()` with no null guard, so a row
+  without a zone would crash the tab. Dill and Fairy Sprinkle seeds are foraged
+  rather than sold.
+- 14 stall rows have no artwork: 8 foraged fruits (not crops, so absent from the
+  seed PDF) and the 6 non-seed items above.
+- The tabs still aren't URL-addressable — `Home.jsx` keeps the selection in
+  `useState`, so nothing is linkable, refresh always lands on Villagers, and
+  back leaves the app. Roughly 20 lines to fix, and the 404 copy would need
+  updating alongside it.
+- Verification email has still never been confirmed to actually arrive.
+
+---
+
 ## 2026-08-01
 
 **The backend was rewritten as a Netlify Function and the site is finally
