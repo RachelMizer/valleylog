@@ -38,8 +38,29 @@ function routePath(url) {
   return pathname || "/";
 }
 
+// A health check that needs the database can't distinguish "the function is
+// down" from "the database is down", which is most of what a health check is
+// for. The `true` flag marks routes that skip ensureSchema() and so answer even
+// when nothing is configured.
+function health() {
+  return json({
+    status: "ok",
+    database_configured: Boolean(
+      process.env.NETLIFY_DATABASE_URL ||
+        process.env.DATABASE_URL ||
+        process.env.NETLIFY_DATABASE_URL_UNPOOLED
+    ),
+    secret_key_configured: Boolean(process.env.SECRET_KEY),
+    // TEMPORARY diagnostic: names only, never values. Being removed once we
+    // know what Netlify DB actually injects into the function runtime.
+    env_names: Object.keys(process.env)
+      .filter((k) => /NETLIFY|DATABASE|NEON|POSTGRES|^PG/.test(k))
+      .sort(),
+  });
+}
+
 const ROUTES = [
-  ["GET", /^\/health$/, () => json({ status: "ok" })],
+  ["GET", /^\/health$/, health, true],
 
   ["POST", /^\/auth\/register$/, auth.register],
   ["POST", /^\/auth\/login$/, auth.login],
@@ -106,7 +127,7 @@ export default async function handler(req) {
   const path = routePath(req.url);
 
   let pathMatched = false;
-  for (const [method, pattern, handle] of ROUTES) {
+  for (const [method, pattern, handle, skipSchema] of ROUTES) {
     const match = pattern.exec(path);
     if (!match) continue;
     pathMatched = true;
@@ -116,7 +137,7 @@ export default async function handler(req) {
       // Cheap after the first call — the promise is memoised — but it means a
       // brand-new database builds its own schema on the first request rather
       // than needing a migration step.
-      await ensureSchema();
+      if (!skipSchema) await ensureSchema();
       const id = match[1] ? Number(match[1]) : undefined;
       return withHeaders(await handle(req, id), cors);
     } catch (err) {
