@@ -103,6 +103,10 @@ live data.
 - **All 480 recipes marked discovered** for `rmizer` via the live API, driven
   from inside the logged-in browser so no token was handled outside it. 480/480,
   zero failures, verified by reading progress back.
+- **Recipe progress is now labelled "Cooked"** rather than "Discovered" — column
+  header, toggle button, and the home/onboarding copy. The API field and
+  database column stay `discovered`; renaming those would need a migration to
+  change a word nobody sees.
 - Removed the `planets`/drizzle scaffolding `netlify db init` dumped into the
   project; the API manages its own schema.
 
