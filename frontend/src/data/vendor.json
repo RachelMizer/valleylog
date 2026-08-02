@@ -460,9 +460,45 @@
   },
   {
     "vendor": "Goofy's Stall",
+    "name": "Celery",
+    "itemType": "Rotating Ingredient",
+    "zone": "Ancient's Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 98,
+    "image": "images/crops/Celery.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cosmic Figs",
+    "itemType": "Rotating Ingredient",
+    "zone": "Ancient's Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 33,
+    "image": "images/crops/Cosmic_Figs.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Grapes",
+    "itemType": "Rotating Ingredient",
+    "zone": "Ancient's Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 14,
+    "image": "images/crops/Grapes.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Yam",
+    "itemType": "Rotating Ingredient",
+    "zone": "Ancient's Landing",
+    "realm": "Eternity Isle (DLC)",
+    "price": 54,
+    "image": "images/crops/Yam.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
     "name": "Canola Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 25,
     "image": "images/seeds/Canola_Seed.png"
@@ -471,7 +507,7 @@
     "vendor": "Goofy's Stall",
     "name": "Celery Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 20,
     "image": "images/seeds/Celery_Seed.png"
@@ -480,7 +516,7 @@
     "vendor": "Goofy's Stall",
     "name": "Cosmic Fig Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 10,
     "image": "images/seeds/Cosmic_Fig_Seed.png"
@@ -489,7 +525,7 @@
     "vendor": "Goofy's Stall",
     "name": "Grape Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 5,
     "image": "images/seeds/Grape_Seed.png"
@@ -498,7 +534,7 @@
     "vendor": "Goofy's Stall",
     "name": "Wheat Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 1,
     "image": "images/seeds/Wheat_Seed.png"
@@ -507,10 +543,46 @@
     "vendor": "Goofy's Stall",
     "name": "Yam Seed",
     "itemType": "Seed",
-    "zone": "Ancient’s Landing",
+    "zone": "Ancient's Landing",
     "realm": "Eternity Isle (DLC)",
     "price": 15,
     "image": "images/seeds/Yam_Seed.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Beans",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 74,
+    "image": "images/crops/Beans.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Broccoli",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 228,
+    "image": "images/crops/Broccoli.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Flute Root",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 168,
+    "image": "images/crops/Flute_Root.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Melon",
+    "itemType": "Rotating Ingredient",
+    "zone": "Glittering Dunes",
+    "realm": "Eternity Isle (DLC)",
+    "price": 140,
+    "image": "images/crops/Melon.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -568,6 +640,42 @@
   },
   {
     "vendor": "Goofy's Stall",
+    "name": "Cabbage",
+    "itemType": "Rotating Ingredient",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 384,
+    "image": "images/crops/Cabbage.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Pineapple",
+    "itemType": "Rotating Ingredient",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 798,
+    "image": "images/crops/Pineapple.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Ruby Lentils",
+    "itemType": "Rotating Ingredient",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 234,
+    "image": "images/crops/Ruby_Lentils.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Turnip",
+    "itemType": "Rotating Ingredient",
+    "zone": "Wild Tangle",
+    "realm": "Eternity Isle (DLC)",
+    "price": 281,
+    "image": "images/crops/Turnip.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
     "name": "Cabbage Seed",
     "itemType": "Seed",
     "zone": "Wild Tangle",
@@ -619,6 +727,51 @@
     "realm": "Eternity Isle (DLC)",
     "price": 100,
     "image": "images/seeds/Turnip_Seed.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Faerie Rye",
+    "itemType": "Rotating Ingredient",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 93,
+    "image": "images/crops/Faerie_Rye.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Green Beans",
+    "itemType": "Rotating Ingredient",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 314,
+    "image": "images/crops/Green_Beans.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Oats",
+    "itemType": "Rotating Ingredient",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 149,
+    "image": "images/crops/Oats.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Radish",
+    "itemType": "Rotating Ingredient",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 200,
+    "image": "images/crops/Radish.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Rhubarb",
+    "itemType": "Rotating Ingredient",
+    "zone": "Everafter",
+    "realm": "Storybook Vale (DLC)",
+    "price": 344,
+    "image": "images/crops/Rhubarb.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -676,6 +829,33 @@
   },
   {
     "vendor": "Goofy's Stall",
+    "name": "Black Pepper",
+    "itemType": "Rotating Ingredient",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 125,
+    "image": "images/crops/Black_Pepper.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Honeydew Melon",
+    "itemType": "Rotating Ingredient",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 188,
+    "image": "images/crops/Honeydew_Melon.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Radicchio",
+    "itemType": "Rotating Ingredient",
+    "zone": "Mythopia",
+    "realm": "Storybook Vale (DLC)",
+    "price": 191,
+    "image": "images/crops/Radicchio.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
     "name": "Ambrosia",
     "itemType": "Seed",
     "zone": "Mythopia",
@@ -727,6 +907,42 @@
     "realm": "Storybook Vale (DLC)",
     "price": 50,
     "image": "images/seeds/Radicchio_Seed.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Barley",
+    "itemType": "Rotating Ingredient",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 23,
+    "image": "images/crops/Barley.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Cauliflower",
+    "itemType": "Rotating Ingredient",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 38,
+    "image": "images/crops/Cauliflower.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Chia Seeds",
+    "itemType": "Rotating Ingredient",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 9,
+    "image": "images/crops/Chia_Seeds.png"
+  },
+  {
+    "vendor": "Goofy's Stall",
+    "name": "Ring Squash",
+    "itemType": "Rotating Ingredient",
+    "zone": "The Bind",
+    "realm": "Storybook Vale (DLC)",
+    "price": 62,
+    "image": "images/crops/Ring_Squash.png"
   },
   {
     "vendor": "Goofy's Stall",
