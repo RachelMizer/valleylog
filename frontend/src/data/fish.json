@@ -8,7 +8,8 @@
       "Honeyglow Woods"
     ],
     "ingredientCategory": "Dairy and Oil",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Acorn_Snail.png"
   },
   {
     "name": "Anglerfish",
@@ -20,7 +21,8 @@
       "Peaceful Meadow"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Anglerfish.png"
   },
   {
     "name": "Bass",
@@ -34,7 +36,8 @@
       "Oasis"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Bass.png"
   },
   {
     "name": "Bream",
@@ -46,7 +49,8 @@
       "Peaceful Meadow"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Bream.png"
   },
   {
     "name": "Brilliant Blue Starfish",
@@ -57,7 +61,8 @@
       "The Oasis"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Brilliant_Blue_Starfish.png"
   },
   {
     "name": "Carp",
@@ -69,7 +74,8 @@
       "Sunlit Plateau"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Carp.png"
   },
   {
     "name": "Catfish",
@@ -81,7 +87,8 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Catfish.png"
   },
   {
     "name": "Cod",
@@ -96,7 +103,8 @@
       "Everafter"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Cod.png"
   },
   {
     "name": "Crab",
@@ -109,7 +117,8 @@
       "Wishing Alps"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Crab.png"
   },
   {
     "name": "Dunebopper",
@@ -120,7 +129,8 @@
       "The Oasis"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Dunebopper.png"
   },
   {
     "name": "Electric Eel",
@@ -131,7 +141,8 @@
       "The Promenade"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Electric_Eel.png"
   },
   {
     "name": "Flying Fish",
@@ -142,7 +153,8 @@
       "Mythopia"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Flying_Fish.png"
   },
   {
     "name": "Fugu",
@@ -154,7 +166,8 @@
       "Peaceful Meadow"
     ],
     "ingredientCategory": "Fish",
-    "notes": "Requires rain"
+    "notes": "Requires rain",
+    "image": "images/fish/Fugu.png"
   },
   {
     "name": "Here and There Fish",
@@ -169,7 +182,8 @@
       "Frosted Heights"
     ],
     "ingredientCategory": "Fish",
-    "notes": "Requires morning (6-10am) or evening (6-10pm) after completing Here and There Again"
+    "notes": "Requires morning (6-10am) or evening (6-10pm) after completing Here and There Again",
+    "image": "images/fish/Here_and_There_Fish.png"
   },
   {
     "name": "Herring",
@@ -182,7 +196,8 @@
       "Glade of Trust"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Herring.png"
   },
   {
     "name": "Hippocampus",
@@ -193,7 +208,8 @@
       "Mythopia"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Hippocampus.png"
   },
   {
     "name": "Jellied Fish",
@@ -204,7 +220,8 @@
       "Glamour Gulch"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Jellied_Fish.png"
   },
   {
     "name": "Kingfish",
@@ -215,7 +232,8 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": "Fish",
-    "notes": "Requires night (6pm-5am)"
+    "notes": "Requires night (6pm-5am)",
+    "image": "images/fish/Kingfish.png"
   },
   {
     "name": "Koi",
@@ -226,7 +244,8 @@
       "The Bind"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Koi.png"
   },
   {
     "name": "Lancetfish",
@@ -237,7 +256,8 @@
       "Forgotten Lands"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Lancetfish.png"
   },
   {
     "name": "Lamprey",
@@ -248,7 +268,8 @@
       "Everafter"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Lamprey.png"
   },
   {
     "name": "Lobster",
@@ -259,18 +280,20 @@
       "Glade of Trust"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Lobster.png"
   },
   {
     "name": "Measuring-Tape Snail",
-    "sellPrice": null,
-    "energy": null,
-    "ripples": null,
+    "sellPrice": "100",
+    "energy": "400",
+    "ripples": "White",
     "zones": [
       "Glamour Gulch"
     ],
-    "ingredientCategory": null,
-    "notes": null
+    "ingredientCategory": "Fish",
+    "notes": null,
+    "image": "images/fish/Measuring_Tape_Snail.png"
   },
   {
     "name": "Mountain Whitefish",
@@ -281,7 +304,8 @@
       "Wishing Alps"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Mountain_Whitefish.png"
   },
   {
     "name": "Mussel",
@@ -292,7 +316,8 @@
       "Mythopia"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Mussel.png"
   },
   {
     "name": "Octopus",
@@ -304,7 +329,8 @@
       "The Overlook"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Octopus.png"
   },
   {
     "name": "Perch",
@@ -317,7 +343,8 @@
       "The Grove"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Perch.png"
   },
   {
     "name": "Pike",
@@ -329,7 +356,8 @@
       "Forest of Valor"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Pike.png"
   },
   {
     "name": "Piranha",
@@ -341,7 +369,8 @@
       "The Grasslands"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Piranha.png"
   },
   {
     "name": "Pirarucu",
@@ -353,7 +382,8 @@
       "The Grove"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Pirarucu.png"
   },
   {
     "name": "Plush Fish",
@@ -365,7 +395,8 @@
       "Honeyglow Woods"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Plush_Fish.png"
   },
   {
     "name": "Pretty Pink Starfish",
@@ -376,7 +407,8 @@
       "The Oasis"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Pretty_Pink_Starfish.png"
   },
   {
     "name": "Prisma Shrimp",
@@ -387,7 +419,8 @@
       "The Grove"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Prisma_Shrimp.png"
   },
   {
     "name": "Rainbow Trout",
@@ -399,7 +432,8 @@
       "Forest of Valor"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Rainbow_Trout.png"
   },
   {
     "name": "Red Alpine Bass",
@@ -411,7 +445,8 @@
       "Wishing Alps"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Red_Alpine_Bass.png"
   },
   {
     "name": "Robot Fish",
@@ -422,7 +457,8 @@
       "The Overlook"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Robot_Fish.png"
   },
   {
     "name": "Salmon",
@@ -436,7 +472,8 @@
       "The Promenade"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Salmon.png"
   },
   {
     "name": "Sand Fish",
@@ -449,7 +486,8 @@
       "The Borderlands"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sand_Fish.png"
   },
   {
     "name": "Sand Worm",
@@ -462,7 +500,8 @@
       "The Borderlands"
     ],
     "ingredientCategory": "Dairy and Oil",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sand_Worm.png"
   },
   {
     "name": "Satin-Finned Betta",
@@ -473,7 +512,8 @@
       "Glamour Gulch"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Satin_Finned_Betta.png"
   },
   {
     "name": "Scorpion",
@@ -486,7 +526,8 @@
       "The Borderlands"
     ],
     "ingredientCategory": "Dairy and Oil",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Scorpion.png"
   },
   {
     "name": "Sea Snail",
@@ -498,7 +539,8 @@
       "The Overlook"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sea_Snail.png"
   },
   {
     "name": "Sea Wolf",
@@ -509,7 +551,8 @@
       "The Bind"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sea_Wolf.png"
   },
   {
     "name": "Shad",
@@ -521,7 +564,8 @@
       "The Overlook"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Shad.png"
   },
   {
     "name": "Shrimp",
@@ -532,7 +576,8 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Shrimp.png"
   },
   {
     "name": "Skeleton Fish",
@@ -545,7 +590,8 @@
       "The Borderlands"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Skeleton_Fish.png"
   },
   {
     "name": "Sole",
@@ -558,7 +604,8 @@
       "The Overlook"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sole.png"
   },
   {
     "name": "Sorcerer Hat Hermit Crab",
@@ -569,7 +616,8 @@
       "The Bind"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sorcerer_Hat_Hermit_Crab.png"
   },
   {
     "name": "Squid",
@@ -581,7 +629,8 @@
       "Forgotten Lands"
     ],
     "ingredientCategory": "Seafood",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Squid.png"
   },
   {
     "name": "Stygian Mudskipper",
@@ -593,7 +642,8 @@
       "Mythopia"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Stygian_Mudskipper.png"
   },
   {
     "name": "Sweet Jelly",
@@ -604,7 +654,8 @@
       "Honeyglow Woods"
     ],
     "ingredientCategory": "Sweets",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Sweet_Jelly.png"
   },
   {
     "name": "Swordfish",
@@ -615,7 +666,8 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Swordfish.png"
   },
   {
     "name": "Tigger Fish",
@@ -626,7 +678,8 @@
       "Pixie Acres"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Tigger_Fish.png"
   },
   {
     "name": "Tilapia",
@@ -639,7 +692,8 @@
       "Pixie Acres"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Tilapia.png"
   },
   {
     "name": "Tuna",
@@ -653,7 +707,8 @@
       "Wishing Alps"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Tuna.png"
   },
   {
     "name": "Walleye",
@@ -664,7 +719,8 @@
       "Sunlit Plateau"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/Walleye.png"
   },
   {
     "name": "White Sturgeon",
@@ -675,7 +731,8 @@
       "Frosted Heights"
     ],
     "ingredientCategory": "Fish",
-    "notes": null
+    "notes": null,
+    "image": "images/fish/White_Sturgeon.png"
   },
   {
     "name": "Festive Anglerfish",
@@ -686,7 +743,8 @@
       "Forgotten Lands"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Gift of Giving); requires night (6pm-5am)"
+    "notes": "Event-only (Gift of Giving); requires night (6pm-5am)",
+    "image": "images/fish/Festive_Anglerfish.png"
   },
   {
     "name": "Festive Bass",
@@ -697,7 +755,8 @@
       "Peaceful Meadow"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Gift of Giving)"
+    "notes": "Event-only (Gift of Giving)",
+    "image": "images/fish/Festive_Bass.png"
   },
   {
     "name": "Festive Fugu",
@@ -708,7 +767,8 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Gift of Giving); requires rain"
+    "notes": "Event-only (Gift of Giving); requires rain",
+    "image": "images/fish/Festive_Fugu.png"
   },
   {
     "name": "Festive Salmon",
@@ -719,7 +779,8 @@
       "Sunlit Plateau"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Gift of Giving)"
+    "notes": "Event-only (Gift of Giving)",
+    "image": "images/fish/Festive_Salmon.png"
   },
   {
     "name": "Festive Squid",
@@ -730,7 +791,8 @@
       "Glade of Trust"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Gift of Giving)"
+    "notes": "Event-only (Gift of Giving)",
+    "image": "images/fish/Festive_Squid.png"
   },
   {
     "name": "Fishy Green Egg",
@@ -741,6 +803,7 @@
       "Dazzle Beach"
     ],
     "ingredientCategory": null,
-    "notes": "Event-only (Eggstravaganza)"
+    "notes": "Event-only (Eggstravaganza)",
+    "image": "images/fish/Fishy_Green_Egg.png"
   }
 ]

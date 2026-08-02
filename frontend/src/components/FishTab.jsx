@@ -9,6 +9,14 @@ function parseNum(str) {
 
 const columns = [
   {
+    // Unsortable and self-explanatory, so no header text -- same as the Cooking
+    // and Crops tabs.
+    key: "image", label: "",
+    render: r => (r.image
+      ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
+      : ""),
+  },
+  {
     key: "name", label: "Name",
     sortValue: r => r.name.toLowerCase(),
     render: r => r.name,
