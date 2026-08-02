@@ -1681,7 +1681,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Straight_Trolley_Tracks.png"
   },
   {
     "name": "Oswaldian Blend Left Curving Trolley Tracks",
@@ -1761,7 +1761,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Curved_Trolley_Tracks.png"
   },
   {
     "name": "Oswaldian Curved Trolley Tracks",
@@ -2445,7 +2445,7 @@
         "name": "Star Sapphire"
       }
     ],
-    "image": null
+    "image": "images/crafted/Fairytale_Armor.png"
   },
   {
     "name": "Small Chest",
@@ -2481,7 +2481,7 @@
         "name": "Blue Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Blue_Chest.png"
   },
   {
     "name": "Small Green Chest",
@@ -2501,7 +2501,7 @@
         "name": "Green Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Green_Chest.png"
   },
   {
     "name": "Small Red Chest",
@@ -2521,7 +2521,7 @@
         "name": "Red Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Red_Chest.png"
   },
   {
     "name": "Small White Chest",
@@ -2541,7 +2541,7 @@
         "name": "White Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_White_Chest.png"
   },
   {
     "name": "Small Yellow Chest",
@@ -2561,7 +2561,7 @@
         "name": "Dandelion"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Yellow_Chest.png"
   },
   {
     "name": "Medium Chest",
@@ -2581,7 +2581,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Chest.png"
   },
   {
     "name": "Medium Blue Chest",
@@ -2605,7 +2605,7 @@
         "name": "Blue Star Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Blue_Chest.png"
   },
   {
     "name": "Medium Green Chest",
@@ -2629,7 +2629,7 @@
         "name": "Green Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Green_Chest.png"
   },
   {
     "name": "Medium Red Chest",
@@ -2653,7 +2653,7 @@
         "name": "Red Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Red_Chest.png"
   },
   {
     "name": "Medium White Chest",
@@ -2677,7 +2677,7 @@
         "name": "White Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_White_Chest.png"
   },
   {
     "name": "Medium Yellow Chest",
@@ -2701,7 +2701,7 @@
         "name": "Sunflower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Yellow_Chest.png"
   },
   {
     "name": "Large Chest",
@@ -2721,7 +2721,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Chest.png"
   },
   {
     "name": "Large Blue Chest",
@@ -2745,7 +2745,7 @@
         "name": "Blue Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Blue_Chest.png"
   },
   {
     "name": "Large Green Chest",
@@ -2769,7 +2769,7 @@
         "name": "Green Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Green_Chest.png"
   },
   {
     "name": "Large Red Chest",
@@ -2793,7 +2793,7 @@
         "name": "Red Nasturtium"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Red_Chest.png"
   },
   {
     "name": "Large White Chest",
@@ -2817,7 +2817,7 @@
         "name": "White Impatiens"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_White_Chest.png"
   },
   {
     "name": "Large Yellow Chest",
@@ -2841,7 +2841,7 @@
         "name": "Yellow Nasturtium"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Yellow_Chest.png"
   },
   {
     "name": "Chin Up White Mannequin",
@@ -2857,7 +2857,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Chin_Up_White_Mannequin.png"
   },
   {
     "name": "Hand on Hip Black Mannequin",
@@ -2889,7 +2889,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hesitant_White_Mannequin.png"
   },
   {
     "name": "Relaxed Black Mannequin",
@@ -2905,7 +2905,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Relaxed_Black_Mannequin.png"
   },
   {
     "name": "Relaxed White Mannequin",
@@ -2921,7 +2921,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Relaxed_White_Mannequin.png"
   },
   {
     "name": "Thoughtful Black Mannequin",
@@ -2937,7 +2937,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Thoughtful_Black_Mannequin.png"
   },
   {
     "name": "Bayou Companion Home",
@@ -2965,7 +2965,7 @@
         "name": "Okra Seed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bayou_Companion_Home.png"
   },
   {
     "name": "Cozy Companion Home",
@@ -3033,7 +3033,7 @@
         "name": "Red Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Flying_Companion_Feeder.png"
   },
   {
     "name": "Fuzzy Friend Companion Dish",
@@ -3073,7 +3073,7 @@
         "name": "Blue Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pixar_Companion_Ball.png"
   },
   {
     "name": "Playful Companion Pinwheel",
@@ -3093,7 +3093,7 @@
         "name": "Pink Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Playful_Companion_Pinwheel.png"
   },
   {
     "name": "Campfire",
@@ -3113,7 +3113,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Campfire.png"
   },
   {
     "name": "Custom Signpost",
@@ -3125,7 +3125,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Custom_Signpost.png"
   },
   {
     "name": "Delicious Gift",
@@ -3265,7 +3265,7 @@
         "name": "Blue Luminescent Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Timebending_Table.png"
   },
   {
     "name": "Uncrafting Station",
@@ -3285,7 +3285,7 @@
         "name": "Mushroom"
       }
     ],
-    "image": null
+    "image": "images/crafted/Uncrafting_Station.png"
   },
   {
     "name": "Barrel Fragment",
@@ -5593,7 +5593,7 @@
         "name": "Red Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Training_Mannequin.png"
   },
   {
     "name": "Trellis",
@@ -7093,7 +7093,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/The_Princess_and_the_Frog_Chest.png"
   },
   {
     "name": "Autumn Mage Scarecrow",
@@ -7149,7 +7149,7 @@
         "name": "Yellow Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wonderland_Candle.png"
   },
   {
     "name": "Small Marketplace Chest",
@@ -7173,7 +7173,7 @@
         "name": "Dry Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Marketplace_Chest.png"
   },
   {
     "name": "Large Marketplace Chest",
@@ -7197,7 +7197,7 @@
         "name": "Dry Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Marketplace_Chest.png"
   },
   {
     "name": "Compost Bin",
@@ -7217,7 +7217,7 @@
         "name": "Dark Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Compost_Bin.png"
   },
   {
     "name": "Hanging Egg Chair",
@@ -7285,7 +7285,7 @@
         "name": "Egg-cellent Fruit"
       }
     ],
-    "image": null
+    "image": "images/crafted/Over_Easy_Chair.png"
   },
   {
     "name": "\"Don't Put Em All In One Basket\" Basket",
@@ -7333,7 +7333,7 @@
         "name": "Stone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Spring_Egg_Bounty.png"
   },
   {
     "name": "Sunny Side Up Arch",
@@ -7357,7 +7357,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sunny_Side_Up_Arch.png"
   },
   {
     "name": "Potted Spring Egg Tree",
@@ -7457,7 +7457,7 @@
         "name": "Emerald"
       }
     ],
-    "image": null
+    "image": "images/crafted/Display_Pillar.png"
   },
   {
     "name": "Mickey's Halloween Candy Bowl",
@@ -7505,7 +7505,7 @@
         "name": "Wheat"
       }
     ],
-    "image": null
+    "image": "images/crafted/Archery_Target.png"
   },
   {
     "name": "Blank Sandwich Board",
@@ -7529,7 +7529,7 @@
         "name": "Egg"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blank_Sandwich_Board.png"
   },
   {
     "name": "Bonfire Pit",
@@ -7553,7 +7553,7 @@
         "name": "Coal Ore"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bonfire_Pit.png"
   },
   {
     "name": "Vintage Cooler",
@@ -7577,7 +7577,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Vintage_Cooler.png"
   },
   {
     "name": "Outdoor Lounge Chair",
@@ -7601,7 +7601,7 @@
         "name": "S'mores"
       }
     ],
-    "image": null
+    "image": "images/crafted/Outdoor_Lounge_Chair.png"
   },
   {
     "name": "Attorney Stand",
@@ -7621,7 +7621,7 @@
         "name": "Plastic Scrap"
       }
     ],
-    "image": null
+    "image": "images/crafted/Attorney_Stand.png"
   },
   {
     "name": "Ornate Parisian Statue",
@@ -7653,7 +7653,7 @@
         "name": "Green Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bistro_Table.png"
   },
   {
     "name": "Bistro Chair",
@@ -7669,7 +7669,7 @@
         "name": "Green Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bistro_Chair.png"
   },
   {
     "name": "Parade Festival Arch",
@@ -7909,7 +7909,7 @@
         "name": "Blue Hydrangea"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mickey_Mouse_Park_Balloons.png"
   },
   {
     "name": "Disney Park Balloons",
@@ -7933,7 +7933,7 @@
         "name": "Yellow Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Disney_Park_Balloons.png"
   },
   {
     "name": "Colorful Park Bench",
@@ -7957,7 +7957,7 @@
         "name": "Sunflower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Colorful_Park_Bench.png"
   },
   {
     "name": "Park Banner Lamppost",
@@ -7977,7 +7977,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Park_Banner_Lamppost.png"
   },
   {
     "name": "Round White Basket",
@@ -7997,7 +7997,7 @@
         "name": "White Bird of Paradise"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_White_Basket.png"
   },
   {
     "name": "Basic Armchair",
@@ -8013,7 +8013,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Armchair.png"
   },
   {
     "name": "Basic Beach Chair",
@@ -8033,7 +8033,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Beach_Chair.png"
   },
   {
     "name": "Basic Chair",
@@ -8045,7 +8045,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Chair.png"
   },
   {
     "name": "Basic Couch",
@@ -8061,7 +8061,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Couch.png"
   },
   {
     "name": "Basic Desk",
@@ -8073,7 +8073,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Desk.png"
   },
   {
     "name": "Basic Double Bed",
@@ -8089,7 +8089,7 @@
         "name": "Fabric"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Double_Bed.png"
   },
   {
     "name": "Basic Dresser",
@@ -8101,7 +8101,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Dresser.png"
   },
   {
     "name": "Basic Fridge",
@@ -8117,7 +8117,7 @@
         "name": "Snowball"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Fridge.png"
   },
   {
     "name": "Basic Lamp",
@@ -8137,7 +8137,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Lamp.png"
   },
   {
     "name": "Basic Large Table",
@@ -8149,7 +8149,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Large_Table.png"
   },
   {
     "name": "Basic Parasol and Towel",
@@ -8165,7 +8165,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Parasol_and_Towel.png"
   },
   {
     "name": "Basic Picnic Table",
@@ -8181,7 +8181,7 @@
         "name": "Hardwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Picnic_Table.png"
   },
   {
     "name": "Basic Rug",
@@ -8193,7 +8193,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Rug.png"
   },
   {
     "name": "Basic Side Table",
@@ -8205,7 +8205,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Side_Table.png"
   },
   {
     "name": "Basic Wardrobe",
@@ -8217,7 +8217,7 @@
         "name": "Softwood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Wardrobe.png"
   },
   {
     "name": "Lost Boys Audition Sign",
@@ -8241,7 +8241,7 @@
         "name": "Green Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Lost_Boys_Audition_Sign.png"
   },
   {
     "name": "Summer Crafting Station",
