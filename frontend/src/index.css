@@ -547,6 +547,14 @@ button.danger {
   margin: 0 auto;
 }
 
+/* Cooking's dish photos carry more detail than the crafting and gem icons that
+   share .table-thumb, so they get a size bump on their own rather than growing
+   every thumbnail in the app. */
+.table-thumb-lg {
+  width: 3.25rem;
+  height: 3.25rem;
+}
+
 .filter-row {
   display: flex;
   flex-wrap: wrap;

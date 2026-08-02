@@ -64,9 +64,11 @@ export default function RecipesTab() {
 
   const columns = [
     {
-      key: "image", label: "Dish",
+      // No header text: the column is unsortable and the pictures speak for
+      // themselves, so "Dish" was just noise above the Name column.
+      key: "image", label: "",
       render: r => (r.image
-        ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
+        ? <img className="table-thumb table-thumb-lg" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
         : ""),
     },
     {
