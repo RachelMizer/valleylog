@@ -13,9 +13,24 @@ const todayWindow = r => r.schedule?.[todayKey] || null;
 
 const columns = [
   {
+    // Only the snippets carry artwork so far, so the header stays blank and
+    // creatures without an image simply leave the cell empty.
+    key: "image", label: "",
+    render: r => (r.image
+      ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
+      : ""),
+  },
+  {
     key: "name", label: "Name",
     sortValue: r => r.name.toLowerCase(),
     render: r => r.name,
+  },
+  {
+    // Snippets come in families (Birds, Demons, Frogs); the befriendable
+    // creatures have no equivalent grouping in the source data.
+    key: "type", label: "Type",
+    sortValue: r => (r.type || "￿").toLowerCase(),
+    render: r => r.type || "—",
   },
   {
     key: "locationOrigin", label: "Location/Origin",
@@ -38,6 +53,13 @@ const columns = [
     sortValue: r => (todayWindow(r) || "￿").toLowerCase(),
     render: r => todayWindow(r) || "—",
   },
+  {
+    // Sorts unpriced rows last in both directions, matching how the text
+    // columns push their nulls to the end.
+    key: "sellPrice", label: "Sell Price",
+    sortValue: r => (r.sellPrice == null ? Number.POSITIVE_INFINITY : r.sellPrice),
+    render: r => (r.sellPrice == null ? "—" : r.sellPrice),
+  },
 ];
 
 export default function CreaturesTab() {
@@ -48,6 +70,7 @@ export default function CreaturesTab() {
   const filtered = KNOWN_CREATURES.filter(r =>
     (!todayOnly || todayWindow(r)) && (
       r.name.toLowerCase().includes(query) ||
+      (r.type || "").toLowerCase().includes(query) ||
       (r.locationOrigin || "").toLowerCase().includes(query) ||
       (r.favoriteFood || "").toLowerCase().includes(query) ||
       (r.timesAvailable || "").toLowerCase().includes(query)
@@ -59,7 +82,7 @@ export default function CreaturesTab() {
       <div className="panel-toolbar">
         <input
           type="search"
-          placeholder="Search creatures, location, food, or times..."
+          placeholder="Search creatures, type, location, food, or times..."
           value={search}
           onChange={e => setSearch(e.target.value)}
         />

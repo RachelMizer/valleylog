@@ -1363,5 +1363,149 @@
       "fri": "6 PM to 8 PM",
       "sat": "6 PM to 8 PM"
     }
+  },
+  {
+    "name": "Blue Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "The Bind",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Blue_Bird_Snippet.png"
+  },
+  {
+    "name": "Green Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "The Elysian Fields",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 30,
+    "image": "images/snippets/Green_Bird_Snippet.png"
+  },
+  {
+    "name": "Red Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "The Library of Lore",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Red_Bird_Snippet.png"
+  },
+  {
+    "name": "Shadowy Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "The Library of Lore, The Bind",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 20,
+    "image": "images/snippets/Shadowy_Bird_Snippet.png"
+  },
+  {
+    "name": "White Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "Dreamlight Valley",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 20,
+    "image": "images/snippets/White_Bird_Snippet.png"
+  },
+  {
+    "name": "Yellow Bird Snippet",
+    "type": "Birds",
+    "locationOrigin": "The Wild Woods",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 30,
+    "image": "images/snippets/Yellow_Bird_Snippet.png"
+  },
+  {
+    "name": "Blue Demon Snippet",
+    "type": "Demons",
+    "locationOrigin": "The Fiery Plains, The Fallen Fortress",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 20,
+    "image": "images/snippets/Blue_Demon_Snippet.png"
+  },
+  {
+    "name": "Green Demon Snippet",
+    "type": "Demons",
+    "locationOrigin": "Mount Olympus",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Green_Demon_Snippet.png"
+  },
+  {
+    "name": "Pink Demon Snippet",
+    "type": "Demons",
+    "locationOrigin": "The Elysian Fields, The Fiery Plains",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Pink_Demon_Snippet.png"
+  },
+  {
+    "name": "Red Demon Snippet",
+    "type": "Demons",
+    "locationOrigin": "The Statue's Shadow",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Red_Demon_Snippet.png"
+  },
+  {
+    "name": "Shadowy Demon Snippet",
+    "type": "Demons",
+    "locationOrigin": "Mythopia",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Shadowy_Demon_Snippet.png"
+  },
+  {
+    "name": "Green Frog Snippet",
+    "type": "Frogs",
+    "locationOrigin": "The Wild Woods, Teapot Falls",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Green_Frog_Snippet.png"
+  },
+  {
+    "name": "Pink Frog Snippet",
+    "type": "Frogs",
+    "locationOrigin": "The Statue's Shadow, Teapot Falls",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 20,
+    "image": "images/snippets/Pink_Frog_Snippet.png"
+  },
+  {
+    "name": "Purple Frog Snippet",
+    "type": "Frogs",
+    "locationOrigin": "The Fallen Fortress",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Purple_Frog_Snippet.png"
+  },
+  {
+    "name": "Shadowy Frog Snippet",
+    "type": "Frogs",
+    "locationOrigin": "Everafter",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Shadowy_Frog_Snippet.png"
+  },
+  {
+    "name": "Yellow Frog Snippet",
+    "type": "Frogs",
+    "locationOrigin": "The Beanstalk Marshes",
+    "favoriteFood": null,
+    "timesAvailable": null,
+    "sellPrice": 10,
+    "image": "images/snippets/Yellow_Frog_Snippet.png"
   }
 ]
