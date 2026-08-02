@@ -4,6 +4,129 @@ Tracks what gets worked on each session. Newest entries at the top.
 
 ---
 
+## 2026-08-01
+
+**The backend was rewritten as a Netlify Function and the site is finally
+live.** Login works, the database is real, and the three-provider plan from
+2026-07-27 is gone. Full write-up in the rewritten `DEPLOYMENT.md`.
+
+### Why the live site said "failed to fetch"
+
+Not a bug — there was simply no API. `VITE_API_BASE_URL` was never set in
+Netlify, so the published bundle had `http://localhost:8000` inlined into it,
+which in a visitor's browser means *their own machine*. Confirmed rather than
+assumed by pulling the deployed bundle and grepping it. The Render service the
+old plan depended on had never been created.
+
+### Netlify only, by rewrite rather than by configuration
+
+Netlify can't run a Python ASGI process, so "make it work on Netlify" meant
+rewriting, not reconfiguring. 959 lines of FastAPI across 22 endpoints became a
+single Netlify Function in `frontend/netlify/functions/` — `lib/` and `routes/`
+mirroring the old `app/` layout. It sits under `frontend/` because
+`netlify.toml` sets `base = "frontend"` and the functions directory resolves
+relative to that.
+
+All 23 routes kept their paths, status codes and `{"detail": ...}` error shape,
+so the frontend changed one line: the base URL is now `/api`, relative. That
+deletes CORS from the picture entirely and makes it structurally impossible to
+ship a bundle pointing at the visitor's own machine again.
+
+Deliberate choices:
+
+- **node-postgres, not the Neon HTTP driver.** The Neon driver only talks to
+  Neon's endpoint, which would make local testing impossible — and the Python
+  version shipped two Postgres-only bugs for exactly that reason. `pg` runs
+  unchanged against a Docker container and against Netlify DB.
+- **`ensureSchema()` replaces `create_all()` + `run_migrations()`.** Every
+  statement is `IF NOT EXISTS`, memoised per container, so a fresh database
+  builds itself on the first request. No migration step exists to forget.
+- **Foreign keys are now `ON DELETE CASCADE`**, since SQLite never enforced
+  them and pruning accounts previously meant deleting dependents by hand.
+- `position` and `text` are quoted everywhere — both are SQL keywords Postgres
+  accepts in some positions and not others.
+
+Verified against real Postgres 16 in Docker before pushing: **63 assertions**
+covering auth, per-user isolation, ordering and reorder no-ops, `new-day`
+clearing daily state while keeping `hangout_role`, recipe upserts, token
+expiry, and 404-vs-405 routing. Then a second cold start to prove the schema is
+idempotent.
+
+### `NETLIFY_DB_URL` — the afternoon-eater
+
+**Netlify DB injects `NETLIFY_DB_URL`. Its own documentation, its CLI error
+messages and its dashboard all say `NETLIFY_DATABASE_URL`, which is never
+set.** The database was provisioned and healthy for well over an hour while the
+API returned 503 "database is not configured", because it was reading a
+variable that did not exist.
+
+What made it expensive is that the injected variable is invisible everywhere
+you'd look: not in `netlify env:list`, not in the `getEnvVars` API, not in the
+dashboard's environment-variable page (checked directly by driving the logged-in
+browser over CDP). It is only observable by listing `process.env` from inside a
+*deployed* function, which is what finally settled it. `lib/db.mjs` now accepts
+both spellings.
+
+Related trap: **`netlify db connect` talks to a local PGlite database**, not
+production — it reported `postgres://localhost:59098`. Don't use it to inspect
+live data.
+
+### Two near-misses worth remembering
+
+- **The archive was nearly committable.** `backend-python-archive-*.tar.gz`
+  holds `backend/.env` (real `SECRET_KEY`, Gmail app password) and all four
+  SQLite files. In a public repo. Gitignored by explicit pattern and verified
+  with `git check-ignore` before each commit — the same class of mistake as the
+  `*.db` glob that missed `valleylog.db.bak` last time.
+- **`frontend/.env` silently overrode the fix.** After repointing `api.js` at
+  `/api`, the rebuilt bundle came out with a byte-identical hash to the
+  deployed one, because `.env` still pinned `VITE_API_BASE_URL=http://localhost:8000`
+  and Vite inlines it at build time. An identical hash after a real source
+  change is the tell. Cleared it; `.env.example` now explains why it should
+  stay empty.
+- Also: the first `netlify env:set` **echoed the generated `SECRET_KEY` into
+  the terminal**. It was rotated immediately, before any JWT had been issued.
+  Suppress output when setting secrets.
+
+### Also this session
+
+- **Verification email logo path** was wrong (`frontend/public/` instead of
+  `frontend/public/images/`); the `.exists()` guard meant it silently shipped a
+  broken image in every email.
+- **`/health` no longer requires the database**, so it can distinguish "function
+  down" from "database down" — a flaw flagged and then immediately suffered.
+- **Friendship badge fix.** `.level-badge` sat in a flex row with default
+  `flex-shrink: 1`, so the slider held its width and the badge was compressed to
+  its 2.2em `min-width` — measured live at 29px against ~43px needed for
+  "8/10" — and the text spilled outside the pill. `flex-shrink: 0` plus a
+  `min-width` sized for "10/10" so it doesn't resize under the cursor.
+- **All 480 recipes marked discovered** for `rmizer` via the live API, driven
+  from inside the logged-in browser so no token was handled outside it. 480/480,
+  zero failures, verified by reading progress back.
+- Removed the `planets`/drizzle scaffolding `netlify db init` dumped into the
+  project; the API manages its own schema.
+
+### State
+
+Live at `https://valley-log.netlify.app`. `SECRET_KEY`, `FRONTEND_BASE_URL` and
+the three `SMTP_*` values are set on the site, scoped to functions. The Python
+source is in history at `eb5e222`.
+
+**Not carried over:** the original `rmizer` account's 3 tracked villagers and
+478 recipe-progress rows stayed behind — starting fresh was chosen
+deliberately, and `migrate_sqlite_to_postgres.py` refused non-empty targets
+anyway. The account was recreated on the live site with the same username.
+
+**Open threads:**
+- Verification email hasn't been confirmed to actually arrive; SMTP is set but
+  untested end-to-end, and Netlify Functions may block outbound SMTP.
+- `react-router` has two high-severity advisories (RSC-mode CSRF; this app
+  doesn't use RSC mode). `npm audit fix --force` wants a breaking major bump.
+- The archive is the only copy of the old `.env` and SQLite data, on one
+  machine. It should be copied somewhere off that laptop.
+
+---
+
 ## 2026-07-31
 
 **Creature spawn times landed, and the Creatures tab learned about "today."**
