@@ -27,12 +27,24 @@ From the site dashboard, or the CLI:
 netlify db init
 ```
 
-That provisions a Neon Postgres instance and injects **`NETLIFY_DATABASE_URL`**
-into the site environment automatically. Nothing to copy or paste.
+That provisions a Neon Postgres instance and injects the connection string into
+the function runtime automatically. Nothing to copy or paste.
 
-`DATABASE_URL` works as a manual fallback if you'd rather bring your own
-Postgres — `lib/db.mjs` checks `NETLIFY_DATABASE_URL` first, then
-`DATABASE_URL`, then `NETLIFY_DATABASE_URL_UNPOOLED`.
+> **The variable is `NETLIFY_DB_URL`.** Netlify's documentation, its CLI error
+> messages, and the dashboard all refer to `NETLIFY_DATABASE_URL` — that name is
+> never actually set. The function runtime gets `NETLIFY_DB_URL` and
+> `NETLIFY_DB_DRIVER`. This cost an afternoon: the database was provisioned and
+> healthy while the API returned 503 "not configured", and neither the dashboard
+> env-var list nor `netlify env:list` shows the injected variable at all. It's
+> only visible by reading `process.env` from inside a deployed function.
+
+`lib/db.mjs` checks `NETLIFY_DB_URL` first, then `NETLIFY_DATABASE_URL` (in case
+the documented name ever appears), then `DATABASE_URL` as a manual fallback for
+bringing your own Postgres, then `NETLIFY_DATABASE_URL_UNPOOLED`.
+
+Note also that `netlify db connect` talks to a **local PGlite database**, not
+production — the CLI is dev-oriented and has read-only production access by
+default. Don't use it to check live data.
 
 **No migration step.** The schema builds itself: `ensureSchema()` runs on the
 first request after a cold start, every statement is `IF NOT EXISTS`, and the

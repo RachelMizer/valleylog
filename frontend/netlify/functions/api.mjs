@@ -46,16 +46,12 @@ function health() {
   return json({
     status: "ok",
     database_configured: Boolean(
-      process.env.NETLIFY_DATABASE_URL ||
+      process.env.NETLIFY_DB_URL ||
+        process.env.NETLIFY_DATABASE_URL ||
         process.env.DATABASE_URL ||
         process.env.NETLIFY_DATABASE_URL_UNPOOLED
     ),
     secret_key_configured: Boolean(process.env.SECRET_KEY),
-    // TEMPORARY diagnostic: names only, never values. Being removed once we
-    // know what Netlify DB actually injects into the function runtime.
-    env_names: Object.keys(process.env)
-      .filter((k) => /NETLIFY|DATABASE|NEON|POSTGRES|^PG/.test(k))
-      .sort(),
   });
 }
 

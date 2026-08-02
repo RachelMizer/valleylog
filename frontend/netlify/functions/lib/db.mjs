@@ -11,10 +11,17 @@ import pg from "pg";
 
 import { HttpError } from "./http.mjs";
 
-// Netlify DB injects NETLIFY_DATABASE_URL when a database is linked to the
-// site. DATABASE_URL is the manual fallback (and what local tests set).
+// Netlify DB injects NETLIFY_DB_URL into the function runtime. Note that this
+// is NOT the name Netlify's own documentation and CLI use — both say
+// NETLIFY_DATABASE_URL, which is never actually set. Verified by listing
+// process.env from inside a deployed function: the runtime has NETLIFY_DB_URL
+// and NETLIFY_DB_DRIVER, and nothing named NETLIFY_DATABASE_URL.
+//
+// Both spellings are accepted in case the documented one starts appearing.
+// DATABASE_URL is the manual fallback, and what the local tests set.
 function connectionString() {
   return (
+    process.env.NETLIFY_DB_URL ||
     process.env.NETLIFY_DATABASE_URL ||
     process.env.DATABASE_URL ||
     process.env.NETLIFY_DATABASE_URL_UNPOOLED ||
@@ -31,7 +38,7 @@ export function getPool() {
   if (!url) {
     throw new HttpError(
       503,
-      "Database is not configured: set NETLIFY_DATABASE_URL (or DATABASE_URL)"
+      "Database is not configured: set NETLIFY_DB_URL (or DATABASE_URL)"
     );
   }
 
