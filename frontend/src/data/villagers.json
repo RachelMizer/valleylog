@@ -318,6 +318,12 @@
     "portrait": "images/villagers/WALL-E.png"
   },
   {
+    "name": "Ralph",
+    "realm": "Dreamlight Valley (Base Game)",
+    "emoji": "👊",
+    "portrait": "images/villagers/Ralph.png"
+  },
+  {
     "name": "Vanellope",
     "realm": "Dreamlight Valley (Base Game)",
     "emoji": "🍭",
