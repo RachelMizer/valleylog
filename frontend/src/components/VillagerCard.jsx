@@ -3,13 +3,14 @@ const HANGOUT_ROLES = [
   "Digging", "Fishing", "Foraging", "Gardening", "Mining", "Timebending",
 ];
 
-export default function VillagerCard({ villager, isFirst, isLast, onLevelChange, onLevelCommit, onGiftChange, onGiftCommit, onNotesChange, onNotesCommit, onToggle, onRoleChange, onMove, onDelete }) {
+export default function VillagerCard({ villager, isFirst, isLast, canReorder, onLevelChange, onLevelCommit, onGiftChange, onGiftCommit, onNotesChange, onNotesCommit, onToggle, onRoleChange, onMove, onDelete }) {
+  const reorderHint = canReorder ? null : "Clear the search to reorder villagers";
   return (
     <div className="card">
       <div className="card-head">
         <div className="reorder-buttons">
-          <button type="button" className="reorder-btn" title="Move up" disabled={isFirst} onClick={() => onMove(villager.id, "up")}>▲</button>
-          <button type="button" className="reorder-btn" title="Move down" disabled={isLast} onClick={() => onMove(villager.id, "down")}>▼</button>
+          <button type="button" className="reorder-btn" title={reorderHint || "Move up"} disabled={!canReorder || isFirst} onClick={() => onMove(villager.id, "up")}>▲</button>
+          <button type="button" className="reorder-btn" title={reorderHint || "Move down"} disabled={!canReorder || isLast} onClick={() => onMove(villager.id, "down")}>▼</button>
         </div>
         {villager.portrait ? (
           <img className="card-portrait" src={`/${villager.portrait}`} alt="" />

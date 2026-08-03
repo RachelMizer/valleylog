@@ -16,6 +16,7 @@ export default function VillagersTab() {
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState("");
   const dialogRef = useRef(null);
+  const moveQueue = useRef(Promise.resolve());
 
   useEffect(() => {
     listVillagers().then(setVillagers).finally(() => setLoading(false));
@@ -55,9 +56,14 @@ export default function VillagersTab() {
     updateVillager(id, { hangout_role });
   }
 
-  async function handleMove(id, direction) {
-    const updated = await reorderVillager(id, direction);
-    setVillagers(updated);
+  function handleMove(id, direction) {
+    // Reorder works out the swap from the order it reads server-side, so two
+    // requests in flight at once both plan their move from the same pre-move
+    // list and the second one undoes or repeats the first. Chaining them means
+    // a quick double-click moves two places instead of one or none.
+    moveQueue.current = moveQueue.current
+      .then(() => reorderVillager(id, direction))
+      .then(setVillagers, err => console.error("[villagers] reorder failed:", err));
   }
 
   async function handleDelete(id, name) {
@@ -119,6 +125,10 @@ export default function VillagersTab() {
               <VillagerCard
                 key={v.id}
                 villager={v}
+                // Up and down move a villager one place in the real list, which
+                // is invisible — or looks broken — when a search is hiding the
+                // neighbour it swaps with. Reordering waits for a full list.
+                canReorder={query === ""}
                 isFirst={realIndex === 0}
                 isLast={realIndex === villagers.length - 1}
                 onLevelChange={handleLevelChange}
