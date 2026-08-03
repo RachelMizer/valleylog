@@ -17,6 +17,13 @@
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* Reserve the scrollbar track even on pages short enough not to need it.
+     Tabs differ wildly in height (an empty Tasks list vs. 67 rows of gems), so
+     without this the scrollbar appears and disappears as you switch tabs and
+     the centred `main` column jumps sideways by the scrollbar's width every
+     time — which reads as the tab row refusing to hold still. */
+  scrollbar-gutter: stable;
 }
 
 * {
@@ -278,12 +285,19 @@ button:disabled {
 
 /* ---------- dashboard tabs ---------- */
 
+/* Centred and wrapping, never scrolling. `overflow-x: auto` used to let the row
+   slide horizontally, so the tabs sat in a different place depending on how wide
+   the window was; wrapping keeps every tab on screen and keeps the row centred
+   at any width instead. Wrap also has to stay for the centring to be safe — a
+   centred flex row that overflows clips its own left edge with no way to scroll
+   back to it. */
 .tabs {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 0.25rem;
   border-bottom: 2px solid var(--border);
   margin: 24px 0;
-  overflow-x: auto;
 }
 
 .tab-btn {

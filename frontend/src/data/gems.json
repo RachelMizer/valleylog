@@ -424,7 +424,7 @@
   },
   {
     "name": "Alexandrite",
-    "color": "Pink and Green",
+    "color": "Purple and Green",
     "shape": "Oval",
     "sellPrice": "350 Coins",
     "zones": [
@@ -435,7 +435,7 @@
   },
   {
     "name": "Shiny Alexandrite",
-    "color": "Green",
+    "color": "Purple and Green",
     "shape": "Oval",
     "sellPrice": "1,400 Coins",
     "zones": [
