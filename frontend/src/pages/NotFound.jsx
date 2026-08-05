@@ -14,7 +14,7 @@ export default function NotFound() {
       <section className="info-section">
         <h3>Looking for a tab?</h3>
         <p>
-          The reference tabs — Villagers, Tasks, Cooking, Crops, Creatures, Fish,
+          The reference tabs — Friendships, Tasks, Cooking, Crops, Creatures, Fish,
           Gems, Vendor Ware and Crafting — all live together on the main page
           rather than at their own addresses, so something like{" "}
           <code>/cooking</code> won't resolve on its own. Head back and pick the

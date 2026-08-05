@@ -16,7 +16,7 @@ import QUOTES from "../data/quotes.json";
 // Deliberately no item counts in the copy — they'd drift as datasets grow.
 const TABS = [
   {
-    id: "villagers", label: "Villagers", title: "Villager Tracker",
+    id: "villagers", label: "Friendships", title: "Villager Friendship Tracker",
     blurb: "Track friendship levels, tick off today's three favorite gifts as you hand " +
       "them over, and record each villager's assigned hangout bonus. “New Day” clears " +
       "the daily fields while keeping friendship levels and role assignments.",
