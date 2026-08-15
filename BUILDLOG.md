@@ -101,6 +101,32 @@ three are the only rows in this session's scope still waiting on a file.
 All 404 image URLs re-verified against the dev server; apostrophes and `&`
 survive `encodeURI` untouched and serve fine.
 
+### Site Updates panel in the header
+
+A "Site Updates" pill now sits at the far left of the nav row on every page
+(`NavBar` renders site-wide), opening a panel of dated entries. Adding an entry
+is a single edit to **`frontend/src/data/updates.json`** — newest first, `date`
+as `YYYY-MM-DD` plus a `note`. `SiteUpdates.jsx` needs no change per entry, and
+renders nothing at all if the file is empty.
+
+**Dates must not be parsed with `new Date("2026-08-15")`.** That reads as UTC
+midnight, so it formats as *August 14* for every reader west of Greenwich —
+including this machine, where it was reproduced. The component splits the string
+and builds a local date instead. Verified by rendering the component through
+`react-dom/server` and asserting on the output, not by eye.
+
+Layout notes worth keeping:
+
+- The pill is the **first child of `.nav-links` with `margin-right: auto`**.
+  That row is `justify-content: flex-end`, so one auto margin pins the pill left
+  and leaves the auth links right, with no extra wrapper or restructuring.
+- The panel is **absolutely positioned**, so opening it never reflows the
+  header, and its width is `min(360px, calc(100vw - 3rem))`. The nav sits
+  *outside* the width-capped `main` column, so a fixed width here would have
+  been free to push the page wider than a narrow screen.
+- Under `34rem` the nav wraps and the pill takes its own centred row, since an
+  auto margin has no free space to absorb once the row wraps.
+
 ### Third batch: 15 files, 16 rows, and the table is nearly complete
 
 Crafting is at **419 of 422 rows imaged**, up from 316 this morning. This batch

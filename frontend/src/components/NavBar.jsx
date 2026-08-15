@@ -1,5 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
+import SiteUpdates from "./SiteUpdates";
 
 export default function NavBar() {
   const { user, loading, logout } = useAuth();
@@ -18,6 +19,9 @@ export default function NavBar() {
         </Link>
       </div>
       <div className="nav-links">
+        {/* First child, and pushed hard left by `margin-right: auto` in the CSS,
+            so it anchors the row's far left while the auth links stay right. */}
+        <SiteUpdates />
         {loading ? null : user ? (
           <>
             <span className="nav-greeting welcome-heading">Welcome back, {user.username}</span>
