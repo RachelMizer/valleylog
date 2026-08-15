@@ -131,6 +131,51 @@ Two key orders coexist in `gems.json` (`shape` sits before `sellPrice` in some
 rows, after `zones` in others). Mutating rows in place preserves that; rebuilding
 objects from scratch would silently normalize it and inflate the diff.
 
+### Stall wares cross-referenced against the crops list
+
+Goofy's Stall sells 8 things that were on no crops row: Apple, Banana,
+Blueberry, Cherry, Cocoa Bean, Gooseberry, Lemon and Raspberry. All 8 are
+foraged from trees and bushes, and **the tell is that the stall sells no seed
+for any of them** — every other rotating ingredient has a matching `X Seed` on
+the same stall. They are added to `crops.json` (57 → 65 rows) as
+`ingredientType: "Fruit"`, zoned to the stall that sells them, with artwork
+lifted from `dev/images/ingredients/`. Every farming field stays `null`;
+`CropsTab` already renders each as an em dash, and its sort comparators coerce
+null to 0, so nothing needed changing in the component.
+
+**No local source carries sell prices for foraged fruit.** The stall price is
+what you *pay*, and `foraging-and-flowers.pdf` yields 930k characters of text
+with no hit for any of the 8. Those columns stay blank rather than guessed.
+
+**Nothing was missing from the seed side — but 8 pairs only match if you allow
+for naming drift**, which will bite any future matcher written against these two
+files: `Grape Seed`/`Grapes`, `Oat Seed`/`Oats`, `Bean Seed`/`Beans`,
+`Cosmic Fig Seed`/`Cosmic Figs`, `Ruby Lentil Seed`/`Ruby Lentils`,
+`Green Bean Seed`/`Green Beans`, `Chia Seed`/`Chia Seeds`, and
+`Honeydew Seed`/`Honeydew Melon`. Stripping the `Seed` suffix is not enough;
+the crop is usually plural, and Honeydew is not even the same word.
+
+The same 8 fruits were the only stall ingredients with a `null` image, so
+`vendor.json` now points them at the crops artwork, the way its other rows
+already reuse `images/crops/`.
+
+**Still wrong, and deliberately left alone:** 6 `vendor.json` rows carry
+`itemType: "Seed"` while being nothing of the kind — Plain Yogurt, Ambrosia,
+Elysian Grain, Golden Apple, Flyleaf Feta, Shovel Bird Eggs. This is faithful to
+`dev/goofy_stall_items.txt`, which lists them inside each zone's seed block
+rather than under Rotating Ingredients, so the extraction copied the source's
+shape. They are also the only 6 rows still without an image. Fixing it means
+deciding what they actually are, which is a data question, not a parsing one.
+
+**A third JSON format.** `crops.json` and `vendor.json` are LF *with* a trailing
+newline, `gems.json` is LF *without* one, and `crafting.json` is CRLF with one.
+Always check the file in front of you.
+
+New crop rows are spliced in at their alphabetical position rather than appended
+and re-sorted, because `crops.json` has a pre-existing ordering wobble
+(`Rice`, `Ring Squash`, `Rhubarb`) that a full sort would silently "fix",
+turning an 8-row diff into a whole-file one.
+
 ---
 
 ## 2026-08-05

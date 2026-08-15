@@ -6,7 +6,7 @@
     "zone": "Dazzle Beach",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 58,
-    "image": null
+    "image": "images/crops/Banana.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -78,7 +78,7 @@
     "zone": "Forest of Valor",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 58,
-    "image": null
+    "image": "images/crops/Blueberry.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -132,7 +132,7 @@
     "zone": "Forgotten Lands",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 100,
-    "image": null
+    "image": "images/crops/Gooseberry.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -204,7 +204,7 @@
     "zone": "Frosted Heights",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 83,
-    "image": null
+    "image": "images/crops/Cherry.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -258,7 +258,7 @@
     "zone": "Glade of Trust",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 67,
-    "image": null
+    "image": "images/crops/Lemon.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -321,7 +321,7 @@
     "zone": "Peaceful Meadow",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 50,
-    "image": null
+    "image": "images/crops/Apple.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -348,7 +348,7 @@
     "zone": "Peaceful Meadow",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 42,
-    "image": null
+    "image": "images/crops/Raspberry.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -402,7 +402,7 @@
     "zone": "Sunlit Plateau",
     "realm": "Dreamlight Valley (Base Game)",
     "price": 75,
-    "image": null
+    "image": "images/crops/Cocoa_Bean.png"
   },
   {
     "vendor": "Goofy's Stall",

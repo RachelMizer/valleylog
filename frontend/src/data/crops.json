@@ -1,5 +1,20 @@
 [
   {
+    "name": "Apple",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Peaceful Meadow"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Apple.png"
+  },
+  {
     "name": "Asparagus",
     "ingredientType": "Vegetables",
     "zones": [
@@ -13,6 +28,21 @@
     "profit": "249",
     "coinsPerMin": "1.84",
     "image": "images/crops/Asparagus.png"
+  },
+  {
+    "name": "Banana",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Dazzle Beach"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Banana.png"
   },
   {
     "name": "Barley",
@@ -89,6 +119,21 @@
     "profit": "13",
     "coinsPerMin": "0.14",
     "image": "images/crops/Black_Pepper.png"
+  },
+  {
+    "name": "Blueberry",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Forest of Valor"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Blueberry.png"
   },
   {
     "name": "Broccoli",
@@ -181,6 +226,21 @@
     "image": "images/crops/Celery.png"
   },
   {
+    "name": "Cherry",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Frosted Heights"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Cherry.png"
+  },
+  {
     "name": "Chia Seeds",
     "ingredientType": "Dairy and Oil",
     "zones": [
@@ -209,6 +269,21 @@
     "profit": "58",
     "coinsPerMin": "1.29",
     "image": "images/crops/Chili_Pepper.png"
+  },
+  {
+    "name": "Cocoa Bean",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Sunlit Plateau"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Cocoa_Bean.png"
   },
   {
     "name": "Corn",
@@ -392,6 +467,21 @@
     "image": "images/crops/Golden_Pattypan.png"
   },
   {
+    "name": "Gooseberry",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Forgotten Lands"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Gooseberry.png"
+  },
+  {
     "name": "Grapes",
     "ingredientType": "Fruit",
     "zones": [
@@ -450,6 +540,21 @@
     "profit": "189",
     "coinsPerMin": "1.58",
     "image": "images/crops/Leek.png"
+  },
+  {
+    "name": "Lemon",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Glade of Trust"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Lemon.png"
   },
   {
     "name": "Lettuce",
@@ -661,6 +766,21 @@
     "profit": "33",
     "coinsPerMin": "0.31",
     "image": "images/crops/Radish.png"
+  },
+  {
+    "name": "Raspberry",
+    "ingredientType": "Fruit",
+    "zones": [
+      "Peaceful Meadow"
+    ],
+    "growTime": null,
+    "waterings": null,
+    "yield": null,
+    "seedPrice": null,
+    "sellPrice": null,
+    "profit": null,
+    "coinsPerMin": null,
+    "image": "images/crops/Raspberry.png"
   },
   {
     "name": "Rice",
