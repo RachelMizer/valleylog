@@ -4,6 +4,73 @@ Tracks what gets worked on each session. Newest entries at the top.
 
 ---
 
+## 2026-08-15
+
+**Crafting table corrections: 3 rows dropped, 9 renamed, 51 images attached.**
+All edits are in `frontend/src/data/crafting.json` (425 → 422 rows) plus the
+PNGs copied from `dev/images/crafted/` into `frontend/public/images/crafted/`.
+
+Dropped `Oswaldian Curved Trolley Tracks`, `Map`, and `Mossy Fallen Pillar`.
+Renamed eight rows to their in-game names (`Pale Gray Gast Stove` → `Gas`,
+`Tropical Companion` → `… Home`, `Barrel Fragment` → `Barrel Part`, and five
+balloon arch/cluster colour names), plus one typo fix, `Pale Gray Flat-Stop
+Stove` → `Flat-Top` — its siblings are all "Flat-Top" and the supplied image
+filename confirms it.
+
+**The rename list can collide with rows that already exist.** `Mossy Fallen
+Pillar` → `Low Sculpted Pillar` was requested, but a `Low Sculpted Pillar` row
+was already there with byte-identical materials (25 Soil, 50 Stone, 15 Clay).
+Applied literally it would have produced two indistinguishable rows, so the two
+were collapsed into one and the surviving row took the new artwork. Worth
+asserting on before any future bulk rename — the table tolerates duplicate names
+(it already carries two `Iron Ingot` and two `Yellow Light Low Beach Torch`
+rows), so a collision fails silently rather than loudly.
+
+**Four supplied filenames disagreed with the row names they belong to** — e.g.
+`Oswaldian_Right-Curving_Trolley_Tracks.png` for the row named `Oswaldian Blend
+Right Curving Trolley Tracks`, and three balloon items whose colour words are in
+a different order (`Blue,_Yellow_and_Pink_…` vs `Pink, Yellow, and Blue …`).
+Identity was confirmed off the materials lists, and those rows kept their
+existing names — only the stove typo was corrected. The image-matching script
+carries them as an explicit filename → row-name map rather than relying on
+normalization.
+
+**Two of the 53 requested images were not in `dev/images/crafted/`** —
+`Leaf-Strewn_Path_with_Border.png` and `Tropical_Companion_Home.png`. Both rows
+exist and both still have `"image": null`; only purple-swatch versions survive
+in `dev/images/crafted_purple_removed/`, which were deliberately not reused.
+Dropping the two files in and re-running the match is all that's left.
+
+Verified by fetching all 366 image URLs off the dev server exactly as
+`CraftingTab.jsx` builds them (`encodeURI("/" + r.image)`) — all 200/image/png.
+That check matters here because 14 of the new filenames contain `,` or `&`, and
+`encodeURI` escapes neither; both are legal in a URL path, so they serve fine.
+
+`crafting.json` is CRLF — rewrite it as
+`JSON.stringify(d, null, 2).replace(/\n/g, "\r\n") + "\r\n"` or the whole file
+shows up as changed.
+
+---
+
+## 2026-08-05
+
+**The Villagers tab is now "Friendships"**, and its panel header reads "Villager
+Friendship Tracker". The tab tracks friendship levels, daily gifts and hangout
+roles rather than the villager roster, so the old label undersold what it does.
+
+Copy only — the tab `id` stayed `"villagers"`, so the `TABS` lookup, the
+`activeTab` comparisons, `VillagersTab.jsx`, the `/villagers` routes and
+everything already stored are untouched.
+
+Worth knowing before the next rename: **a tab's user-facing name lives in three
+places, not one.** `Home.jsx`'s `TABS` array drives both the button and the
+panel header, but `Onboarding.jsx`'s `FEATURES` list and the "Looking for a
+tab?" paragraph in `NotFound.jsx` also spell the tab names out as prose, and
+neither reads from `TABS`. Both still said "Villagers" after the rename and were
+updated by hand. Same three-file sweep applies to any future relabel.
+
+---
+
 ## 2026-08-02
 
 **Artwork and data pulled out of six wiki PDFs.** Every reference tab that

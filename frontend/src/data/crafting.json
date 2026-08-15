@@ -801,7 +801,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Snippet-Catching_Training_Manual.png"
   },
   {
     "name": "Timebending Training Manual",
@@ -825,7 +825,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Timebending_Training_Manual.png"
   },
   {
     "name": "Asphalt",
@@ -1185,7 +1185,7 @@
         "name": "Sand"
       }
     ],
-    "image": null
+    "image": "images/crafted/Natural_Rock_Path_with_Border.png"
   },
   {
     "name": "Brick Road with Border",
@@ -1213,7 +1213,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sinister_Brick_Road_with_Border.png"
   },
   {
     "name": "Golden Brick Road with Border",
@@ -1225,7 +1225,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Golden_Brick_Road_with_Border.png"
   },
   {
     "name": "Leaf-Strewn Path with Border",
@@ -1257,7 +1257,7 @@
         "name": "Pebbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Loose_Gravel_Path_with_Border.png"
   },
   {
     "name": "Gold and Opal Road with Border",
@@ -1273,7 +1273,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gold_&_Opal_Road_with_Border.png"
   },
   {
     "name": "Gem and Opal Road with Border",
@@ -1293,7 +1293,7 @@
         "name": "Tourmaline"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gem_&_Opal_Road_with_Border.png"
   },
   {
     "name": "Sun-Baked Earthen Road with Border",
@@ -1309,7 +1309,7 @@
         "name": "Clay"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sun-Baked_Earthen_Road_with_Border.png"
   },
   {
     "name": "Snowy Brick Road with Border",
@@ -1325,7 +1325,7 @@
         "name": "Snowball"
       }
     ],
-    "image": null
+    "image": "images/crafted/Snowy_Brick_Road_with_Border.png"
   },
   {
     "name": "Ancient's Path",
@@ -1641,7 +1641,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blend_Left-Curving_Trolley_Tracks.png"
   },
   {
     "name": "Blend Right Curving Trolley Tracks",
@@ -1661,7 +1661,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blend_Right-Curving_Trolley_Tracks.png"
   },
   {
     "name": "Straight Trolley Tracks",
@@ -1701,7 +1701,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Oswaldian_Blend_Left-Curving_Trolley_Tracks.png"
   },
   {
     "name": "Oswaldian Blend Right Curving Trolley Tracks",
@@ -1721,7 +1721,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Oswaldian_Right-Curving_Trolley_Tracks.png"
   },
   {
     "name": "Oswaldian Straight Trolley Tracks",
@@ -1741,7 +1741,7 @@
         "name": "Copper"
       }
     ],
-    "image": null
+    "image": "images/crafted/Oswaldian_Straight_Trolley_Tracks.png"
   },
   {
     "name": "Curved Trolley Tracks",
@@ -1762,26 +1762,6 @@
       }
     ],
     "image": "images/crafted/Curved_Trolley_Tracks.png"
-  },
-  {
-    "name": "Oswaldian Curved Trolley Tracks",
-    "category": "Fences and Paving",
-    "yield": null,
-    "materials": [
-      {
-        "qty": 8,
-        "name": "Tropical Wood"
-      },
-      {
-        "qty": 10,
-        "name": "Plastic Scrap"
-      },
-      {
-        "qty": 5,
-        "name": "Copper"
-      }
-    ],
-    "image": null
   },
   {
     "name": "Gold Bumblestone Path",
@@ -1980,7 +1960,7 @@
     "image": "images/crafted/Gray_Mailbox.png"
   },
   {
-    "name": "Pale Gray Flat-Stop Stove",
+    "name": "Pale Gray Flat-Top Stove",
     "category": "Functional Items",
     "yield": null,
     "materials": [
@@ -1993,10 +1973,10 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pale_Gray_Flat-Top_Stove.png"
   },
   {
-    "name": "Pale Gray Gast Stove",
+    "name": "Pale Gray Gas Stove",
     "category": "Functional Items",
     "yield": null,
     "materials": [
@@ -2141,7 +2121,7 @@
         "name": "Red Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Wooden_Crafting_Station.png"
   },
   {
     "name": "Basic Fall Leaves Snippet Repellent",
@@ -2169,7 +2149,7 @@
         "name": "Pine Cone"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Fall_Leaves_Snippet_Repellent.png"
   },
   {
     "name": "Basic Faerie Snippet Repellent",
@@ -2197,7 +2177,7 @@
         "name": "Petrified Wood"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Faerie_Snippet_Repellent.png"
   },
   {
     "name": "Basic Olympic Snippet Repellent",
@@ -2225,7 +2205,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Basic_Olympic_Snippet_Repellent.png"
   },
   {
     "name": "Basic Fall Leaves Slow Trap",
@@ -2873,7 +2853,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hand_on_Hip_Black_Mannequin.png"
   },
   {
     "name": "Hesitant White Mannequin",
@@ -2992,7 +2972,7 @@
     "image": "images/crafted/Cozy_Companion_Home.png"
   },
   {
-    "name": "Tropical Companion",
+    "name": "Tropical Companion Home",
     "category": "Functional Items",
     "yield": null,
     "materials": [
@@ -3053,7 +3033,7 @@
         "name": "Red Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Fuzzy_Friend_Companion_Dish.png"
   },
   {
     "name": "Pixar Companion Ball",
@@ -3288,7 +3268,7 @@
     "image": "images/crafted/Uncrafting_Station.png"
   },
   {
-    "name": "Barrel Fragment",
+    "name": "Barrel Part",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3301,7 +3281,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Barrel_Part.png"
   },
   {
     "name": "Basket",
@@ -3376,7 +3356,7 @@
     "image": "images/crafted/Black_Wrought_Iron_Streetlamp.png"
   },
   {
-    "name": "Black, White, and Yellow Balloon Cluster",
+    "name": "White, Yellow and Black Balloon Cluster",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3397,10 +3377,10 @@
         "name": "White Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/White,_Yellow_and_Black_Balloon_Cluster.png"
   },
   {
-    "name": "Blue Balloon Arch",
+    "name": "Blue and Silver Balloon Arch",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3421,10 +3401,10 @@
         "name": "Blue Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_and_Silver_Balloon_Arch.png"
   },
   {
-    "name": "Blue Balloon Cluster",
+    "name": "Blue and Silver Balloon Cluster",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3445,7 +3425,7 @@
         "name": "Blue Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_and_Silver_Balloon_Cluster.png"
   },
   {
     "name": "Blue Egg Lamppost",
@@ -3601,10 +3581,10 @@
         "name": "White Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bromeliad_and_Marsh_Milkweed_Pot.png"
   },
   {
-    "name": "Brown, Green, and Yellow Balloon Arch",
+    "name": "Green, Yellow and White Balloon Arch",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3625,10 +3605,10 @@
         "name": "White Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green,_Yellow_and_White_Balloon_Arch.png"
   },
   {
-    "name": "Brown, Green, and Yellow Balloon Cluster",
+    "name": "Green, Yellow and White Balloon Cluster",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3649,7 +3629,7 @@
         "name": "White Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green,_Yellow_and_White_Balloon_Cluster.png"
   },
   {
     "name": "Burlap Bags",
@@ -3765,7 +3745,7 @@
         "name": "White Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Daisy_and_Marsh_Milkweed_Pot.png"
   },
   {
     "name": "Dandelion and Rising Penstemon Pot",
@@ -3785,7 +3765,7 @@
         "name": "Rising Purple Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Dandelion_and_Rising_Penstemon_Pot.png"
   },
   {
     "name": "DJ Booth Rig",
@@ -3905,7 +3885,7 @@
         "name": "White Bell Flower Join for free"
       }
     ],
-    "image": null
+    "image": "images/crafted/Falling_Penstemon_and_Bell_Flower_Pot.png"
   },
   {
     "name": "Festive Pennants",
@@ -4065,7 +4045,7 @@
         "name": "Peridot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Light_High_Beach_Torch.png"
   },
   {
     "name": "Green Light Low Beach Torch",
@@ -4089,7 +4069,7 @@
         "name": "Peridot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Light_Low_Beach_Torch.png"
   },
   {
     "name": "Green Wrought Iron Streetlamp",
@@ -4109,7 +4089,7 @@
         "name": "Emerald"
       }
     ],
-    "image": null
+    "image": "images/crafted/Green_Wrought_Iron_Streetlamp.png"
   },
   {
     "name": "Half-Barrel",
@@ -4229,7 +4209,7 @@
         "name": "Purple Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Hydrangea_and_Bell_Flower_Pot.png"
   },
   {
     "name": "Impatiens and Bromeliad Pot",
@@ -4249,7 +4229,7 @@
         "name": "Yellow Bromeliad"
       }
     ],
-    "image": null
+    "image": "images/crafted/Impatiens_and_Bromeliad_Pot.png"
   },
   {
     "name": "Jubilant Topiary",
@@ -4408,26 +4388,6 @@
     "image": "images/crafted/Mailbox.png"
   },
   {
-    "name": "Map",
-    "category": "Furniture",
-    "yield": null,
-    "materials": [
-      {
-        "qty": null,
-        "name": "Dark Wood"
-      },
-      {
-        "qty": 2,
-        "name": "Gold Nugget"
-      },
-      {
-        "qty": 8,
-        "name": "Fabric"
-      }
-    ],
-    "image": null
-  },
-  {
     "name": "Mossy Circle-Carving Stone",
     "category": "Furniture",
     "yield": null,
@@ -4468,26 +4428,6 @@
     "image": "images/crafted/Mossy_Eye_Carving_Stone.png"
   },
   {
-    "name": "Mossy Fallen Pillar",
-    "category": "Furniture",
-    "yield": null,
-    "materials": [
-      {
-        "qty": 25,
-        "name": "Soil"
-      },
-      {
-        "qty": 50,
-        "name": "Stone"
-      },
-      {
-        "qty": 15,
-        "name": "Clay"
-      }
-    ],
-    "image": null
-  },
-  {
     "name": "Nasturtium and Marsh Milkweed Pot",
     "category": "Furniture",
     "yield": null,
@@ -4505,7 +4445,7 @@
         "name": "Purple Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Nasturtium_and_Marsh_Milkweed_Pot.png"
   },
   {
     "name": "Nautical Themed Couch",
@@ -4609,7 +4549,7 @@
         "name": "White Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Passion_Lily_and_Houseleek_Pot.png"
   },
   {
     "name": "Pink and Blue Flower Disk",
@@ -4657,7 +4597,7 @@
         "name": "Purple Impatiens"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink,_Blue_and_Purple_Flower_Rectangle.png"
   },
   {
     "name": "Pink, Red, and Purple Flower Rectangle",
@@ -4681,7 +4621,7 @@
         "name": "Orange Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink,_Red_and_Purple_Flower_Rectangle.png"
   },
   {
     "name": "Pink, Yellow, and Black Flower Disk",
@@ -4705,7 +4645,7 @@
         "name": "Red Nasturtium"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pink,_Yellow_and_Black_Flower_Disk.png"
   },
   {
     "name": "Pink, Yellow, and Blue Balloon Arch",
@@ -4729,7 +4669,7 @@
         "name": "Yellow Bromeliad"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue,_Yellow_and_Pink_Balloon_Arch.png"
   },
   {
     "name": "Pink, Yellow, and Blue Balloon Cluster",
@@ -4753,7 +4693,7 @@
         "name": "Yellow Bromeliad"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue,_Yellow_and_Pink_Balloon_Cluster.png"
   },
   {
     "name": "Purple Egg Lamppost",
@@ -4961,7 +4901,7 @@
         "name": "Red Nasturtium"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red,_Blue_and_Green_Flower_Rectangle.png"
   },
   {
     "name": "Red, White, and Purple Flower Rectangle",
@@ -4985,7 +4925,7 @@
         "name": "Purple Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red,_White_and_Purple_Flower_Rectangle.png"
   },
   {
     "name": "Red, Yellow, and Black Balloon Cluster",
@@ -5009,7 +4949,7 @@
         "name": "Black Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red,_Black,_and_Yellow_Balloon_Cluster.png"
   },
   {
     "name": "Refreshment Chest",
@@ -5085,7 +5025,7 @@
         "name": "Amethyst"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Lamppost_with_Blue_Light.png"
   },
   {
     "name": "Round Lamppost with Orange Light",
@@ -5105,7 +5045,7 @@
         "name": "Citrine"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Lamppost_with_Orange_Light.png"
   },
   {
     "name": "Round Lamppost with Pink Light",
@@ -5125,7 +5065,7 @@
         "name": "Tourmaline"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Lamppost_with_Pink_Light.png"
   },
   {
     "name": "Round Lamppost with White Light",
