@@ -19,9 +19,6 @@ export default function NavBar() {
         </Link>
       </div>
       <div className="nav-links">
-        {/* First child, and pushed hard left by `margin-right: auto` in the CSS,
-            so it anchors the row's far left while the auth links stay right. */}
-        <SiteUpdates />
         {loading ? null : user ? (
           <>
             <span className="nav-greeting welcome-heading">Welcome back, {user.username}</span>
@@ -35,6 +32,9 @@ export default function NavBar() {
           </>
         )}
       </div>
+      {/* Its own row in the header's normal flow, below the links, so the
+          entries are on screen without a click. */}
+      <SiteUpdates />
     </nav>
   );
 }

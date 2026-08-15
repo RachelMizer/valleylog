@@ -264,6 +264,53 @@ and re-sorted, because `crops.json` has a pre-existing ordering wobble
 (`Rice`, `Ring Squash`, `Rhubarb`) that a full sort would silently "fix",
 turning an 8-row diff into a whole-file one.
 
+### Site Updates made visible at all times
+
+The pill and its panel are gone; the entries themselves now sit in the header on
+every page with nothing to click. `SiteUpdates.jsx` lost its `open` state, the
+toggle button, and the click-outside and Escape handlers along with it — it is a
+plain `<section>` that renders the list unconditionally. Posting an entry is
+unchanged: still one edit to **`frontend/src/data/updates.json`**, newest first,
+and still nothing rendered at all when that file is empty.
+
+**Always-open forced it out of `position: absolute`.** The panel floated so that
+opening it never reflowed the header — but a floating panel that never closes
+sits permanently on top of the first screenful of every page. So it moved out of
+`.nav-links` and became its own row in the header's normal flow, below the links.
+Reflow is no longer something to avoid; it is the point.
+
+Two sizing decisions worth keeping:
+
+- Width is `max-width: min(750px, 100%)` with auto side margins, matching the
+  logo's width and centre axis. **The `100%` half is still load-bearing** for
+  the same reason the old `calc(100vw - 3rem)` was: the nav sits *outside* the
+  width-capped `main` column, so an absolute width here is free to push the page
+  wider than a narrow screen.
+- The height cap (`min(35vh, 240px)`, then scroll) is on **`.site-updates-list`,
+  not the card**. Entries accumulate and never expire. Capping the card would
+  scroll the "Site Updates" heading out of view along with them, and leaving it
+  uncapped would eventually push the page's own content off the bottom.
+
+The `34rem` rules that gave the pill its own centred row went with the pill. The
+`.nav-links` wrap at that width stayed — it was introduced for the pill, but the
+auth links overflow a right-justified row on a narrow screen without it.
+
+**A trap for the next `react-dom/server` assertion written here** (that being the
+established way to check this component): React's SSR path emits `<time
+dateTime=…>` with the **prop's camelCase spelling verbatim**, not the `datetime`
+the client renderer produces. Harmless — HTML attribute names are
+case-insensitive — but a case-sensitive `includes('datetime="…"')` fails against
+markup that is perfectly correct. Match case-insensitively. Six assertions pass:
+list renders with no state to set, no `<button>` survives, heading present, ISO
+string intact, date formats as *August 15* and not *August 14*, note text
+present. `npm run build` and `oxlint` are both clean.
+
+Not verified by eye — there is no browser in the loop here, so the card's
+appearance against the header's blue gradient is unchecked. It is `--surface`
+white with a shadow softened from the popover's `0 10px 30px / 0.35` to
+`0 4px 14px / 0.25`, since it now only needs to lift off the gradient rather
+than float over content.
+
 ---
 
 ## 2026-08-05
