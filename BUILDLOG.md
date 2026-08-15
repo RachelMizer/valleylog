@@ -50,6 +50,51 @@ That check matters here because 14 of the new filenames contain `,` or `&`, and
 `JSON.stringify(d, null, 2).replace(/\n/g, "\r\n") + "\r\n"` or the whole file
 shows up as changed.
 
+### Second batch: 4 renames, 38 more images
+
+Renamed `Black and White Mickey Mouse Water Tower` → `Mickey Mouse Water Tower`
+and `Dumptruck Armchair` → `Dump Truck Armchair`, and attached 38 images
+covering 39 rows. 404 of 422 rows now have artwork, up from 316 at the start of
+the day.
+
+**The Three-Pronged Lamppost family had two more transcription defects**, both
+found only because a supplied filename failed to match any row.
+`Round Blue Three-Pronged` had lost the word "Lamppost" outright, and
+`Round Pink Three-ProngedLamppost` had lost the space before it. Three sibling
+rows and the filenames agree on the correct form, so both were fixed — same
+class as the `Flat-Stop`/`Flat-Top` fix above. Note the pink one *did* match
+automatically, because the normalizer strips spaces; a name can be visibly
+broken in the table and still match cleanly. Only the blue one announced itself.
+
+**A superseded swatch can outlive its row when the replacement filename
+differs.** The blue lamppost pointed at `Round_Blue_Three_Pronged.png` (1.5 KB
+swatch, underscores) while the replacement arrived as
+`Round_Blue_Three-Pronged_Lamppost.png` (16 KB, hyphen), so re-pointing the row
+left the old file orphaned rather than overwriting it. It was deleted after
+asserting no other row referenced it. Contrast `Low_Sculpted_Pillar.png` above,
+where the filename was identical and the copy just overwrote in place — worth
+checking for whenever a replacement lands under a new name.
+
+**One image is deliberately shared by two rows** — `Elevated_Display_Bubble.png`
+covers both `Elevated / Low Display Bubble` and
+`Large Elevated / Low Display Bubble`, per the user. The matcher maps a filename
+to a *list* of rows for this reason; a 1:1 assumption would reject it.
+
+Seven more filenames needed hand-mapping because the noun differs from the row
+name (`Mossy_Stones.png` → `Mossy Stone Fence`, `Autumnal_Bind_Barrier.png` →
+`Autumnal Bind Fence`, `Bridge_Lamppost.png` → `Bridge Lamp Post`, and the rose
+stone fences). The quoted-title files needed nothing — normalization already
+strips the quotes and apostrophes, so `_La_Ratatouille__Sign.png` and
+`_Don't_Put_'Em_All_in_One_Basket__Basket.png` matched on their own.
+
+**Still missing:** `White_Rose_Stones.png` was requested but is not in
+`dev/images/crafted/`, so `White Rose Stone Fence` remains imageless — same
+situation as `Leaf-Strewn Path with Border` and `Tropical Companion Home`. Those
+three are the only rows in this session's scope still waiting on a file.
+
+All 404 image URLs re-verified against the dev server; apostrophes and `&`
+survive `encodeURI` untouched and serve fine.
+
 ---
 
 ## 2026-08-05

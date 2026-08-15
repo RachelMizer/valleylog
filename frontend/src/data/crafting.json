@@ -537,7 +537,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Even_More_Miraculous_Pickaxe_Polish.png"
   },
   {
     "name": "Miracle Shovel Varnish",
@@ -577,7 +577,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Even_More_Miraculous_Shovel_Varnish.png"
   },
   {
     "name": "Miracle Fishing Bait",
@@ -617,7 +617,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Even_More_Miraculous_Fishing_Bait.png"
   },
   {
     "name": "Miracle Growth Elixir",
@@ -657,7 +657,7 @@
         "name": "Dreamlight"
       }
     ],
-    "image": null
+    "image": "images/crafted/Even_More_Miraculous_Growth_Elixir.png"
   },
   {
     "name": "Digging Training Manual",
@@ -1569,7 +1569,7 @@
         "name": "Candy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Deluxe_Sugar_Cookie_Pavement.png"
   },
   {
     "name": "Red Bronze Pathway",
@@ -1937,7 +1937,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Iron_Crafting_Station.png"
   },
   {
     "name": "Gray Mailbox",
@@ -3316,7 +3316,7 @@
     "image": "images/crafted/Bench.png"
   },
   {
-    "name": "Black and White Mickey Mouse Water Tower",
+    "name": "Mickey Mouse Water Tower",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -3333,7 +3333,7 @@
         "name": "White Bell Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mickey_Mouse_Water_Tower.png"
   },
   {
     "name": "Black Wrought Iron Streetlamp",
@@ -3477,7 +3477,7 @@
         "name": "Aquamarine"
       }
     ],
-    "image": null
+    "image": "images/crafted/Blue_Light_High_Beach_Torch.png"
   },
   {
     "name": "Blue Light Low Beach Torch",
@@ -3661,7 +3661,7 @@
         "name": "Iron Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Cart.png"
   },
   {
     "name": "Classic Snowman",
@@ -4741,7 +4741,7 @@
         "name": "Amethyst"
       }
     ],
-    "image": null
+    "image": "images/crafted/Purple_Wrought_Iron_Streetlamp.png"
   },
   {
     "name": "Purple, Pink, and Yellow Flower Disk",
@@ -4765,7 +4765,7 @@
         "name": "Yellow Daisy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Purple,_Pink_and_Yellow_Flower_Disk.png"
   },
   {
     "name": "Rectangular Soil Area",
@@ -4801,7 +4801,7 @@
         "name": "Black Passion Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_and_Black_Passion_Lily_Pot.png"
   },
   {
     "name": "Red Egg Lamppost",
@@ -4988,7 +4988,7 @@
     "image": "images/crafted/Right_Signpost.png"
   },
   {
-    "name": "Round Blue Three-Pronged",
+    "name": "Round Blue Three-Pronged Lamppost",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -5005,7 +5005,7 @@
         "name": "Amethyst"
       }
     ],
-    "image": "images/crafted/Round_Blue_Three_Pronged.png"
+    "image": "images/crafted/Round_Blue_Three-Pronged_Lamppost.png"
   },
   {
     "name": "Round Lamppost with Blue Light",
@@ -5085,7 +5085,7 @@
         "name": "Diamond"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Lamppost_with_White_Light.png"
   },
   {
     "name": "Round Orange Three-Pronged Lamppost",
@@ -5105,10 +5105,10 @@
         "name": "Citrine"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Orange_Three-Pronged_Lamppost.png"
   },
   {
-    "name": "Round Pink Three-ProngedLamppost",
+    "name": "Round Pink Three-Pronged Lamppost",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -5125,7 +5125,7 @@
         "name": "Tourmaline"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_Pink_Three-Pronged_Lamppost.png"
   },
   {
     "name": "Round Soil Area",
@@ -5161,7 +5161,7 @@
         "name": "Diamond"
       }
     ],
-    "image": null
+    "image": "images/crafted/Round_White_Three-Pronged_Lamppost.png"
   },
   {
     "name": "Rustic Clock Tower",
@@ -5949,7 +5949,7 @@
         "name": "White Rose"
       }
     ],
-    "image": null
+    "image": "images/crafted/Black_Rose_Stones.png"
   },
   {
     "name": "Red Rose Stone Fence",
@@ -5973,7 +5973,7 @@
         "name": "Crimson Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/Red_Rose_Stones.png"
   },
   {
     "name": "Mossy Stone Fence",
@@ -5993,7 +5993,7 @@
         "name": "Fairy Bubbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mossy_Stones.png"
   },
   {
     "name": "Broken Cobblestone Path",
@@ -6013,7 +6013,7 @@
         "name": "Common Club Rush"
       }
     ],
-    "image": null
+    "image": "images/crafted/Broken_Cobblestones.png"
   },
   {
     "name": "Autumnal Bind Fence",
@@ -6033,7 +6033,7 @@
         "name": "Yellow Tale Cone Flower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Autumnal_Bind_Barrier.png"
   },
   {
     "name": "Lilo's Bunk Bed",
@@ -6064,7 +6064,7 @@
     "image": "images/crafted/Lilo_s_Bunk_Bed.png"
   },
   {
-    "name": "Dumptruck Armchair",
+    "name": "Dump Truck Armchair",
     "category": "Furniture",
     "yield": null,
     "materials": [
@@ -6089,7 +6089,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/Dump_Truck_Armchair.png"
   },
   {
     "name": "Fountain of Thebes",
@@ -6645,7 +6645,7 @@
         "name": "Fuchsia Eternal Poppies"
       }
     ],
-    "image": null
+    "image": "images/crafted/The_Stained_Glass_Window_to_Imagination.png"
   },
   {
     "name": "Greek Mosaic Rug",
@@ -6829,7 +6829,7 @@
         "name": "Story Magic"
       }
     ],
-    "image": null
+    "image": "images/crafted/_La_Ratatouille__Sign.png"
   },
   {
     "name": "Agrabah Chair",
@@ -6969,7 +6969,7 @@
         "name": "Ruby"
       }
     ],
-    "image": null
+    "image": "images/crafted/Bridge_Lamppost.png"
   },
   {
     "name": "Classroom Pens and Pencils",
@@ -6989,7 +6989,7 @@
         "name": "Slate Gray Rose"
       }
     ],
-    "image": null
+    "image": "images/crafted/Classroom_Pens_&_Pencils.png"
   },
   {
     "name": "Atrium Candles",
@@ -7249,7 +7249,7 @@
         "name": "Fiber"
       }
     ],
-    "image": null
+    "image": "images/crafted/_Don't_Put_'Em_All_in_One_Basket__Basket.png"
   },
   {
     "name": "Spring Egg Bounty",
@@ -7345,7 +7345,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/_End_of_the_Rainbow__Cauldron.png"
   },
   {
     "name": "Transparent Blooming Teapot",
@@ -7369,7 +7369,7 @@
         "name": "Ruby"
       }
     ],
-    "image": null
+    "image": "images/crafted/Transparent_Blooming_Teapot.png"
   },
   {
     "name": "Display Pillar",
@@ -7421,7 +7421,7 @@
         "name": "Red Candy"
       }
     ],
-    "image": null
+    "image": "images/crafted/Mickey's_Halloween_Candy_Bowl.png"
   },
   {
     "name": "Archery Target",
@@ -7633,7 +7633,7 @@
         "name": "Purple Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/Parade_Festival_Arch.png"
   },
   {
     "name": "Cinderella Popcorn Bucket",
@@ -8201,7 +8201,7 @@
         "name": "S'mores"
       }
     ],
-    "image": null
+    "image": "images/crafted/Summer_Crafting_Station.png"
   },
   {
     "name": "Sizzling BBQ Cooking Station",
@@ -8221,7 +8221,7 @@
         "name": "S'mores"
       }
     ],
-    "image": null
+    "image": "images/crafted/Sizzling_BBQ_Cooking_Station.png"
   },
   {
     "name": "Wooden Training Dummy",
@@ -8285,7 +8285,7 @@
         "name": "Brass Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Small_Heap_of_Riches.png"
   },
   {
     "name": "Medium Heap of Riches",
@@ -8305,7 +8305,7 @@
         "name": "Spinel"
       }
     ],
-    "image": null
+    "image": "images/crafted/Medium_Heap_of_Riches.png"
   },
   {
     "name": "Large Heap of Riches",
@@ -8329,7 +8329,7 @@
         "name": "Spinel"
       }
     ],
-    "image": null
+    "image": "images/crafted/Large_Heap_of_Riches.png"
   },
   {
     "name": "Broken Teacup",
@@ -8361,7 +8361,7 @@
         "name": "Fairy Bubbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Elevated_Display_Bubble.png"
   },
   {
     "name": "Large Elevated / Low Display Bubble",
@@ -8377,6 +8377,6 @@
         "name": "Fairy Bubbles"
       }
     ],
-    "image": null
+    "image": "images/crafted/Elevated_Display_Bubble.png"
   }
 ]
