@@ -803,7 +803,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Plain Yogurt",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "Everafter",
     "realm": "Storybook Vale (DLC)",
     "price": 240,
@@ -857,7 +857,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Ambrosia",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 140,
@@ -875,7 +875,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Elysian Grain",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 260,
@@ -884,7 +884,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Golden Apple",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 220,
@@ -974,7 +974,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Flyleaf Feta",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "The Bind",
     "realm": "Storybook Vale (DLC)",
     "price": 150,
@@ -992,7 +992,7 @@
   {
     "vendor": "Goofy's Stall",
     "name": "Shovel Bird Eggs",
-    "itemType": "Seed",
+    "itemType": "Rotating Ingredient",
     "zone": "The Bind",
     "realm": "Storybook Vale (DLC)",
     "price": 160,

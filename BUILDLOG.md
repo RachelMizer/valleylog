@@ -159,13 +159,26 @@ The same 8 fruits were the only stall ingredients with a `null` image, so
 `vendor.json` now points them at the crops artwork, the way its other rows
 already reuse `images/crops/`.
 
-**Still wrong, and deliberately left alone:** 6 `vendor.json` rows carry
-`itemType: "Seed"` while being nothing of the kind — Plain Yogurt, Ambrosia,
-Elysian Grain, Golden Apple, Flyleaf Feta, Shovel Bird Eggs. This is faithful to
-`dev/goofy_stall_items.txt`, which lists them inside each zone's seed block
-rather than under Rotating Ingredients, so the extraction copied the source's
-shape. They are also the only 6 rows still without an image. Fixing it means
-deciding what they actually are, which is a data question, not a parsing one.
+**6 `vendor.json` rows carried `itemType: "Seed"` while being nothing of the
+kind** — Plain Yogurt, Ambrosia, Elysian Grain, Golden Apple, Flyleaf Feta,
+Shovel Bird Eggs — and are now retyped `Rotating Ingredient`.
+
+The cause is a gap in the source, not a parsing slip. Base-game zones in
+`dev/goofy_stall_items.txt` split their stock under an explicit
+`**Rotating Ingredients**` heading, but the three Storybook Vale zones (The
+Bind, Everafter, Mythopia) have no such heading at all — seeds and ingredients
+sit in one flat list. Everything ahead of a heading that never arrives was read
+as a seed.
+
+Retyped to the existing `Rotating Ingredient` rather than a new `Ingredient`
+value, because `VendorTab` derives its filter chips from
+`[...new Set(rows.map(r => r.itemType))]`; a third value would have put an
+`Ingredient` chip next to a `Rotating Ingredient` chip for the same kind of
+thing. Split is now 52 seeds / 59 ingredients.
+
+**The invariant to assert on next time:** every `Seed` row's name ends in
+`" Seed"`, and every name ending in `" Seed"` is typed `Seed`. Both directions
+now hold, and either would have caught all 6 rows immediately.
 
 **A third JSON format.** `crops.json` and `vendor.json` are LF *with* a trailing
 newline, `gems.json` is LF *without* one, and `crafting.json` is CRLF with one.
