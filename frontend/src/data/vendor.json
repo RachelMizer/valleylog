@@ -807,7 +807,7 @@
     "zone": "Everafter",
     "realm": "Storybook Vale (DLC)",
     "price": 240,
-    "image": null
+    "image": "images/ingredients/Plain_Yogurt.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -861,7 +861,7 @@
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 140,
-    "image": null
+    "image": "images/ingredients/Ambrosia.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -879,7 +879,7 @@
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 260,
-    "image": null
+    "image": "images/ingredients/Elysian_Grain.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -888,7 +888,7 @@
     "zone": "Mythopia",
     "realm": "Storybook Vale (DLC)",
     "price": 220,
-    "image": null
+    "image": "images/ingredients/Golden_Apple.png"
   },
   {
     "vendor": "Goofy's Stall",
@@ -978,7 +978,7 @@
     "zone": "The Bind",
     "realm": "Storybook Vale (DLC)",
     "price": 150,
-    "image": null
+    "image": "images/ingredients/Flyleaf_Feta.png"
   },
   {
     "vendor": "Goofy's Stall",

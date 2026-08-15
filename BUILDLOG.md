@@ -180,6 +180,19 @@ thing. Split is now 52 seeds / 59 ingredients.
 `" Seed"`, and every name ending in `" Seed"` is typed `Seed`. Both directions
 now hold, and either would have caught all 6 rows immediately.
 
+Five of the six then got artwork, which created
+`frontend/public/images/ingredients/` — a directory that existed once before and
+**was deleted on 2026-08-02 for holding 16 files from an incomplete extraction
+pass**, not because the location was wrong. It is recreated here holding exactly
+the 5 files that are actually referenced; the other 121 stay in `dev/` until
+something renders them. `vendor.json` is 110/111 imaged, `Shovel Bird Eggs`
+being the only row with no artwork anywhere in the repo — its sole match is the
+dish `Shovel_Bird_Eggs_Benedict.png`, which is a different thing.
+
+Note these 5 go to `images/ingredients/`, not `images/crops/` where the 8
+foraged fruits went. The fruits are on the crops tab and share its artwork;
+yogurt, feta and grain are not crops and should not borrow that folder.
+
 **A third JSON format.** `crops.json` and `vendor.json` are LF *with* a trailing
 newline, `gems.json` is LF *without* one, and `crafting.json` is CRLF with one.
 Always check the file in front of you.

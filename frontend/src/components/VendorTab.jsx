@@ -12,8 +12,8 @@ const MULTI_VENDOR = new Set(KNOWN_VENDOR_ITEMS.map(r => r.vendor)).size > 1;
 const columns = [
   {
     // Unsortable and self-explanatory, so no header text -- same as the
-    // Cooking, Crops and Fish tabs. Foraged fruit and the handful of
-    // non-seed items have no artwork yet, so the cell can be empty.
+    // Cooking, Crops and Fish tabs. Shovel Bird Eggs is the last row with no
+    // artwork anywhere, so the cell still has to tolerate being empty.
     key: "image", label: "",
     render: r => (r.image
       ? <img className="table-thumb" src={encodeURI(`/${r.image}`)} alt="" loading="lazy" />
