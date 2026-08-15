@@ -101,6 +101,42 @@ three are the only rows in this session's scope still waiting on a file.
 All 404 image URLs re-verified against the dev server; apostrophes and `&`
 survive `encodeURI` untouched and serve fine.
 
+### Third batch: 15 files, 16 rows, and the table is nearly complete
+
+Crafting is at **419 of 422 rows imaged**, up from 316 this morning. This batch
+cleared two of the three files that were missing earlier —
+`Leaf-Strewn_Path_with_Border.png` and `Tropical_Companion_Home.png`.
+
+**One file covered both halves of a duplicate name.** The two
+`Yellow Light Low Beach Torch` rows are the same item with alternate recipes
+(one takes Topaz, one Garnet), so both now carry the single supplied icon —
+the same one-image-many-rows case as the display bubbles. Note the *other*
+known duplicate resolves the opposite way: the two `Iron Ingot` rows are
+genuinely different recipes with different inputs and carry `Iron_Ingot.png`
+and `Iron_Ingot_2.png` separately. Duplicate name is not by itself a reason to
+share artwork; check whether the rows are the same object.
+
+`Blue_Light_Low_Beach_Torch.png` replaced a 1.9 KB swatch **under the same
+filename**, so the copy overwrote in place and no JSON line changed — which is
+why the diff is 15 lines for 16 rows touched. Contrast the blue lamppost and
+Dreamlight swaps above, where a new filename left the old file orphaned and
+needing deletion.
+
+`White,_Yellow_and_Black_Balloon_Arch.png` belongs to the row still named
+`Yellow, Black, and White Balloon Arch`. Its cluster sibling *was* renamed to
+White/Yellow/Black earlier today, so the pair now read inconsistently in the
+table — left as-is on the standing instruction not to reorder balloon colour
+names, and flagged rather than fixed.
+
+**Unrelated bug spotted, not fixed:** `Yellow, Red, and Black Balloon Arch`
+lists `20 Black Passion Lilu`. Every other row says `Lily`, so a materials
+search for "Black Passion Lily" silently misses this row.
+
+The last 3 imageless rows — `Scrooge McDuck's Store Sign`,
+`Wooden Lamppost with Yellow Light`, `White Rose Stone Fence` — all have
+purple-swatch versions parked in `dev/images/crafted_purple_removed/` and
+nothing else, so they are waiting on transparent replacements.
+
 ### Gems tab: the last 15 ore icons
 
 The 15 non-gem mining drops (Stone, the ores, Marble, Pixie Dust, Antique

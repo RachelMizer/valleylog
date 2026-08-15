@@ -901,7 +901,7 @@
         "name": "Tourmaline"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gem_&_Opal_Road.png"
   },
   {
     "name": "Gold and Opal Road",
@@ -917,7 +917,7 @@
         "name": "Gold Ingot"
       }
     ],
-    "image": null
+    "image": "images/crafted/Gold_&_Opal_Road.png"
   },
   {
     "name": "Golden Brick Road",
@@ -1241,7 +1241,7 @@
         "name": "Soil"
       }
     ],
-    "image": null
+    "image": "images/crafted/Leaf-Strewn_Path_with_Border.png"
   },
   {
     "name": "Loose Gravel Path with Border",
@@ -1989,7 +1989,7 @@
         "name": "Glass"
       }
     ],
-    "image": null
+    "image": "images/crafted/Pale_Gray_Gas_Stove.png"
   },
   {
     "name": "Pastel Egg Cooking Station",
@@ -2989,7 +2989,7 @@
         "name": "Spinel"
       }
     ],
-    "image": null
+    "image": "images/crafted/Tropical_Companion_Home.png"
   },
   {
     "name": "Flying Companion Feeder",
@@ -5361,7 +5361,7 @@
         "name": "White and Pink Falling Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Star_Lily_and_Falling_Penstemon_Pot.png"
   },
   {
     "name": "Stellar Blue DJ Booth",
@@ -5597,7 +5597,7 @@
         "name": "Orange and Red Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/White,_Red_and_Purple_Flower_Disk.png"
   },
   {
     "name": "Wide Arched Window",
@@ -5713,7 +5713,7 @@
         "name": "Orange Star Lily"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow_and_White_Flower_Rectangle.png"
   },
   {
     "name": "Yellow Light High Beach Torch",
@@ -5737,7 +5737,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow_Light_High_Beach_Torch.png"
   },
   {
     "name": "Yellow Light Low Beach Torch",
@@ -5761,7 +5761,7 @@
         "name": "Topaz"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow_Light_Low_Beach_Torch.png"
   },
   {
     "name": "Yellow Light Low Beach Torch",
@@ -5785,7 +5785,7 @@
         "name": "Garnet"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow_Light_Low_Beach_Torch.png"
   },
   {
     "name": "Yellow, Black, and White Balloon Arch",
@@ -5809,7 +5809,7 @@
         "name": "White Marsh Milkweed"
       }
     ],
-    "image": null
+    "image": "images/crafted/White,_Yellow_and_Black_Balloon_Arch.png"
   },
   {
     "name": "Yellow, Green, and Purple Flower Rectangle",
@@ -5833,7 +5833,7 @@
         "name": "Green Rising Penstemon"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow,_Green_and_Purple_Flower_Rectangle.png"
   },
   {
     "name": "Yellow, Red, and Black Balloon Arch",
@@ -5857,7 +5857,7 @@
         "name": "Yellow Nasturtium"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow,_Red_and_Black_Balloon_Arch.png"
   },
   {
     "name": "Yellow, Red, and Blue Flower Disk",
@@ -5881,7 +5881,7 @@
         "name": "Sunflower"
       }
     ],
-    "image": null
+    "image": "images/crafted/Yellow,_Red_and_Blue_Flower_Disk.png"
   },
   {
     "name": "Zen Garden",
