@@ -87,6 +87,12 @@ stone fences). The quoted-title files needed nothing — normalization already
 strips the quotes and apostrophes, so `_La_Ratatouille__Sign.png` and
 `_Don't_Put_'Em_All_in_One_Basket__Basket.png` matched on their own.
 
+`Dreamlight ×250` was moved onto `Dreamlight_large.png` (73 KB) from a 482-byte
+swatch, and the swatch deleted — the same orphaning case as the blue lamppost,
+since the replacement again arrived under a new filename. The row is found by
+`name === "Dreamlight" && yield === 250`; the display string "Dreamlight x250"
+never exists in the data, because `CraftingTab` composes it from the two fields.
+
 **Still missing:** `White_Rose_Stones.png` was requested but is not in
 `dev/images/crafted/`, so `White Rose Stone Fence` remains imageless — same
 situation as `Leaf-Strewn Path with Border` and `Tropical Companion Home`. Those
