@@ -95,6 +95,36 @@ three are the only rows in this session's scope still waiting on a file.
 All 404 image URLs re-verified against the dev server; apostrophes and `&`
 survive `encodeURI` untouched and serve fine.
 
+### Gems tab: the last 15 ore icons
+
+The 15 non-gem mining drops (Stone, the ores, Marble, Pixie Dust, Antique
+Clothes Iron and so on) were the only rows the 2026-08-02 PDF extraction never
+found artwork for, and they sat at the top of the table with an empty Icon
+column. All 15 are now filled from `dev/images/gems/`; 66 of 67 rows have an
+icon, `Vitalys Crystal` being the sole holdout with no file anywhere.
+
+**`gems.json` is LF with no trailing newline — `crafting.json` is CRLF with
+one.** Reusing the crafting writer here rewrites all 700-odd lines instead of
+15. Check the file you are about to write, not the one you wrote last:
+
+    JSON.stringify(d, null, 2)                              // gems.json
+    JSON.stringify(d, null, 2).replace(/\n/g,"\r\n")+"\r\n" // crafting.json
+
+Two other things that differ from the Crafting tab and are easy to trip on:
+
+- **The field is `icon`, not `image`**, and `GemsTab` reads `r.icon`. A script
+  written against `crafting.json` will silently set an `image` key that nothing
+  renders.
+- **`GemsTab.jsx` builds its `src` as `` `/${r.icon}` `` with no `encodeURI``,
+  where `CraftingTab` wraps it.** Harmless today — all 66 icon paths are already
+  encode-clean — but a gem filename containing a space or `#` would break where
+  the same name works fine on the Crafting tab. Worth aligning if gem artwork
+  ever arrives with punctuation in it.
+
+Two key orders coexist in `gems.json` (`shape` sits before `sellPrice` in some
+rows, after `zones` in others). Mutating rows in place preserves that; rebuilding
+objects from scratch would silently normalize it and inflate the diff.
+
 ---
 
 ## 2026-08-05

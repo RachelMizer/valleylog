@@ -7,7 +7,7 @@
       "All Biomes"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Stone.png"
   },
   {
     "name": "Coal Ore",
@@ -17,7 +17,7 @@
       "All Biomes"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Coal_Ore.png"
   },
   {
     "name": "Iron Ore",
@@ -33,7 +33,7 @@
       "The Bind"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Iron_Ore.png"
   },
   {
     "name": "Gold Nugget",
@@ -48,7 +48,7 @@
       "Mythopia"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Gold_Nugget.png"
   },
   {
     "name": "Crystal",
@@ -58,7 +58,7 @@
       "Forgotten Lands"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Crystal.png"
   },
   {
     "name": "Copper",
@@ -70,7 +70,7 @@
       "Wild Tangle"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Copper.png"
   },
   {
     "name": "Quartz",
@@ -80,7 +80,7 @@
       "Ancient's Landing"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Quartz.png"
   },
   {
     "name": "Tin",
@@ -90,7 +90,7 @@
       "Glittering Dunes"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Tin.png"
   },
   {
     "name": "Zinc",
@@ -100,7 +100,7 @@
       "Wild Tangle"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Zinc.png"
   },
   {
     "name": "Petrified Wood",
@@ -111,7 +111,7 @@
       "Everafter"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Petrified_Wood.png"
   },
   {
     "name": "Marble",
@@ -121,7 +121,7 @@
       "Mythopia"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Marble.png"
   },
   {
     "name": "Antique Clothes Iron",
@@ -131,7 +131,7 @@
       "Glamour Gulch"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Antique_Clothes_Iron.png"
   },
   {
     "name": "Grassy Ore",
@@ -141,7 +141,7 @@
       "Pixie Acres"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Grassy_Ore.png"
   },
   {
     "name": "Pixie Dust",
@@ -152,7 +152,7 @@
       "Pixie Acres"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Pixie_Dust.png"
   },
   {
     "name": "Silver Ore",
@@ -162,7 +162,7 @@
       "Wishing Alps"
     ],
     "shape": null,
-    "icon": null
+    "icon": "images/gems/Silver_Ore.png"
   },
   {
     "name": "Amethyst",
