@@ -149,7 +149,7 @@ a {
    off-centre. */
 .site-updates {
   min-width: 0;
-  padding: 0.9rem 1.1rem;
+  padding: 0.6rem 0.8rem;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 10px;
