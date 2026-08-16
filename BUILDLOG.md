@@ -281,11 +281,15 @@ Reflow is no longer something to avoid; it is the point.
 
 Two sizing decisions worth keeping:
 
-- Width is `max-width: min(750px, 100%)` with auto side margins, matching the
-  logo's width and centre axis. **The `100%` half is still load-bearing** for
-  the same reason the old `calc(100vw - 3rem)` was: the nav sits *outside* the
-  width-capped `main` column, so an absolute width here is free to push the page
-  wider than a narrow screen.
+- Width is `max-width: min(750px, 100%)`, matching the logo above it. **The
+  `100%` half is still load-bearing** for the same reason the old
+  `calc(100vw - 3rem)` was: the nav sits *outside* the width-capped `main`
+  column, so an absolute width here is free to push the page wider than a narrow
+  screen. The card is anchored **far left**, where the pill used to sit —
+  `margin: 1.25rem auto 0 0`, a single auto on the *right* absorbing the free
+  space. (It was briefly centred with autos on both sides; below 750px the cap
+  hits 100% and the two are indistinguishable, which is easy to mistake for the
+  change not having applied.)
 - The height cap (`min(35vh, 240px)`, then scroll) is on **`.site-updates-list`,
   not the card**. Entries accumulate and never expire. Capping the card would
   scroll the "Site Updates" heading out of view along with them, and leaving it

@@ -127,11 +127,15 @@ a {
    `max-width` rather than a fixed width, and capped at `100%` as well as in
    absolute terms, because the nav sits outside the width-capped `main` column,
    so an absolute width here is free to push the page wider than a narrow
-   screen. The 750px matches the logo above it, and `auto` side margins centre it
-   on the same axis. */
+   screen. The 750px matches the logo above it.
+
+   Anchored to the header's far left, where the pill used to sit: a single auto
+   margin on the *right* absorbs all the free space, so the left edge lines up
+   with the header's own 1.5rem padding. An auto on both sides would centre it
+   instead. Below 750px the cap hits 100% and the two look identical. */
 .site-updates {
   max-width: min(750px, 100%);
-  margin: 1.25rem auto 0;
+  margin: 1.25rem auto 0 0;
   padding: 0.9rem 1.1rem;
   background: var(--surface);
   border: 1px solid var(--border);
