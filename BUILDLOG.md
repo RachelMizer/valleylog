@@ -462,6 +462,38 @@ reached without credentials. Header shots are the live `/login` page; tab shots
 use a harness page loading the *deployed* stylesheet with the real nine labels.
 Real CSS, reconstructed DOM.
 
+### Pick up here next session
+
+Everything above is **committed, pushed and live** on
+`https://valley-log.netlify.app`, verified against the deployed bundle rather
+than assumed. Working tree clean.
+
+**Artwork coverage as of end of day** — counted from the JSON, not from memory:
+
+| Dataset | Imaged | Missing |
+| --- | --- | --- |
+| `crops.json` | 65 / 65 | — |
+| `vendor.json` | 110 / 111 | Shovel Bird Eggs |
+| `gems.json` | 66 / 67 | Vitalys Crystal |
+| `crafting.json` | 419 / 422 | Scrooge McDuck's Store Sign, Wooden Lamppost with Yellow Light, White Rose Stone Fence |
+| `creatures.json` | **16 / 107** | 91 rows |
+
+**Creatures is the next job** and by far the biggest gap — 91 of 107 rows have no
+artwork. That matches the note posted to the Site Updates panel today.
+
+**A fourth field name for artwork, which will catch out the next bulk script.**
+`crafting`, `crops`, `vendor` and `creatures` all use `image`; **`gems.json` uses
+`icon`** (`"icon": "images/gems/Stone.png"`). A coverage check written against
+`r.image` reports gems as 0/67 imaged and looks alarming — it is wrong, not the
+data. Confirmed here by reading the row shape before believing the count.
+
+Two things still unverified, both needing hardware rather than more code:
+
+- **The touch tab grid on a real phone.** Playwright emulation says it is right,
+  but emulation is not a device.
+- **iOS 16.0–16.3 specifically**, the window the media-query fix was for. The
+  deployed CSS is correct by inspection; nobody has loaded it on such a device.
+
 ---
 
 ## 2026-08-05
