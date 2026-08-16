@@ -68,29 +68,9 @@ a {
   background: linear-gradient(135deg, #485795, #2a344f);
 }
 
-/* Three columns, not a centred flex row: the Site Updates card takes column 1
-   and the logo column 2, and the empty column 3 mirrors column 1 so the logo
-   stays centred on the *header* rather than on whatever space the card leaves
-   over. Equal side columns are the whole trick -- unequal ones would centre the
-   logo on the remainder and it would visibly drift.
-
-   All three columns are proportional rather than fixed, and there is no
-   breakpoint: the card holds its place beside the logo at every width, which is
-   the point. `1fr 2fr 1fr` gives the card a quarter of the row and the logo a
-   half, so both scale together instead of one starving the other. A fixed 300px
-   side column cannot survive a phone -- two of them plus gaps exceed the whole
-   viewport. `minmax(0, ...)` on each is what lets them shrink at all, since a
-   grid item defaults to `min-width: auto` and refuses to go below its content.
-
-   Do not switch the middle column to `auto`: the logo would claim its full
-   750px and squeeze the card to 82px at 1024px wide, measured. */
 .brand-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr) minmax(0, 1fr);
-  align-items: center;
-  /* Shrinks with the viewport so the gutters stop stealing width from the card
-     exactly when it has least to spare. */
-  gap: clamp(0.5rem, 1.5vw, 1.5rem);
+  display: flex;
+  justify-content: center;
   margin-bottom: 1.5rem;
 }
 
@@ -104,10 +84,6 @@ a {
   max-width: 750px;
   height: auto;
   display: block;
-  /* The old `.brand-row` was a centred flex row, which centred the logo for
-     free. It is a grid now and `.brand` stretches its column, so the image has
-     to centre itself once the column is wider than the 750px cap. */
-  margin: 0 auto;
 }
 
 .nav-links {
@@ -139,68 +115,6 @@ a {
 
 .nav-links .link-button {
   color: #fff;
-}
-
-/* ---------- site updates ---------- */
-
-/* On screen at all times rather than behind a toggle, so this is a card in the
-   header's normal flow. In flow and not absolutely positioned: an always-open
-   panel that floats would sit permanently on top of the page's first screenful
-   of content.
-
-   It lives in column 1 of `.brand-row`'s grid, in line with the logo and hard
-   against the header's left padding. The column is a `1fr` share of whatever
-   the logo leaves, so no width needs stating here -- `min-width: 0` is the part
-   that matters, since a grid item defaults to `min-width: auto` and would
-   refuse to shrink below its longest unbreakable word, pushing the logo
-   off-centre. */
-.site-updates {
-  min-width: 0;
-  padding: 0.6rem 0.8rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  /* Lighter than the popover's was: this no longer floats over page content, it
-     just needs to lift off the header gradient. */
-  box-shadow: 0 4px 14px rgba(42, 52, 79, 0.25);
-  color: var(--text);
-  text-align: left;
-}
-
-.site-updates-heading {
-  margin: 0 0 0.75rem;
-  color: var(--text-h);
-  font-size: 1rem;
-}
-
-/* Entries accumulate and never expire, so the list -- not the whole card --
-   takes the height cap and scrolls past it. Capping the card instead would
-   scroll the heading away with the entries, and letting it grow unbounded would
-   eventually push the page itself off the bottom of the screen. */
-.site-updates-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  max-height: min(35vh, 240px);
-  overflow-y: auto;
-}
-
-.site-updates-list li + li {
-  margin-top: 0.9rem;
-  padding-top: 0.9rem;
-  border-top: 1px solid var(--border);
-}
-
-.site-updates-list time {
-  display: block;
-  color: var(--accent);
-  font-size: 0.82rem;
-  font-weight: 600;
-}
-
-.site-updates-list p {
-  margin: 0.3rem 0 0;
-  font-size: 0.92rem;
 }
 
 /* The auth links overflow a single right-justified row on narrow screens; let
@@ -565,6 +479,36 @@ button.tab-btn.active:hover:not(:disabled) {
   border-radius: 4px;
   padding: 0.05rem 0.3rem;
   font-size: 0.9em;
+}
+
+/* ---------- site updates ---------- */
+
+/* A page of its own now, so no height cap and no scrolling list: entries can
+   accumulate freely and the page just gets longer, which is what a page is for.
+   The header widget this replaced had to cap itself to avoid pushing the site's
+   content down the screen. */
+.updates-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.updates-list li + li {
+  margin-top: 1.4rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--border);
+}
+
+.updates-list time {
+  display: block;
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.updates-list p {
+  margin: 0.35rem 0 0;
+  line-height: 1.6;
 }
 
 /* ---------- dashboard panels (villagers, tasks, etc.) ---------- */

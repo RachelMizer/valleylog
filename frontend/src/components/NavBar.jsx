@@ -1,6 +1,5 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
-import SiteUpdates from "./SiteUpdates";
 
 export default function NavBar() {
   const { user, loading, logout } = useAuth();
@@ -14,15 +13,14 @@ export default function NavBar() {
   return (
     <nav className="top-nav">
       <div className="brand-row">
-        {/* Column 1 of the brand row's grid, so it sits at the far left in line
-            with the logo. The empty third column balances it and keeps the logo
-            centred on the header rather than on the space left over. */}
-        <SiteUpdates />
         <Link to="/" className="brand">
           <img src="/images/valley_log_logo_lt.png" alt="Valley Log" />
         </Link>
       </div>
       <div className="nav-links">
+        {/* Outside the auth branches so it shows in both states, and rendered
+            during `loading` too — it's public, so there's nothing to wait for. */}
+        <Link to="/updates">Site Updates</Link>
         {loading ? null : user ? (
           <>
             <span className="nav-greeting welcome-heading">Welcome back, {user.username}</span>

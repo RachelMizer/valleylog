@@ -11,6 +11,7 @@ import Login from "./pages/Login";
 import NotFound from "./pages/NotFound";
 import Onboarding from "./pages/Onboarding";
 import Signup from "./pages/Signup";
+import Updates from "./pages/Updates";
 import VerifyEmail from "./pages/VerifyEmail";
 import VerifyPending from "./pages/VerifyPending";
 
@@ -55,6 +56,9 @@ export default function App() {
           {/* Public: reachable from the footer whether or not you're signed in. */}
           <Route path="/help" element={<Help />} />
           <Route path="/legal" element={<Legal />} />
+          {/* Also public, and linked from the nav in both auth states, so it
+              must not sit behind ProtectedRoute. */}
+          <Route path="/updates" element={<Updates />} />
           <Route path="/verify-email" element={<VerifyEmail />} />
           <Route
             path="/login"
