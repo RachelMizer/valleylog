@@ -14,6 +14,10 @@ export default function NavBar() {
   return (
     <nav className="top-nav">
       <div className="brand-row">
+        {/* Column 1 of the brand row's grid, so it sits at the far left in line
+            with the logo. The empty third column balances it and keeps the logo
+            centred on the header rather than on the space left over. */}
+        <SiteUpdates />
         <Link to="/" className="brand">
           <img src="/images/valley_log_logo_lt.png" alt="Valley Log" />
         </Link>
@@ -32,9 +36,6 @@ export default function NavBar() {
           </>
         )}
       </div>
-      {/* Its own row in the header's normal flow, below the links, so the
-          entries are on screen without a click. */}
-      <SiteUpdates />
     </nav>
   );
 }
