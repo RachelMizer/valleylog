@@ -194,7 +194,18 @@ a {
 }
 
 main {
-  max-width: 1250px;
+  /* The `100%` half is load-bearing, and not the no-op it looks like. `margin:
+     0 auto` on a flex item (see `#root`) suppresses the usual cross-axis stretch,
+     so main is sized shrink-to-fit — and shrink-to-fit refuses to go below its
+     content's min-content width. The quote banner is `white-space: nowrap`, which
+     made that floor ~600px, so every viewport narrower than that got a
+     horizontally scrolling page instead of a clamped one. Capping at 100% lets
+     the clamp win; the banner then ellipsises as it was always meant to.
+
+     Deliberately a cap and not `width: 100%`: shrink-to-fit is what keeps main
+     hugging its content on wide screens, and forcing full width there would
+     stretch every table on every tab. */
+  max-width: min(1250px, 100%);
   margin: 0 auto;
   padding: 40px 24px;
 }
@@ -361,19 +372,29 @@ button:disabled {
 
 /* ---------- dashboard tabs ---------- */
 
-/* Centred and wrapping, never scrolling. `overflow-x: auto` used to let the row
-   slide horizontally, so the tabs sat in a different place depending on how wide
-   the window was; wrapping keeps every tab on screen and keeps the row centred
-   at any width instead. Wrap also has to stay for the centring to be safe — a
-   centred flex row that overflows clips its own left edge with no way to scroll
-   back to it. */
+/* One row, centred, never wrapping at any width. Wrapping used to be the way
+   every tab stayed on screen, but it also meant the row's height and the tabs'
+   positions both changed with the window width. Instead the row shrinks to fit:
+   type, padding and gap all scale with the viewport (see `.tab-btn`) down to a
+   floor, and only past that floor does the row scroll sideways.
+
+   `safe center` is doing real work here. A plain `justify-content: center` row
+   that overflows clips its own left edge with no way to scroll back to it —
+   which is why centring and scrolling looked mutually exclusive before. `safe`
+   falls back to start-alignment exactly when the row overflows, and that same
+   fallback is what a browser not understanding the keyword lands on anyway. */
 .tabs {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.25rem;
+  flex-wrap: nowrap;
+  justify-content: safe center;
+  overflow-x: auto;
+  gap: clamp(0.15rem, 0.05rem + 0.2vw, 0.25rem);
   border-bottom: 2px solid var(--border);
   margin: 24px 0;
+  /* Left visible, only ever drawn when the row actually overflows: with the
+     scrollbar hidden, a mouse user at that width has no way to reach the tabs
+     off the right edge. */
+  scrollbar-width: thin;
 }
 
 .tab-btn {
@@ -381,11 +402,16 @@ button:disabled {
   border: 1px solid var(--border);
   border-bottom: none;
   border-radius: 10px 10px 0 0;
-  padding: 0.6rem 1rem;
-  font-size: 0.9rem;
+  /* Scales so all nine tabs hold one row down to ~640px. The floors stop the
+     shrinking short of illegible; the row scrolls below them. */
+  padding: clamp(0.45rem, 0.3rem + 0.35vw, 0.6rem) clamp(0.4rem, 0.05rem + 1vw, 1rem);
+  font-size: clamp(0.65rem, 0.36rem + 0.85vw, 0.9rem);
   font-weight: 500;
   color: var(--text);
   white-space: nowrap;
+  /* Not the `0 1 auto` default: these labels can't wrap, so letting the boxes
+     shrink spills the text out of them rather than making the row narrower. */
+  flex: 0 0 auto;
 }
 
 /* Specificity-matched to the generic `button:hover:not(:disabled)` rule, which
@@ -406,6 +432,45 @@ button.tab-btn:hover:not(:disabled) {
 button.tab-btn.active:hover:not(:disabled) {
   background: #3d4b83;
   color: #fff;
+}
+
+/* Touch devices get a grid instead of the row: all nine tabs visible at once
+   with full-size tap targets, nothing hidden behind a swipe.
+
+   Gated on `pointer: coarse` as well as width, because narrowing a desktop
+   window must not swap formats — the row is meant to stay a row at every
+   desktop width, and a width-only query can't tell a 500px window from a phone.
+   A touch device reporting a fine pointer keeps the row, which still works.
+
+   Not aligned to the nav's `34rem`, the only other breakpoint in the project:
+   that one answers a different question — when the auth links stop fitting on
+   one row — and applies at any pointer type. */
+@media (max-width: 40rem) and (pointer: coarse) {
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    overflow-x: visible;
+    /* The rail these tabs sat on is what made them read as tabs; stacked
+       buttons don't need it, and it would just underline the whole block. */
+    border-bottom: none;
+  }
+
+  .tab-btn {
+    /* Buttons rather than tabs now, so: all four borders, rounded all round,
+       and 44px tall for a comfortable target. `.tab-btn.active` still wins on
+       specificity, so an active tab keeps the accent on all four edges. */
+    border-bottom: 1px solid var(--border);
+    border-radius: 10px;
+    min-height: 44px;
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  /* An odd number of tabs would otherwise leave a hole in the bottom row. */
+  .tab-btn:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
 }
 
 /* ---------- site footer ---------- */

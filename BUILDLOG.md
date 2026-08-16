@@ -315,6 +315,57 @@ white with a shadow softened from the popover's `0 10px 30px / 0.35` to
 `0 4px 14px / 0.25`, since it now only needs to lift off the gradient rather
 than float over content.
 
+### Responsive pass: `main`, and the tab row
+
+This had been sitting uncommitted in `index.css` across two sessions and is now
+in. Three independent changes.
+
+**`main` is `max-width: min(1250px, 100%)`, and the `100%` is not the no-op it
+looks like.** `margin: 0 auto` on a flex item — `#root` is the flex column —
+suppresses the usual cross-axis stretch, so `main` sizes shrink-to-fit, and
+shrink-to-fit refuses to go below its content's min-content width.
+`.quote-banner` is `white-space: nowrap`, which put that floor around 600px, so
+every viewport narrower than that got a horizontally scrolling page rather than
+a clamped one. The cap lets the clamp win and the banner ellipsises, which its
+`overflow: hidden; text-overflow: ellipsis` always intended. **Deliberately a
+cap and not `width: 100%`** — shrink-to-fit is what keeps `main` hugging its
+content on wide screens, and forcing full width would stretch every table on
+every tab.
+
+**The tab row stopped wrapping and started shrinking.** `flex-wrap: wrap` kept
+all nine tabs on screen but moved them: the row's height and every tab's
+position changed with the window width. Now type, padding and gap all `clamp()`
+against the viewport down to a floor, and only past that floor does the row
+scroll. `flex: 0 0 auto` on `.tab-btn` matters — the labels are `nowrap`, so the
+default `0 1 auto` would spill text out of the boxes instead of narrowing the
+row.
+
+**`justify-content: safe center` is the piece worth remembering.** A plain
+`center` row that overflows clips its own left edge with no way to scroll back
+to it, which is why centring and scrolling looked mutually exclusive here
+before. `safe` falls back to start-alignment exactly when the row overflows —
+and start is also where a browser that doesn't understand the keyword lands,
+since it drops the whole declaration and `justify-content` reverts to its
+initial value. The fallback is the same either way.
+
+**Touch devices get a 2-column grid instead**, all nine tabs at once with 44px
+targets, `:last-child:nth-child(odd)` spanning full width so an odd count leaves
+no hole. **Gated on `pointer: coarse` as well as width**, because narrowing a
+desktop window must not swap formats and a width-only query can't tell a 500px
+window from a phone.
+
+That grid is at `40rem` and is *not* aligned to the nav's `34rem` — the only
+other breakpoint here — which answers a different question (when the auth links
+stop fitting one row) and applies at any pointer type. The comment claiming this
+was "the first media query in the project" was already false when committed; the
+nav breakpoint arrived with the Site Updates pill. Corrected in place.
+
+**Unverified by eye.** No browser in this loop, so the ~640px one-row claim,
+the coarse-pointer grid, and the scroll behaviour past the floor are all
+reasoned from the CSS, not observed. `npm run build` passes and `oxlint` is
+clean apart from the pre-existing `AuthContext.jsx` fast-refresh warning. Worth
+opening on a phone before trusting the grid.
+
 ---
 
 ## 2026-08-05
