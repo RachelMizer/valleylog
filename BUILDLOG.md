@@ -289,7 +289,9 @@ Two sizing decisions worth keeping:
   `margin: 1.25rem auto 0 0`, a single auto on the *right* absorbing the free
   space. (It was briefly centred with autos on both sides; below 750px the cap
   hits 100% and the two are indistinguishable, which is easy to mistake for the
-  change not having applied.)
+  change not having applied.) **Superseded later the same day** — the card moved
+  into the brand row and lost both the width cap and the margins; see *Site
+  Updates moved in line with the logo* below.
 - The height cap (`min(35vh, 240px)`, then scroll) is on **`.site-updates-list`,
   not the card**. Entries accumulate and never expire. Capping the card would
   scroll the "Site Updates" heading out of view along with them, and leaving it
@@ -392,6 +394,73 @@ so that one is a guard against drift rather than a fix, and it costs 0.6 kB
 **The failure mode here was invisible in code review.** Nothing in `index.css`
 was wrong. The defect only existed in the build output, and only on a
 three-patch-version window of one browser.
+
+### Site Updates moved in line with the logo
+
+Final placement, after two wrong guesses at what "far left" meant. The card is
+**in the brand row, level with the logo**, not on a row of its own below the
+auth links. It keeps no width cap and no margins now; the grid column sizes it.
+
+`.brand-row` is a **three-column grid — card, logo, empty**. The empty third
+column is the load-bearing part: it mirrors the first, so the logo stays centred
+on the *header* rather than on whatever space the card leaves over. Unequal side
+columns let it drift visibly.
+
+**The side columns are a fixed `300px` and the logo takes the flexible middle,
+and it has to be that way round.** The obvious `1fr auto 1fr` was tried first:
+the logo claimed its full 750px and squeezed the card to **82px** at a 1024px
+viewport — measured, not guessed. The logo is already `width: 100%` under a
+750px cap so it shrinks gracefully; the card has a floor below which its text is
+not worth showing. The cost is that the logo renders at 569px at 1280px wide
+rather than 750px. Narrowing the card's column buys that back if it ever matters.
+
+Two knock-on effects:
+
+- **The logo image needed `margin: 0 auto`.** The old `.brand-row` was a centred
+  flex row, which centred it for free. `.brand` now stretches its grid column, so
+  the image has to centre itself once that column exceeds the 750px cap. Missed
+  on the first pass and caught only by measuring the `img` rather than the
+  anchor — the anchor was correctly positioned while the image inside it was not.
+- **Below `64rem` the row collapses to one column**, card full width, with
+  `order: -1` putting the logo back on top since the source order has the card
+  first.
+
+Padding then went `0.9rem 1.1rem` → `0.6rem 0.8rem`. At the card's fixed 300px
+column that gives the text back enough width to wrap one line shorter, so the
+card shortens on two counts.
+
+### Actually looking at it: Playwright, and a scare that was measurement error
+
+Every entry above this one said "unverified by eye". This is the session that
+fixed that. **Playwright drives WebKit and Chromium locally — no third-party
+service needed, and better than one**: its device descriptors set `hasTouch`,
+which is what makes `@media (pointer: coarse)` match at all. The free online
+"mobile view" tools only resize the viewport, so they cannot test the query the
+touch grid depends on.
+
+Everything measured out. Card at `left: 24px`; logo centred within 7px at every
+width (the residual is `scrollbar-gutter: stable` doing its job, not drift); the
+touch grid renders 2 columns, 9 tabs, 5 rows, `Stall Wares` spanning the last
+one, 44px targets — **confirmed on real WebKit**, which is what proves the
+media-query fix above actually reaches Safari. At 640px without touch all nine
+tabs hold one row with no scroll, which was the responsive pass's central claim
+and had been pure arithmetic until now.
+
+**The scare, worth writing down so it is not re-investigated.** WebKit reported
+horizontal overflow on iPhone: `scrollWidth 391` against `clientWidth 312`. It
+is an artifact, not a bug. WebKit returns `innerWidth: 312` even for a plain
+390px viewport — `390 ÷ 1.25`, this machine's 125% Windows display scaling
+leaking into Playwright's viewport emulation. Every element lays out correctly
+(`html`/`body`/`nav` at exactly 390, content at 342); only `clientWidth` is
+reported 1.25× small, so any `scrollWidth > clientWidth` check fires spuriously.
+It also crops WebKit screenshots to 312 of 390px, which looks like a rendering
+fault and is not. **Chromium is the accurate one on this machine; use WebKit for
+parsing/feature questions and Chromium for geometry.**
+
+One standing limitation: `/` is behind `ProtectedRoute`, so the tab row cannot be
+reached without credentials. Header shots are the live `/login` page; tab shots
+use a harness page loading the *deployed* stylesheet with the real nine labels.
+Real CSS, reconstructed DOM.
 
 ---
 
