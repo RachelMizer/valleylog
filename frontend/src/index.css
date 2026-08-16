@@ -74,16 +74,23 @@ a {
    over. Equal side columns are the whole trick -- unequal ones would centre the
    logo on the remainder and it would visibly drift.
 
-   The side columns are a fixed width and the *logo* takes the flexible middle,
-   deliberately that way round. With `1fr auto 1fr` the logo claimed its full
-   750px and squeezed the card to 82px at 1024px wide, which is unreadable. The
-   logo is already `width: 100%` up to a 750px cap, so it shrinks gracefully;
-   the card has a floor below which its text is not worth showing. */
+   All three columns are proportional rather than fixed, and there is no
+   breakpoint: the card holds its place beside the logo at every width, which is
+   the point. `1fr 2fr 1fr` gives the card a quarter of the row and the logo a
+   half, so both scale together instead of one starving the other. A fixed 300px
+   side column cannot survive a phone -- two of them plus gaps exceed the whole
+   viewport. `minmax(0, ...)` on each is what lets them shrink at all, since a
+   grid item defaults to `min-width: auto` and refuses to go below its content.
+
+   Do not switch the middle column to `auto`: the logo would claim its full
+   750px and squeeze the card to 82px at 1024px wide, measured. */
 .brand-row {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr) 300px;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr) minmax(0, 1fr);
   align-items: center;
-  gap: 1.5rem;
+  /* Shrinks with the viewport so the gutters stop stealing width from the card
+     exactly when it has least to spare. */
+  gap: clamp(0.5rem, 1.5vw, 1.5rem);
   margin-bottom: 1.5rem;
 }
 
@@ -194,21 +201,6 @@ a {
 .site-updates-list p {
   margin: 0.3rem 0 0;
   font-size: 0.92rem;
-}
-
-/* Not enough width to seat the card beside the logo without squeezing both, so
-   the brand row collapses to a single column and the card takes its own full
-   width. `order` puts the logo back on top, since the grid source order has the
-   card first for the three-column case. */
-@media (max-width: 64rem) {
-  .brand-row {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-
-  .brand-row .brand {
-    order: -1;
-  }
 }
 
 /* The auth links overflow a single right-justified row on narrow screens; let
