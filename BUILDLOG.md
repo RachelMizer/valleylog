@@ -366,6 +366,33 @@ reasoned from the CSS, not observed. `npm run build` passes and `oxlint` is
 clean apart from the pre-existing `AuthContext.jsx` fast-refresh warning. Worth
 opening on a phone before trusting the grid.
 
+### The minifier was silently dropping both media queries on older iOS
+
+**Read the built CSS, not just the source.** With no target configured, Vite
+defaults to `baseline-widely-available`, and the CSS minifier rewrote
+`(max-width: 40rem)` into media query **range syntax**, `(width <= 40rem)`.
+
+Range syntax needs **Safari 16.4**; the default target resolves to Safari
+**16.0**. The rewrite overshoots by a patch release, so on iOS 16.0–16.3 both
+`@media` blocks were unparseable and dropped whole — taking the touch tab grid
+with them, on exactly the devices it was written for. Caught by grepping the
+deployed stylesheet, not the source; the source is correct and always was.
+
+Fixed with `build.cssTarget` in `vite.config.js`, pinned to
+`['chrome87', 'edge88', 'firefox78', 'safari14']`. Both queries now emit
+long-hand, and the CSS is the same 12.5 kB. Side effect worth knowing:
+`clamp(a, b, c)` lowers to the equivalent `max(a, min(b, c))`, which is
+semantically identical and reaches further back.
+
+`build.target` is pinned to the same list. The bundle already parsed on Safari
+14 — its newest syntax is logical assignment (`??=`) and optional chaining —
+so that one is a guard against drift rather than a fix, and it costs 0.6 kB
+(0.1%). Verified with `node --check` on the built bundle.
+
+**The failure mode here was invisible in code review.** Nothing in `index.css`
+was wrong. The defect only existed in the build output, and only on a
+three-patch-version window of one browser.
+
 ---
 
 ## 2026-08-05
